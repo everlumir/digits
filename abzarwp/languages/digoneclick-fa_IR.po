@@ -1,0 +1,160 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Project-Id-Version: DIGITS: One Click Login/Signup Addon\n"
+"POT-Creation-Date: 2021-02-07 15:40+0330\n"
+"PO-Revision-Date: 2021-02-18 22:08+0330\n"
+"Last-Translator: \n"
+"Language-Team: فارسی\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: digoneclickls.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Report-Msgid-Bugs-To: \n"
+"Language: fa_IR\n"
+"X-Loco-Version: 2.5.0; wp-5.6.1\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: vendor\n"
+
+#: Puc/v4p6/Plugin/Ui.php:54
+msgid "View details"
+msgstr "مشاهده جزئیات"
+
+#: Puc/v4p6/Plugin/Ui.php:77
+#, php-format
+msgid "More information about %s"
+msgstr "اطلاعات بیشتر در مورد %s"
+
+#: Puc/v4p6/Plugin/Ui.php:128
+msgid "Check for updates"
+msgstr "بررسی بروزرسانی ها"
+
+#: Puc/v4p6/Plugin/Ui.php:213
+#, php-format
+msgctxt "the plugin title"
+msgid "The %s plugin is up to date."
+msgstr "افزونه %s به روز می باشد."
+
+#: Puc/v4p6/Plugin/Ui.php:215
+#, php-format
+msgctxt "the plugin title"
+msgid "A new version of the %s plugin is available."
+msgstr "نسخه جدیدی از افزونه %s در دسترس می باشد."
+
+#: Puc/v4p6/Plugin/Ui.php:217
+#, php-format
+msgctxt "the plugin title"
+msgid "Could not determine if updates are available for %s."
+msgstr "نمی توان تعیین کرد که آیا به روزرسانی ها برای %s  در دسترس هستند."
+
+#: Puc/v4p6/Plugin/Ui.php:223
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr "وضعیت بررسی بروزرسانی \"%s\" نامعلوم می باشد"
+
+#: Puc/v4p6/Vcs/PluginUpdateChecker.php:98
+msgid "There is no changelog available."
+msgstr "هیچ تغییری در دسترس نمی باشد."
+
+#: digoneclickls.php:84 digoneclickls.php:89
+msgid "One Click Login-Signup"
+msgstr "ورود - ثبت نام با یک کلیک"
+
+#: digoneclickls.php:95 digoneclickls.php:112
+msgid "Yes"
+msgstr "بله"
+
+#: digoneclickls.php:98 digoneclickls.php:115
+msgid "No"
+msgstr "خیر"
+
+#: digoneclickls.php:105
+msgid "Enable Third Party Actions"
+msgstr "اقدامات اضافی را فعال کنید"
+
+#: digoneclickls.php:200
+msgid "Login / Register"
+msgstr "ورود / ثبت نام"
+
+#: digoneclickls.php:202
+msgid "A verification code will be sent to your number"
+msgstr "کد تأیید به شماره شما ارسال می شود"
+
+#: digoneclickls.php:217
+msgid "Mobile Number"
+msgstr "شماره موبایل"
+
+#: digoneclickls.php:227
+msgid "OTP"
+msgstr "گذرواژه یکبار مصرف ( OTP )"
+
+#: digoneclickls.php:248
+msgid "Proceed"
+msgstr "ادامه دادن"
+
+#: digoneclickls.php:252
+msgid "Proceed With WhatsApp"
+msgstr "با واتس اپ ادامه دهید"
+
+#: digoneclickls.php:256
+msgid "Resend OTP"
+msgstr "ارسال مجدد OTP"
+
+#: digoneclickls.php:318
+msgid "Please enter a valid captcha!"
+msgstr "لطفاً کد امنیتی را به درستی وارد کنید!"
+
+#: digoneclickls.php:363
+msgid "User is already logged in!"
+msgstr "کاربر قبلاً وارد شده است!"
+
+#: digoneclickls.php:384 digoneclickls.php:406 digoneclickls.php:423
+msgid "Error"
+msgstr "خطا"
+
+#: digoneclickls.php:431
+msgid "Invalid OTP"
+msgstr "OTP نامعتبر است"
+
+#: digoneclickls.php:443
+msgid "Login Successful, Redirecting.."
+msgstr "ورود به سیستم موفقیت آمیز بود ، در حال هدایت به .."
+
+#: digoneclickls.php:454
+msgid "Unexpected error occurred! Please try again."
+msgstr "خطای غیرمنتظره ای رخ داد! لطفا دوباره تلاش کنید."
+
+#: digoneclickls.php:468
+msgid "Registration Successful, Redirecting.."
+msgstr "ثبت نام موفقیت آمیز بود، در حال هدایت .."
+
+#. Plugin Name of the plugin/theme
+msgid "DIGITS: One Click Login/Signup Addon"
+msgstr "افزودنی ثبت نام و ورود با یک کلیک برای دیجیتس"
+
+#. Plugin URI of the plugin/theme
+msgid "https://digits.unitedover.com/addons"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Have just one form for both login and signup process using mobile number."
+msgstr ""
+"با استفاده از شماره تلفن همراه ، می توانید فقط یک فرم برای ثبت نام و ورود به "
+"سیستم داشته باشید."
+
+#. Author of the plugin/theme
+msgid "UnitedOver"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.unitedover.com/"
+msgstr ""

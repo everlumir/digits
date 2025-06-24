@@ -1,0 +1,165 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Project-Id-Version: DIGITS: User Account Approval\n"
+"POT-Creation-Date: 2021-02-07 15:38+0330\n"
+"PO-Revision-Date: 2021-02-18 22:06+0330\n"
+"Last-Translator: \n"
+"Language-Team: فارسی\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: digapprove.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Report-Msgid-Bugs-To: \n"
+"Language: fa_IR\n"
+"X-Loco-Version: 2.5.0; wp-5.6.1\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: vendor\n"
+
+#: Puc/v4p6/Plugin/Ui.php:54
+msgid "View details"
+msgstr "مشاهده جزئیات"
+
+#: Puc/v4p6/Plugin/Ui.php:77
+#, php-format
+msgid "More information about %s"
+msgstr "اطلاعات بیشتر در مورد %s"
+
+#: Puc/v4p6/Plugin/Ui.php:128
+msgid "Check for updates"
+msgstr "بررسی بروزرسانی ها"
+
+#: Puc/v4p6/Plugin/Ui.php:213
+#, php-format
+msgctxt "the plugin title"
+msgid "The %s plugin is up to date."
+msgstr "افزونه %s به روز می باشد."
+
+#: Puc/v4p6/Plugin/Ui.php:215
+#, php-format
+msgctxt "the plugin title"
+msgid "A new version of the %s plugin is available."
+msgstr "نسخه جدیدی از افزونه %s موجود می باشد."
+
+#: Puc/v4p6/Plugin/Ui.php:217
+#, php-format
+msgctxt "the plugin title"
+msgid "Could not determine if updates are available for %s."
+msgstr "نمی توان تعیین کرد که آیا به روزرسانی ها برای %s  در دسترس هستند."
+
+#: Puc/v4p6/Plugin/Ui.php:223
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr "وضعیت بررسی بروزرسانی \"%s\" نامعلوم می باشد"
+
+#: Puc/v4p6/Vcs/PluginUpdateChecker.php:98
+msgid "There is no changelog available."
+msgstr "هیچ تغییری در دسترس نمی باشد."
+
+#: UserApproval.php:249
+msgid "Your account has been submitted for approval"
+msgstr "حساب شما برای دریافت تأیید به مدیر ارسال شده است"
+
+#: UserApproval.php:251
+msgid "Your account is pending for approval"
+msgstr "حساب شما در انتظار تأیید مدیر می باشد"
+
+#: UserApproval.php:253
+msgid "Your account is disabled"
+msgstr "حساب شما غیرفعال شده است"
+
+#: UserApproval.php:255
+msgid "Your account has been rejected"
+msgstr "حساب شما رد شده است"
+
+#: digapprove.php:72
+msgid "Disabled"
+msgstr "غیرفعال شده"
+
+#: digapprove.php:73
+msgid "Rejected"
+msgstr "رد شده"
+
+#: digapprove.php:74
+msgid "Pending"
+msgstr "در انتظار"
+
+#: digapprove.php:115
+msgid "Auto approve new registrations"
+msgstr "ثبت نام های جدید، به صورت خودکار تأیید شوند"
+
+#: digapprove.php:121
+msgid "Yes"
+msgstr "بله"
+
+#: digapprove.php:124
+msgid "No"
+msgstr "خیر"
+
+#: digapprove.php:130
+msgid "User roles to auto approve"
+msgstr "نقش های کاربر برای تأیید خودکار"
+
+#: functions.php:43
+msgid "Account Actions"
+msgstr "عملکردهای حساب"
+
+#: functions.php:56
+msgid "Error"
+msgstr "خطا"
+
+#: functions.php:60
+msgid "Error: User not found!"
+msgstr "خطا! کاربر یافت نشد"
+
+#: functions.php:66
+msgid "Unexpected error occured!"
+msgstr "خطای غیرمنتظره ای رخ داده است!"
+
+#: functions.php:102
+msgid "Approve"
+msgstr "تایید"
+
+#: functions.php:103
+msgid "Enable"
+msgstr "فعال کردن"
+
+#: functions.php:104
+msgid "Disable"
+msgstr "غیرفعال کردن"
+
+#: functions.php:105
+msgid "Reject"
+msgstr "رد کردن"
+
+#: functions.php:166
+msgid "Error! Please try again later"
+msgstr "خطا لطفاً بعداً دوباره امتحان کنید"
+
+#. Plugin Name of the plugin/theme
+msgid "DIGITS: User Account Approval"
+msgstr "افزودنی تایید حساب کاربری برای دیجیتس"
+
+#. Plugin URI of the plugin/theme
+msgid "https://digits.unitedover.com/addons"
+msgstr "https://digits.unitedover.com/addons"
+
+#. Description of the plugin/theme
+msgid "Approve, Reject, Disable User Accounts"
+msgstr "تأیید ، رد و غیرفعال کردن حساب های کاربری"
+
+#. Author of the plugin/theme
+msgid "UnitedOver"
+msgstr "تیم سازنده دیجیتس"
+
+#. Author URI of the plugin/theme
+msgid "https://www.unitedover.com/"
+msgstr "https://www.unitedover.com/"

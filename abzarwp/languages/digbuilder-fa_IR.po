@@ -1,0 +1,1481 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: plugin-update-checker\n"
+"POT-Creation-Date: 2020-08-07 03:09+0430\n"
+"PO-Revision-Date: 2020-08-07 04:18+0430\n"
+"Last-Translator: Mahdi Akrami <info@akrami.pro>\n"
+"Language-Team: AbzarWP.Com <info@AbzarWP.Com>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: Puc/v4p6/Plugin/Ui.php:54
+msgid "View details"
+msgstr "نمایش جزئیات"
+
+#: Puc/v4p6/Plugin/Ui.php:77
+#, php-format
+msgid "More information about %s"
+msgstr "اطلاعات بیشتر در مورد %s"
+
+#: Puc/v4p6/Plugin/Ui.php:128
+msgid "Check for updates"
+msgstr "بررسی برای بروزرسانی"
+
+#: Puc/v4p6/Plugin/Ui.php:213
+#, fuzzy, php-format
+#| msgid "This plugin is up to date."
+msgctxt "the plugin title"
+msgid "The %s plugin is up to date."
+msgstr "شما از آخرین نسخه استفاده میکنید . به‌روز باشید"
+
+#: Puc/v4p6/Plugin/Ui.php:215
+#, fuzzy, php-format
+#| msgid "A new version of this plugin is available."
+msgctxt "the plugin title"
+msgid "A new version of the %s plugin is available."
+msgstr "نسخه جدیدی برای افزونه ارائه شده است ."
+
+#: Puc/v4p6/Plugin/Ui.php:217
+#, php-format
+msgctxt "the plugin title"
+msgid "Could not determine if updates are available for %s."
+msgstr ""
+
+#: Puc/v4p6/Plugin/Ui.php:223
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr "وضعیت ناشناخته برای بروزرسانی \"%s\""
+
+#: Puc/v4p6/Vcs/PluginUpdateChecker.php:98
+msgid "There is no changelog available."
+msgstr "تاریخچه تغییرات وجود ندارد."
+
+#: digbuilder.php:193
+msgid "Login / Register"
+msgstr ""
+
+#: digbuilder.php:194 includes/import_export.php:50
+#: includes/widget/element_form_widget.php:838
+#: includes/widget/element_form_widget.php:899
+msgid "Login"
+msgstr ""
+
+#: digbuilder.php:195 includes/import_export.php:51
+#: includes/widget/element_form_widget.php:862
+msgid "Register"
+msgstr ""
+
+#: digbuilder.php:196
+msgid "Forgot"
+msgstr ""
+
+#: digbuilder.php:199
+msgid "Primary Modal"
+msgstr ""
+
+#: digbuilder.php:200
+msgid "Primary Page"
+msgstr ""
+
+#: digbuilder.php:231
+msgid "select"
+msgstr ""
+
+#: includes/builder/Digits_Group_Control_Box_Style.php:27
+#, fuzzy
+#| msgid "Text Color"
+msgid "Font Color"
+msgstr "رنگ متن"
+
+#: includes/builder/Digits_Group_Control_Box_Style.php:35
+#, fuzzy
+#| msgid "Background Color"
+msgctxt "Background Control"
+msgid "Background Type"
+msgstr "رنگ پس زمینه"
+
+#: includes/builder/Digits_Group_Control_Box_Style.php:39
+msgctxt "Background Control"
+msgid "Classic"
+msgstr ""
+
+#: includes/builder/Digits_Group_Control_Box_Style.php:43
+msgctxt "Background Control"
+msgid "Gradient"
+msgstr ""
+
+#: includes/builder/Digits_Group_Control_Box_Style.php:52
+#, fuzzy
+#| msgid "Text Color"
+msgctxt "Background Control"
+msgid "Color"
+msgstr "رنگ متن"
+
+#: includes/builder/Digits_Group_Control_Box_Style.php:55
+#, fuzzy
+#| msgid "Background Color"
+msgctxt "Background Control"
+msgid "Background Color"
+msgstr "رنگ پس زمینه"
+
+#: includes/builder/Digits_Group_Control_Box_Style.php:65
+#: includes/builder/Digits_Group_Control_Box_Style.php:91
+msgctxt "Background Control"
+msgid "Location"
+msgstr ""
+
+#: includes/builder/Digits_Group_Control_Box_Style.php:80
+#, fuzzy
+#| msgid "Background Color"
+msgctxt "Background Control"
+msgid "Second Color"
+msgstr "رنگ پس زمینه"
+
+#: includes/builder/Digits_Group_Control_Box_Style.php:106
+msgctxt "Background Control"
+msgid "Type"
+msgstr ""
+
+#: includes/builder/Digits_Group_Control_Box_Style.php:109
+msgctxt "Background Control"
+msgid "Linear"
+msgstr ""
+
+#: includes/builder/Digits_Group_Control_Box_Style.php:110
+msgctxt "Background Control"
+msgid "Radial"
+msgstr ""
+
+#: includes/builder/Digits_Group_Control_Box_Style.php:121
+msgctxt "Background Control"
+msgid "Angle"
+msgstr ""
+
+#: includes/builder/Digits_Group_Control_Box_Style.php:144
+#, fuzzy
+#| msgid "Icon Position"
+msgctxt "Background Control"
+msgid "Position"
+msgstr "موقعیت آیکون"
+
+#: includes/builder/Digits_Group_Control_Box_Style.php:147
+#, fuzzy
+#| msgid "Center"
+msgctxt "Background Control"
+msgid "Center Center"
+msgstr "وسط"
+
+#: includes/builder/Digits_Group_Control_Box_Style.php:148
+#, fuzzy
+#| msgid "Center"
+msgctxt "Background Control"
+msgid "Center Left"
+msgstr "وسط"
+
+#: includes/builder/Digits_Group_Control_Box_Style.php:149
+#, fuzzy
+#| msgid "Center"
+msgctxt "Background Control"
+msgid "Center Right"
+msgstr "وسط"
+
+#: includes/builder/Digits_Group_Control_Box_Style.php:150
+#, fuzzy
+#| msgid "Center"
+msgctxt "Background Control"
+msgid "Top Center"
+msgstr "وسط"
+
+#: includes/builder/Digits_Group_Control_Box_Style.php:151
+#, fuzzy
+#| msgid "Left"
+msgctxt "Background Control"
+msgid "Top Left"
+msgstr "چپ"
+
+#: includes/builder/Digits_Group_Control_Box_Style.php:152
+#, fuzzy
+#| msgid "Right"
+msgctxt "Background Control"
+msgid "Top Right"
+msgstr "راست"
+
+#: includes/builder/Digits_Group_Control_Box_Style.php:153
+#, fuzzy
+#| msgid "Center"
+msgctxt "Background Control"
+msgid "Bottom Center"
+msgstr "وسط"
+
+#: includes/builder/Digits_Group_Control_Box_Style.php:154
+msgctxt "Background Control"
+msgid "Bottom Left"
+msgstr ""
+
+#: includes/builder/Digits_Group_Control_Box_Style.php:155
+msgctxt "Background Control"
+msgid "Bottom Right"
+msgstr ""
+
+#: includes/builder/Digits_Group_Control_Box_Style.php:169
+#, fuzzy
+#| msgid "Icon Spacing"
+msgid "Icon Size"
+msgstr "فاصله آیکون"
+
+#: includes/builder/Digits_Group_Control_Box_Style.php:189
+msgctxt "Border Control"
+msgid "Width"
+msgstr ""
+
+#: includes/builder/Digits_Group_Control_Box_Style.php:200
+#, fuzzy
+#| msgid "Text Color"
+msgctxt "Border Control"
+msgid "Color"
+msgstr "رنگ متن"
+
+#: includes/builder/Digits_Group_Control_Box_Style.php:212
+#: includes/builder/document.php:160
+#: includes/widget/element_button_widget.php:437
+#: includes/widget/element_form_widget.php:1422
+#: includes/widget/element_form_widget.php:1483
+#: includes/widget/element_form_widget.php:1560
+#: includes/widget/element_form_widget.php:1620
+#: includes/widget/element_form_widget.php:2218
+#: includes/widget/element_form_widget.php:2394
+msgid "Border Radius"
+msgstr "گردی حاشیه ( Border Radius)"
+
+#: includes/builder/Digits_Group_Control_Box_Style.php:221
+#: includes/builder/Digits_Group_Control_Box_Style.php:231
+msgctxt "Box Shadow Control"
+msgid "Box Shadow"
+msgstr ""
+
+#: includes/builder/Digits_Group_Control_Box_Style.php:223
+#: includes/builder/document.php:97 includes/builder/document.php:239
+#: includes/widget/element_form_widget.php:309
+#: includes/widget/element_form_widget.php:322
+#: includes/widget/element_form_widget.php:334
+#: includes/widget/element_form_widget.php:346
+#: includes/widget/element_form_widget.php:359
+#: includes/widget/element_form_widget.php:371
+#: includes/widget/element_form_widget.php:387
+#: includes/widget/element_form_widget.php:476
+#: includes/widget/element_form_widget.php:798
+#: includes/widget/element_form_widget.php:811
+#: includes/widget/element_form_widget.php:1104
+#: includes/widget/element_form_widget.php:1117
+#: includes/widget/element_form_widget.php:1132
+#: includes/widget/element_form_widget.php:1147
+msgid "Yes"
+msgstr ""
+
+#: includes/builder/Digits_Group_Control_Box_Style.php:224
+#: includes/builder/document.php:98 includes/builder/document.php:240
+#: includes/widget/element_form_widget.php:310
+#: includes/widget/element_form_widget.php:323
+#: includes/widget/element_form_widget.php:335
+#: includes/widget/element_form_widget.php:347
+#: includes/widget/element_form_widget.php:360
+#: includes/widget/element_form_widget.php:372
+#: includes/widget/element_form_widget.php:388
+#: includes/widget/element_form_widget.php:477
+#: includes/widget/element_form_widget.php:799
+#: includes/widget/element_form_widget.php:812
+#: includes/widget/element_form_widget.php:1105
+#: includes/widget/element_form_widget.php:1118
+#: includes/widget/element_form_widget.php:1133
+#: includes/widget/element_form_widget.php:1148
+msgid "No"
+msgstr ""
+
+#: includes/builder/Digits_Group_Control_Box_Style.php:242
+#, fuzzy
+#| msgid "Icon Position"
+msgctxt "Box Shadow Control"
+msgid "Position"
+msgstr "موقعیت آیکون"
+
+#: includes/builder/Digits_Group_Control_Box_Style.php:245
+msgctxt "Box Shadow Control"
+msgid "Outline"
+msgstr ""
+
+#: includes/builder/Digits_Group_Control_Box_Style.php:246
+msgctxt "Box Shadow Control"
+msgid "Inset"
+msgstr ""
+
+#: includes/builder/document.php:25
+#, fuzzy
+#| msgid "Digits"
+msgid "Digits Popup"
+msgstr "دیجیتس"
+
+#: includes/builder/document.php:57
+msgid "Popup Container"
+msgstr ""
+
+#: includes/builder/document.php:65
+msgid "Width"
+msgstr ""
+
+#: includes/builder/document.php:95
+msgid "Custom Height"
+msgstr ""
+
+#: includes/builder/document.php:107
+#: includes/widget/element_form_widget.php:2085
+#: includes/widget/element_form_widget.php:2255
+#, fuzzy
+#| msgid "Right"
+msgid "Height"
+msgstr "راست"
+
+#: includes/builder/document.php:142
+#: includes/widget/element_form_widget.php:2193
+#: includes/widget/element_form_widget.php:2369
+#, fuzzy
+#| msgid "Border Color"
+msgid "Border"
+msgstr "رنگ حاشیه (Border)"
+
+#: includes/builder/document.php:148
+#: includes/widget/element_form_widget.php:1410
+#: includes/widget/element_form_widget.php:1471
+#: includes/widget/element_form_widget.php:1548
+#: includes/widget/element_form_widget.php:1608
+#: includes/widget/element_form_widget.php:1786
+#: includes/widget/element_form_widget.php:1824
+#: includes/widget/element_form_widget.php:1938
+#: includes/widget/element_form_widget.php:1976
+#: includes/widget/element_form_widget.php:2206
+#: includes/widget/element_form_widget.php:2382
+#: includes/widget/element_form_widget.php:2524
+#, fuzzy
+#| msgid "Border Radius"
+msgid "Border Width"
+msgstr "گردی حاشیه ( Border Radius)"
+
+#: includes/builder/document.php:151
+#: includes/widget/element_button_widget.php:402
+#: includes/widget/element_form_widget.php:1413
+#: includes/widget/element_form_widget.php:1474
+#: includes/widget/element_form_widget.php:1551
+#: includes/widget/element_form_widget.php:1611
+#: includes/widget/element_form_widget.php:1789
+#: includes/widget/element_form_widget.php:1827
+#: includes/widget/element_form_widget.php:1941
+#: includes/widget/element_form_widget.php:1979
+#: includes/widget/element_form_widget.php:2209
+#: includes/widget/element_form_widget.php:2385
+#: includes/widget/element_form_widget.php:2534
+msgid "Border Color"
+msgstr "رنگ حاشیه (Border)"
+
+#: includes/builder/document.php:186
+msgid "Popup Container Background"
+msgstr ""
+
+#: includes/builder/document.php:208
+msgid "Popup Overlay Background"
+msgstr ""
+
+#: includes/builder/document.php:229 includes/builder/document.php:237
+#, fuzzy
+#| msgid "Button"
+msgid "Close Button"
+msgstr "دکمه"
+
+#: includes/builder/document.php:249
+#: includes/widget/element_button_widget.php:238
+msgid "Icon"
+msgstr "آیکون"
+
+#: includes/builder/document.php:262 includes/builder/document.php:524
+#: includes/widget/element_button_widget.php:336
+#: includes/widget/element_form_widget.php:1187
+#: includes/widget/element_form_widget.php:1388
+#: includes/widget/element_form_widget.php:1526
+#: includes/widget/element_form_widget.php:1763
+#: includes/widget/element_form_widget.php:1916
+#: includes/widget/element_form_widget.php:2111
+#: includes/widget/element_form_widget.php:2285
+#: includes/widget/element_form_widget.php:2432
+msgid "Normal"
+msgstr "معمولی"
+
+#: includes/builder/document.php:270 includes/builder/document.php:288
+msgid "Icon Styles"
+msgstr ""
+
+#: includes/builder/document.php:280
+#: includes/widget/element_button_widget.php:372
+#: includes/widget/element_form_widget.php:2151
+#: includes/widget/element_form_widget.php:2326
+#: includes/widget/element_form_widget.php:2460
+msgid "Hover"
+msgstr "هاور (Hover)"
+
+#: includes/builder/document.php:315
+msgid "Advanced"
+msgstr ""
+
+#: includes/builder/document.php:323
+msgid "Margin"
+msgstr ""
+
+#: includes/builder/document.php:335
+#: includes/widget/element_button_widget.php:457
+#: includes/widget/element_form_widget.php:1363
+#: includes/widget/element_form_widget.php:1670
+msgid "Padding"
+msgstr "Padding"
+
+#: includes/builder/document.php:351
+#, fuzzy
+#| msgid "Icon Position"
+msgid "Positioning"
+msgstr "موقعیت آیکون"
+
+#: includes/builder/document.php:360
+#, fuzzy
+#| msgid "Icon Position"
+msgid "Content Position"
+msgstr "موقعیت آیکون"
+
+#: includes/builder/document.php:366 includes/builder/document.php:418
+msgid "Top"
+msgstr ""
+
+#: includes/builder/document.php:370 includes/builder/document.php:422
+msgid "Middle"
+msgstr ""
+
+#: includes/builder/document.php:374 includes/builder/document.php:426
+msgid "Bottom"
+msgstr ""
+
+#: includes/builder/document.php:387
+#, fuzzy
+#| msgid "Icon Position"
+msgid "Horizontal Position"
+msgstr "موقعیت آیکون"
+
+#: includes/builder/document.php:392
+#: includes/widget/element_button_widget.php:203
+#: includes/widget/element_form_widget.php:1163
+#: includes/widget/element_form_widget.php:2042
+msgid "Left"
+msgstr "چپ"
+
+#: includes/builder/document.php:396
+#: includes/widget/element_button_widget.php:207
+#: includes/widget/element_form_widget.php:1167
+#: includes/widget/element_form_widget.php:2046
+msgid "Center"
+msgstr "وسط"
+
+#: includes/builder/document.php:400
+#: includes/widget/element_button_widget.php:211
+#: includes/widget/element_form_widget.php:1171
+#: includes/widget/element_form_widget.php:2050
+msgid "Right"
+msgstr "راست"
+
+#: includes/builder/document.php:413
+#, fuzzy
+#| msgid "Icon Position"
+msgid "Vertical Position"
+msgstr "موقعیت آیکون"
+
+#: includes/builder/document.php:444
+msgid "Motion Effects"
+msgstr ""
+
+#: includes/builder/document.php:453
+msgid "Entrance"
+msgstr ""
+
+#: includes/builder/document.php:463
+#, fuzzy
+#| msgid "Hover Animation"
+msgid "Animation"
+msgstr "انیمیشن هاور (Hover Animation)"
+
+#: includes/builder/document.php:467
+msgid "bounce"
+msgstr ""
+
+#: includes/builder/document.php:468
+msgid "flash"
+msgstr ""
+
+#: includes/builder/document.php:469
+msgid "pulse"
+msgstr ""
+
+#: includes/builder/document.php:470
+msgid "rubberBand"
+msgstr ""
+
+#: includes/builder/document.php:471
+msgid "shake"
+msgstr ""
+
+#: includes/builder/document.php:472
+msgid "swing"
+msgstr ""
+
+#: includes/builder/document.php:473
+msgid "tada"
+msgstr ""
+
+#: includes/builder/document.php:474
+msgid "wobble"
+msgstr ""
+
+#: includes/builder/document.php:475
+msgid "jello"
+msgstr ""
+
+#: includes/builder/document.php:476
+msgid "heartBeat"
+msgstr ""
+
+#: includes/builder/document.php:477
+msgid "bounceIn"
+msgstr ""
+
+#: includes/builder/document.php:478
+msgid "bounceInDown"
+msgstr ""
+
+#: includes/builder/document.php:479
+msgid "bounceInLeft"
+msgstr ""
+
+#: includes/builder/document.php:480
+msgid "bounceInRight"
+msgstr ""
+
+#: includes/builder/document.php:481
+msgid "bounceInUp"
+msgstr ""
+
+#: includes/builder/document.php:482
+msgid "fadeIn"
+msgstr ""
+
+#: includes/builder/document.php:483
+msgid "fadeInDown"
+msgstr ""
+
+#: includes/builder/document.php:484
+msgid "fadeInDownBig"
+msgstr ""
+
+#: includes/builder/document.php:485
+msgid "fadeInLeft"
+msgstr ""
+
+#: includes/builder/document.php:486
+msgid "fadeInLeftBig"
+msgstr ""
+
+#: includes/builder/document.php:487
+#, fuzzy
+#| msgid "Right"
+msgid "fadeInRight"
+msgstr "راست"
+
+#: includes/builder/document.php:488
+msgid "fadeInRightBig"
+msgstr ""
+
+#: includes/builder/document.php:489
+msgid "fadeInUp"
+msgstr ""
+
+#: includes/builder/document.php:490
+msgid "fadeInUpBig"
+msgstr ""
+
+#: includes/builder/document.php:491
+msgid "flip"
+msgstr ""
+
+#: includes/builder/document.php:492
+msgid "flipInX"
+msgstr ""
+
+#: includes/builder/document.php:493
+msgid "flipInY"
+msgstr ""
+
+#: includes/builder/document.php:494
+msgid "lightSpeedIn"
+msgstr ""
+
+#: includes/builder/document.php:495
+msgid "rotateIn"
+msgstr ""
+
+#: includes/builder/document.php:496
+msgid "rotateInDownLeft"
+msgstr ""
+
+#: includes/builder/document.php:497
+msgid "rotateInDownRight"
+msgstr ""
+
+#: includes/builder/document.php:498
+msgid "rotateInUpLeft"
+msgstr ""
+
+#: includes/builder/document.php:499
+msgid "rotateInUpRight"
+msgstr ""
+
+#: includes/builder/document.php:500
+msgid "slideInUp"
+msgstr ""
+
+#: includes/builder/document.php:501
+msgid "slideInDown"
+msgstr ""
+
+#: includes/builder/document.php:502
+msgid "slideInLeft"
+msgstr ""
+
+#: includes/builder/document.php:503
+msgid "slideInRight"
+msgstr ""
+
+#: includes/builder/document.php:504
+msgid "zoomIn"
+msgstr ""
+
+#: includes/builder/document.php:505
+msgid "zoomInDown"
+msgstr ""
+
+#: includes/builder/document.php:506
+msgid "zoomInLeft"
+msgstr ""
+
+#: includes/builder/document.php:507
+#, fuzzy
+#| msgid "Right"
+msgid "zoomInRight"
+msgstr "راست"
+
+#: includes/builder/document.php:508
+msgid "zoomInUp"
+msgstr ""
+
+#: includes/builder/document.php:509
+msgid "jackInTheBox"
+msgstr ""
+
+#: includes/builder/document.php:510
+msgid "rollIn"
+msgstr ""
+
+#: includes/builder/document.php:518
+#, fuzzy
+#| msgid "Hover Animation"
+msgid "Animation Speed"
+msgstr "انیمیشن هاور (Hover Animation)"
+
+#: includes/builder/document.php:522
+msgid "Faster"
+msgstr ""
+
+#: includes/builder/document.php:523
+msgid "Fast"
+msgstr ""
+
+#: includes/builder/document.php:525
+msgid "Slow"
+msgstr ""
+
+#: includes/builder/document.php:526
+msgid "Slower"
+msgstr ""
+
+#: includes/form.php:17 includes/widget/element_form_widget.php:434
+#: includes/widget/element_form_widget.php:440
+#: includes/widget/element_form_widget.php:766
+msgid "First Name"
+msgstr ""
+
+#: includes/form.php:121 includes/widget/element_form_widget.php:307
+#: includes/widget/element_form_widget.php:424
+msgid "Username"
+msgstr "نام کاربری"
+
+#: includes/form.php:139 includes/widget/element_form_widget.php:344
+#: includes/widget/element_form_widget.php:428
+msgid "Password"
+msgstr "گذرواژه"
+
+#: includes/form.php:150 includes/form.php:203 includes/functions.php:366
+#: includes/widget/element_form_widget.php:425
+msgid "Email/Mobile Number"
+msgstr "ایمیل/شماره موبایل"
+
+#: includes/form.php:153 includes/form.php:189 includes/functions.php:369
+#: includes/widget/element_form_widget.php:332
+#: includes/widget/element_form_widget.php:426
+msgid "Mobile Number"
+msgstr "شماره موبایل"
+
+#: includes/form.php:156 includes/form.php:212 includes/functions.php:370
+#: includes/widget/element_form_widget.php:320
+#: includes/widget/element_form_widget.php:427
+msgid "Email"
+msgstr "ایمیل"
+
+#: includes/form.php:179 includes/form.php:208
+msgid "Optional"
+msgstr "اختیاری"
+
+#: includes/form.php:297
+msgid "Signup With WhatsApp"
+msgstr "ثبت نام با واتس اپ"
+
+#: includes/form.php:328
+msgid "Back to login"
+msgstr "بازگشت به صفحه ورود"
+
+#: includes/import_export.php:23
+msgid "Close"
+msgstr ""
+
+#: includes/import_export.php:24 includes/main.php:111
+msgid "Preset Library"
+msgstr ""
+
+#: includes/import_export.php:31
+msgid "Please choose a file or drag it here"
+msgstr ""
+
+#: includes/import_export.php:46
+msgid "Select the form type you want to import"
+msgstr ""
+
+#: includes/import_export.php:48
+msgid "(select)"
+msgstr ""
+
+#: includes/import_export.php:49
+msgid "Login & Register"
+msgstr ""
+
+#: includes/import_export.php:52 includes/widget/element_form_widget.php:796
+#: includes/widget/element_form_widget.php:850
+#: includes/widget/element_form_widget.php:932
+#, fuzzy
+#| msgid "Password"
+msgid "Forgot Password"
+msgstr "گذرواژه"
+
+#: includes/import_export.php:55 includes/main.php:109
+#, fuzzy
+#| msgid "Export"
+msgid "Import"
+msgstr "برون بری (Export)"
+
+#: includes/import_export.php:78
+msgid "Fresh Start"
+msgstr ""
+
+#: includes/import_export.php:82
+msgid "Blank"
+msgstr ""
+
+#: includes/import_export.php:181
+msgid "Error: only json files are supported!"
+msgstr "خطا: فقط فایل با فرمت json پشتیبانی میشود!"
+
+#: includes/import_export.php:195
+msgid "Error: Nothing found to import!"
+msgstr "خطا: چیزی برای ایمپورت یافت نشد!"
+
+#: includes/import_export.php:206
+msgid "Unexpected error occurred  while importing!"
+msgstr "خطایی غیر منتظره در هنگام ایمپورت رخ داد!"
+
+#: includes/import_export.php:213
+msgid "The format is not supported!"
+msgstr "فرمت پشتیبانی نمیشود!"
+
+#: includes/import_export.php:222
+msgid "New Page"
+msgstr "برگه جدید"
+
+#: includes/import_export.php:224
+msgid "New Popup"
+msgstr "پاپ آپ جدید"
+
+#: includes/import_export.php:313
+msgid "Export"
+msgstr "برون بری (Export)"
+
+#: includes/main.php:15 includes/main.php:16 includes/post_cst.php:114
+msgid "Page Builder (Beta)"
+msgstr "صفحه ساز (بتا)"
+
+#: includes/main.php:21 includes/main.php:22 includes/post_cst.php:106
+msgid "Popup Builder (Beta)"
+msgstr "طراحی پاپ آپ (بتا)"
+
+#: includes/main.php:58
+msgid "I Agree [t]Terms and Conditions[/t] & [p]Privacy Policy[/t]"
+msgstr ""
+
+#: includes/main.php:73
+msgid "Digits"
+msgstr "دیجیتس"
+
+#: includes/main.php:110
+msgid "Import Preset"
+msgstr ""
+
+#: includes/main.php:112
+msgid "Please select the form type you want to import"
+msgstr ""
+
+#: includes/main.php:113
+#, fuzzy
+#| msgid "The format is not supported!"
+msgid "Multiple preset imports are not supported!"
+msgstr "فرمت پشتیبانی نمیشود!"
+
+#: includes/main.php:114
+#, fuzzy
+#| msgid "The format is not supported!"
+msgid "Browser not supported"
+msgstr "فرمت پشتیبانی نمیشود!"
+
+#: includes/main.php:115
+#, fuzzy
+#| msgid "Error: only json files are supported!"
+msgid "Only json are supported"
+msgstr "خطا: فقط فایل با فرمت json پشتیبانی میشود!"
+
+#: includes/main.php:116
+msgid "Error while loading presets"
+msgstr ""
+
+#: includes/main.php:149
+msgid "Shortcode"
+msgstr "شورت کد"
+
+#: includes/main.php:150 includes/widget/element_form_widget.php:460
+msgid "Date"
+msgstr "تاریخ"
+
+#: includes/post_cst.php:42
+msgctxt "Page Template"
+msgid "Elementor Canvas"
+msgstr ""
+
+#: includes/post_cst.php:43
+msgctxt "Page Template"
+msgid "Elementor Full Width"
+msgstr ""
+
+#: includes/post_cst.php:107
+msgid "Popup Builder"
+msgstr ""
+
+#: includes/post_cst.php:108
+#, fuzzy
+#| msgid "Popup"
+msgid "All Popups"
+msgstr "پاپ آپ (Popup)"
+
+#: includes/post_cst.php:109 includes/post_cst.php:110
+msgid "Add New Popup"
+msgstr "پاپ آپ جدید"
+
+#: includes/post_cst.php:111
+#, fuzzy
+#| msgid "Popup"
+msgid "Edit Popup"
+msgstr "پاپ آپ (Popup)"
+
+#: includes/post_cst.php:115
+msgid "Page Builder"
+msgstr ""
+
+#: includes/post_cst.php:116
+#, fuzzy
+#| msgid "Page"
+msgid "All Pages"
+msgstr "برگه"
+
+#: includes/post_cst.php:117 includes/post_cst.php:118
+msgid "Add New Page"
+msgstr "افزودن صفحه جدید"
+
+#: includes/post_cst.php:119
+#, fuzzy
+#| msgid "Page"
+msgid "Edit Page"
+msgstr "برگه"
+
+#: includes/widget/element_button_widget.php:68
+#: includes/widget/element_button_widget.php:138
+#: includes/widget/element_button_widget.php:309
+#: includes/widget/element_form_widget.php:2247
+msgid "Button"
+msgstr "دکمه"
+
+#: includes/widget/element_button_widget.php:117
+msgid "Extra Small"
+msgstr "خیلی کوچک"
+
+#: includes/widget/element_button_widget.php:118
+msgid "Small"
+msgstr "کوچک"
+
+#: includes/widget/element_button_widget.php:119
+msgid "Medium"
+msgstr "متوسط (Medium)"
+
+#: includes/widget/element_button_widget.php:120
+msgid "Large"
+msgstr "بزرگ (Large)"
+
+#: includes/widget/element_button_widget.php:121
+msgid "Extra Large"
+msgstr "خیلی بزرگ"
+
+#: includes/widget/element_button_widget.php:146
+#: includes/widget/element_form_widget.php:452
+msgid "Text"
+msgstr "متن"
+
+#: includes/widget/element_button_widget.php:151
+#: includes/widget/element_button_widget.php:152
+msgid "Click here"
+msgstr "اینجا کلیک کنید"
+
+#: includes/widget/element_button_widget.php:160
+msgid "Use as"
+msgstr "استفاده میشود به عنوان"
+
+#: includes/widget/element_button_widget.php:163
+msgid "Back"
+msgstr ""
+
+#: includes/widget/element_button_widget.php:164
+msgid "Popup Trigger"
+msgstr ""
+
+#: includes/widget/element_button_widget.php:165
+#, fuzzy
+#| msgid "Page"
+msgid "Page Link"
+msgstr "برگه"
+
+#: includes/widget/element_button_widget.php:174
+msgid "Popup"
+msgstr "پاپ آپ (Popup)"
+
+#: includes/widget/element_button_widget.php:186
+msgid "Page"
+msgstr "برگه"
+
+#: includes/widget/element_button_widget.php:199
+msgid "Alignment"
+msgstr "ترازبندی"
+
+#: includes/widget/element_button_widget.php:215
+msgid "Justified"
+msgstr "جاستیفاید (Justified)"
+
+#: includes/widget/element_button_widget.php:227
+#: includes/widget/element_form_widget.php:1725
+#: includes/widget/element_form_widget.php:1881
+msgid "Size"
+msgstr "سایز"
+
+#: includes/widget/element_button_widget.php:248
+msgid "Icon Position"
+msgstr "موقعیت آیکون"
+
+#: includes/widget/element_button_widget.php:252
+msgid "Before"
+msgstr "قبل"
+
+#: includes/widget/element_button_widget.php:253
+msgid "After"
+msgstr "بعد"
+
+#: includes/widget/element_button_widget.php:264
+msgid "Icon Spacing"
+msgstr "فاصله آیکون"
+
+#: includes/widget/element_button_widget.php:281
+msgid "View"
+msgstr "نمایش"
+
+#: includes/widget/element_button_widget.php:290
+msgid "Button ID"
+msgstr "آیدی دکمه"
+
+#: includes/widget/element_button_widget.php:296
+msgid "Add your custom id WITHOUT the Pound key. e.g: my-id"
+msgstr "آیدی دلخواه خود را وارد کنید. مثال: my-id"
+
+#: includes/widget/element_button_widget.php:298
+msgid ""
+"Please make sure the ID is unique and not used elsewhere on the page this "
+"form is displayed. This field allows <code>A-z 0-9</code> & underscore chars "
+"without spaces."
+msgstr ""
+"لطفا مطمئن شوید که آیدی شما منحصر به فرد باشد و در جای دیگیری از صفحه "
+"استفاده نشده باشید . شما مجاز به استفاده حروف A-z ، اعداد 0-9 و underscore "
+"( _ ) هستید."
+
+#: includes/widget/element_button_widget.php:343
+#: includes/widget/element_button_widget.php:379
+#: includes/widget/element_form_widget.php:1195
+#: includes/widget/element_form_widget.php:1230
+#: includes/widget/element_form_widget.php:1310
+#: includes/widget/element_form_widget.php:1339
+#: includes/widget/element_form_widget.php:1649
+#: includes/widget/element_form_widget.php:1740
+#: includes/widget/element_form_widget.php:1893
+#: includes/widget/element_form_widget.php:2017
+#: includes/widget/element_form_widget.php:2118
+#: includes/widget/element_form_widget.php:2158
+#: includes/widget/element_form_widget.php:2292
+#: includes/widget/element_form_widget.php:2333
+#: includes/widget/element_form_widget.php:2439
+#: includes/widget/element_form_widget.php:2467
+msgid "Text Color"
+msgstr "رنگ متن"
+
+#: includes/widget/element_button_widget.php:355
+#: includes/widget/element_button_widget.php:391
+#: includes/widget/element_form_widget.php:1395
+#: includes/widget/element_form_widget.php:1456
+#: includes/widget/element_form_widget.php:1533
+#: includes/widget/element_form_widget.php:1593
+#: includes/widget/element_form_widget.php:2138
+#: includes/widget/element_form_widget.php:2178
+#: includes/widget/element_form_widget.php:2312
+#: includes/widget/element_form_widget.php:2353
+msgid "Background Color"
+msgstr "رنگ پس زمینه"
+
+#: includes/widget/element_button_widget.php:416
+msgid "Hover Animation"
+msgstr "انیمیشن هاور (Hover Animation)"
+
+#: includes/widget/element_form_widget.php:290
+msgid "Login Fields"
+msgstr ""
+
+#: includes/widget/element_form_widget.php:292
+msgid "Forgot Fields"
+msgstr ""
+
+#: includes/widget/element_form_widget.php:357
+#: includes/widget/element_form_widget.php:944
+#: includes/widget/element_form_widget.php:946
+#: includes/widget/element_form_widget.php:1033
+#: includes/widget/element_form_widget.php:1035
+msgid "OTP"
+msgstr ""
+
+#: includes/widget/element_form_widget.php:369
+#: includes/widget/element_form_widget.php:459
+msgid "Captcha"
+msgstr ""
+
+#: includes/widget/element_form_widget.php:381
+#: includes/widget/element_form_widget.php:920
+#: includes/widget/element_form_widget.php:922
+msgid "Remember Me"
+msgstr ""
+
+#: includes/widget/element_form_widget.php:386
+msgid "Always"
+msgstr ""
+
+#: includes/widget/element_form_widget.php:429
+msgid "WordPress Fields"
+msgstr ""
+
+#: includes/widget/element_form_widget.php:430
+msgid "WooCommerce Fields"
+msgstr ""
+
+#: includes/widget/element_form_widget.php:431
+msgid "Custom"
+msgstr ""
+
+#: includes/widget/element_form_widget.php:435
+#: includes/widget/element_form_widget.php:441
+msgid "Last Name"
+msgstr ""
+
+#: includes/widget/element_form_widget.php:436
+msgid "Display Name"
+msgstr ""
+
+#: includes/widget/element_form_widget.php:437
+#: includes/widget/element_form_widget.php:486
+#: includes/widget/element_form_widget.php:714
+msgid "User Role"
+msgstr ""
+
+#: includes/widget/element_form_widget.php:442
+msgid "Company"
+msgstr ""
+
+#: includes/widget/element_form_widget.php:443
+msgid "Address Line 1"
+msgstr ""
+
+#: includes/widget/element_form_widget.php:444
+msgid "Address line 2"
+msgstr ""
+
+#: includes/widget/element_form_widget.php:445
+msgid "City"
+msgstr ""
+
+#: includes/widget/element_form_widget.php:446
+msgid "State"
+msgstr ""
+
+#: includes/widget/element_form_widget.php:447
+msgid "Country"
+msgstr ""
+
+#: includes/widget/element_form_widget.php:448
+msgid "Postcode / ZIP"
+msgstr ""
+
+#: includes/widget/element_form_widget.php:453
+#, fuzzy
+#| msgid "Text"
+msgid "Textarea"
+msgstr "متن"
+
+#: includes/widget/element_form_widget.php:454
+#, fuzzy
+#| msgid "Mobile Number"
+msgid "Number"
+msgstr "شماره موبایل"
+
+#: includes/widget/element_form_widget.php:455
+#: includes/widget/element_form_widget.php:1517
+msgid "DropDown"
+msgstr ""
+
+#: includes/widget/element_form_widget.php:456
+#: includes/widget/element_form_widget.php:1688
+msgid "Checkbox"
+msgstr ""
+
+#: includes/widget/element_form_widget.php:457
+#: includes/widget/element_form_widget.php:1846
+msgid "Radio"
+msgstr ""
+
+#: includes/widget/element_form_widget.php:458
+msgid "Terms & Conditions"
+msgstr ""
+
+#: includes/widget/element_form_widget.php:466
+#: includes/widget/element_form_widget.php:979
+msgid "Registration"
+msgstr ""
+
+#: includes/widget/element_form_widget.php:474
+msgid "Custom User Role"
+msgstr ""
+
+#: includes/widget/element_form_widget.php:498
+msgid "Form Fields"
+msgstr ""
+
+#: includes/widget/element_form_widget.php:517
+msgid "Type"
+msgstr ""
+
+#: includes/widget/element_form_widget.php:526
+#: includes/widget/element_form_widget.php:544
+#: includes/widget/element_form_widget.php:1293
+msgid "Field"
+msgstr ""
+
+#: includes/widget/element_form_widget.php:564
+msgid "Sub Type"
+msgstr ""
+
+#: includes/widget/element_form_widget.php:583
+msgid "Meta Key"
+msgstr ""
+
+#: includes/widget/element_form_widget.php:601
+#: includes/widget/element_form_widget.php:1095
+msgid "Label"
+msgstr ""
+
+#: includes/widget/element_form_widget.php:623
+msgid ""
+"Enclose the word(s) between [t] and [/t] for terms and condition and [p] and "
+"[/t] for privacy policy."
+msgstr ""
+
+#: includes/widget/element_form_widget.php:625
+msgid ""
+"For example \"I Agree [t]Terms and Conditions[/t] & [p]Privacy Policy[/t]\""
+msgstr ""
+
+#: includes/widget/element_form_widget.php:647
+msgid " Terms & Conditions Link"
+msgstr ""
+
+#: includes/widget/element_form_widget.php:665
+msgid "Privacy Link"
+msgstr ""
+
+#: includes/widget/element_form_widget.php:686
+#, fuzzy
+#| msgid "Optional"
+msgid "Options"
+msgstr "اختیاری"
+
+#: includes/widget/element_form_widget.php:689
+msgid "Enter each option in a separate line"
+msgstr ""
+
+#: includes/widget/element_form_widget.php:739
+msgid "Required"
+msgstr ""
+
+#: includes/widget/element_form_widget.php:788
+msgid "General Settings"
+msgstr ""
+
+#: includes/widget/element_form_widget.php:809
+msgid "Inline OTP Field"
+msgstr ""
+
+#: includes/widget/element_form_widget.php:829
+msgid "Redirection"
+msgstr ""
+
+#: includes/widget/element_form_widget.php:840
+#: includes/widget/element_form_widget.php:852
+#: includes/widget/element_form_widget.php:864
+msgid "Leave blank for auto redirect"
+msgstr "برای هدایت خودکار خالی بگذارید"
+
+#: includes/widget/element_form_widget.php:879
+msgid "Translation"
+msgstr ""
+
+#: includes/widget/element_form_widget.php:888
+msgid "Login and Forgot Password"
+msgstr ""
+
+#: includes/widget/element_form_widget.php:901
+msgid "Log In"
+msgstr ""
+
+#: includes/widget/element_form_widget.php:909
+#: includes/widget/element_form_widget.php:911
+msgid "Login With OTP"
+msgstr ""
+
+#: includes/widget/element_form_widget.php:934
+msgid "Forgot your Password?"
+msgstr ""
+
+#: includes/widget/element_form_widget.php:955
+#: includes/widget/element_form_widget.php:957
+#: includes/widget/element_form_widget.php:1043
+#: includes/widget/element_form_widget.php:1045
+msgid "Submit OTP"
+msgstr ""
+
+#: includes/widget/element_form_widget.php:966
+#: includes/widget/element_form_widget.php:968
+#: includes/widget/element_form_widget.php:1053
+#: includes/widget/element_form_widget.php:1055
+msgid "Resend OTP"
+msgstr ""
+
+#: includes/widget/element_form_widget.php:991
+#: includes/widget/element_form_widget.php:993
+msgid "Dont have an account?"
+msgstr ""
+
+#: includes/widget/element_form_widget.php:1001
+#: includes/widget/element_form_widget.php:1003
+#: includes/widget/element_form_widget.php:2003
+msgid "Signup"
+msgstr ""
+
+#: includes/widget/element_form_widget.php:1011
+#: includes/widget/element_form_widget.php:1013
+#, fuzzy
+#| msgid "Signup With WhatsApp"
+msgid "Signup With Password"
+msgstr "ثبت نام با واتس اپ"
+
+#: includes/widget/element_form_widget.php:1021
+#: includes/widget/element_form_widget.php:1023
+#, fuzzy
+#| msgid "Signup With WhatsApp"
+msgid "Signup With OTP"
+msgstr "ثبت نام با واتس اپ"
+
+#: includes/widget/element_form_widget.php:1070
+msgid "General"
+msgstr ""
+
+#: includes/widget/element_form_widget.php:1079
+#: includes/widget/element_form_widget.php:1696
+#: includes/widget/element_form_widget.php:1854
+#, fuzzy
+#| msgid "Icon Spacing"
+msgid "Row Spacing"
+msgstr "فاصله آیکون"
+
+#: includes/widget/element_form_widget.php:1102
+msgid "Show Label"
+msgstr ""
+
+#: includes/widget/element_form_widget.php:1115
+msgid "Floating Labels"
+msgstr ""
+
+#: includes/widget/element_form_widget.php:1130
+#: includes/widget/element_form_widget.php:1332
+msgid "Placeholder"
+msgstr ""
+
+#: includes/widget/element_form_widget.php:1145
+msgid "Show Asterisk"
+msgstr ""
+
+#: includes/widget/element_form_widget.php:1157
+#: includes/widget/element_form_widget.php:2036
+#, fuzzy
+#| msgid "Icon Position"
+msgid "Position"
+msgstr "موقعیت آیکون"
+
+#: includes/widget/element_form_widget.php:1222
+msgid "Active"
+msgstr ""
+
+#: includes/widget/element_form_widget.php:1261
+#: includes/widget/element_form_widget.php:1708
+#: includes/widget/element_form_widget.php:1866
+#: includes/widget/element_form_widget.php:2063
+#: includes/widget/element_form_widget.php:2097
+#: includes/widget/element_form_widget.php:2271
+#, fuzzy
+#| msgid "Icon Spacing"
+msgid "Spacing"
+msgstr "فاصله آیکون"
+
+#: includes/widget/element_form_widget.php:1303
+msgid "Value"
+msgstr ""
+
+#: includes/widget/element_form_widget.php:1449
+#: includes/widget/element_form_widget.php:1586
+msgid "Focus"
+msgstr ""
+
+#: includes/widget/element_form_widget.php:1770
+#: includes/widget/element_form_widget.php:1808
+#, fuzzy
+#| msgid "Text Color"
+msgid "Checkbox Color"
+msgstr "رنگ متن"
+
+#: includes/widget/element_form_widget.php:1801
+#: includes/widget/element_form_widget.php:1955
+msgid "Checked"
+msgstr ""
+
+#: includes/widget/element_form_widget.php:1923
+#: includes/widget/element_form_widget.php:1962
+#, fuzzy
+#| msgid "Border Color"
+msgid "Radio Color"
+msgstr "رنگ حاشیه (Border)"
+
+#: includes/widget/element_form_widget.php:2010
+msgid "Signup Text"
+msgstr ""
+
+#: includes/widget/element_form_widget.php:2076
+#, fuzzy
+#| msgid "Button"
+msgid "Signup Button"
+msgstr "دکمه"
+
+#: includes/widget/element_form_widget.php:2423
+msgid "Other Text"
+msgstr ""
+
+#: includes/widget/element_form_widget.php:2495
+msgid "Required Field Error"
+msgstr ""
+
+#: includes/widget/element_form_widget.php:2503
+#, fuzzy
+#| msgid "Text Color"
+msgid "Label Color"
+msgstr "رنگ متن"
+
+#: includes/widget/element_form_widget.php:2520
+msgid "Field Border"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "DIGITS: Builder"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://digits.unitedover.com/addons"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "This Digits addon allows you to create custom Login/Signup Page/Modal"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "UnitedOver"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.unitedover.com/"
+msgstr ""

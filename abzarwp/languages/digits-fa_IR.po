@@ -1,0 +1,8790 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DIGITS: WordPress Mobile Number Signup and Login\n"
+"PO-Revision-Date: 2023-10-10 17:25+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: digit.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"POT-Creation-Date: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+msgid "%1$s (#%2$s &ndash; %3$s)"
+msgstr "%1$s (#%2$s &ndash; %3$s)"
+
+msgid "%d-Factor Authentication is already enabled!"
+msgstr "%d-Factor Authentication قبلاً فعال شده است!"
+
+msgid "%d-Factor Authentication is not available"
+msgstr "احراز هویت %d-مرحله ای در دسترس نیست"
+
+msgid "%d-Factor Authentication is not enabled!"
+msgstr "احراز هویت %d-مرحله‌ای فعال نیست!"
+
+msgid "%d-Factor Authentication is now successfully enabled!"
+msgstr "احراز هویت %d-مرحله ای اکنون با موفقیت فعال شد!"
+
+msgid "%d-Factor Authentication is now turned off!"
+msgstr "احراز هویت %d-مرحله ای اکنون غیرفعال است!"
+
+msgid "%s Not Verified by Digits"
+msgstr "%s توسط دیجیتس تأیید نشد"
+
+msgid "%s Passcode"
+msgstr "رمز %s"
+
+msgid "%s Verified by Digits"
+msgstr "%s توسط دیجیتس تأیید شد"
+
+msgid "%s or %s Passcode"
+msgstr "رمز %s یا %s"
+
+msgid "%s, %s or %s Passcode"
+msgstr "رمز %s،%s یا %s"
+
+msgid "%s-Factor Authentication"
+msgstr "احرازهویت %s-مرحله ای"
+
+msgid "%sClick here%s to see how to find the purchase code"
+msgstr "برای مشاهده نحوه یافتن کد خرید، %sاینجا%s کلیک کنید"
+
+msgid "(Update Available)"
+msgstr "(بروزرسانی در دسترسی)"
+
+msgid "(required)"
+msgstr "(ضروری)"
+
+msgid "(select)"
+msgstr "(انتخاب)"
+
+msgid "*"
+msgstr "*"
+
+msgid "+ Add User"
+msgstr "+ افزودن کاربر"
+
+msgid "0"
+msgstr "0"
+
+msgid "1-Factor Authentication"
+msgstr "احراز هویت 1-مرحله"
+
+msgid "2-Factor Authentication"
+msgstr "احراز هویت 2-مرحله‌"
+
+msgid "2-Factor Authentication (2FA)"
+msgstr "احراز هویت 2-مرحله ای (2FA)"
+
+msgid "2-Factor Authentication Setup"
+msgstr "راه‌اندازی احراز‌هویت 2-مرحله ای"
+
+msgid "2-factor Authentication"
+msgstr "احراز هویت 2-مرحله‌ای"
+
+msgid "2FA App"
+msgstr "اپ احرازهویت‌2‌مرحله‌ای"
+
+msgid "2FA App (Google Auth, Authy, etc)"
+msgstr "برنامه 2FA (Google Auth، Authy و غیره)"
+
+msgid "2FA App (Google Auth, Authy, etc) Setup"
+msgstr "راه اندازی برنامه 2FA (Google Auth, Authy وغیره)"
+
+msgid "2FA Code"
+msgstr "کد احرازهویت‌2‌مرحله‌ای"
+
+msgid "3-Factor Authentication"
+msgstr "احراز هویت 3-مرحله"
+
+msgid "3-Factor Authentication (3FA)"
+msgstr "احراز هویت 3-مرحله ای (3FA)"
+
+msgid "3-Factor Authentication Setup"
+msgstr "راه‌اندازی احراز‌هویت 3-مرحله ای"
+
+msgid ""
+"95% of our users use <span>Free SMS Gateway</span> as it meets their needs"
+msgstr ""
+"95% o کاربران ما از <span>درگاه پیامک رایگان</span> استفاده می‌کنند تا "
+"نیازهایشان را برآورده کند"
+
+msgid ""
+"<b>Digits:</b> Please register digits with purchase code to enable automatic "
+"updates. Click <a href=\""
+msgstr ""
+"<b>Digits:</b> لطفا افزونه دیجیتس را با وراد کردن لایسنس فعال نمایید<a href=\""
+
+msgid ""
+"<div><p><b>Fatal Error</b>: Digits requires curl to work correctly. </p></div>"
+msgstr "<div><p><b>خطای جدی</b>افزونه با خطا مواجه شده است</p></div>"
+
+msgid ""
+"<span class=\"digits_desc_light\">Are you trying to login to your account from "
+"</span>%s<span class=\"digits_desc_light\"> via your </span>%s?"
+msgstr ""
+"<span class=\"digits_desc_light\">آیا می‌خواهید از </span>%s<span class="
+"\"digits_desc_light\"> از طریق </span>%s خود به حساب خود وارد شوید؟"
+
+msgid ""
+"<span>Change existing button</span> If you already have a button which on your "
+"site for login and signup"
+msgstr ""
+"<span>تغییر دکمه موجود</span> اگر از قبل دکمه ای برای ورود و ثبت نام در سایت "
+"خود دارید"
+
+msgid "<span>I don't</span> want to <span>use Builder</span>"
+msgstr "<span>نمیخواهم</span> از <span>سازنده</span> استفاده کنم"
+
+msgid ""
+"<span>SMS Gateway</span> is a service which is required to send SMS messages"
+msgstr "<span>درگاه پیامک</span> سرویسی است که برای ارسال پیامک مورد نیاز است"
+
+msgid "<span>Send Passcode on</span> %s"
+msgstr "<span>ارسال رمز در</span> %s"
+
+msgid "<span>Use</span> %s"
+msgstr "<span>استفاده</span> %s"
+
+msgid "A Coruña"
+msgstr "آکرونیا"
+
+msgid ""
+"A password reset email has been sent to the email address, but may take "
+"several minutes to show up in your inbox. Please wait at least 10 minutes "
+"before attempting another reset."
+msgstr ""
+"یک ایمیل بازنشانی رمز عبور به آدرس ایمیل ارسال شده است، اما ممکن است چندین "
+"دقیقه طول بکشد تا در صندوق ورودی شما ظاهر شود. لطفا حداقل 10 دقیقه صبر کنید تا "
+"دوباره ارسال مجدد شود."
+
+msgid "ADD FIELD"
+msgstr "افزودن فیلد"
+
+msgid "ADDONS"
+msgstr "اضافات"
+
+msgid "API Key"
+msgstr "کلید API"
+
+msgid "API Login"
+msgstr "API ورود"
+
+msgid "API Secret"
+msgstr "API Secret"
+
+msgid "API Settings"
+msgstr "تنظیمات API"
+
+msgid "API Token"
+msgstr "توکن API"
+
+msgid "API Username"
+msgstr "نام کاربری API"
+
+msgid "API Version (Optional)"
+msgstr "نسخه API (اختیاری)"
+
+msgid "APP Name"
+msgstr "نام برنامه"
+
+msgid "Aargau"
+msgstr "آرگو"
+
+msgid "Abia"
+msgstr "ابیا"
+
+msgid "Abim"
+msgstr "آبیم"
+
+msgid "Abra"
+msgstr "آبرا"
+
+msgid "Abuja"
+msgstr "ابوجا"
+
+msgid "AbzarWp Custom Settings"
+msgstr "تنظیمات سفارشی ابزاروردپرس"
+
+msgid "Accent Color"
+msgstr "رنگ Accent"
+
+msgid "Access Key"
+msgstr "کلید دسترسی"
+
+msgid "Access Key ID"
+msgstr "شناسه کلید دسترسی"
+
+msgid "Access Secret"
+msgstr "دسترسی مخفی"
+
+msgid "Access Token"
+msgstr "نشانه دسترسی"
+
+msgid "Account ID"
+msgstr "شناسه حساب"
+
+msgid "Account Number"
+msgstr "شماره حساب (Account Number)"
+
+msgid "Account SID"
+msgstr "SID حساب"
+
+msgid "Account Security"
+msgstr "امنیت حساب"
+
+msgid "Account Security Dashboard"
+msgstr "داشبورد امنیت حساب"
+
+msgid "Account details changed successfully."
+msgstr "جزئیات حساب با موفقیت تغییر کرد."
+
+msgid "AccountKit App Secret"
+msgstr "AccountKit App Secret"
+
+msgid "Acre"
+msgstr "آکری"
+
+msgid "Action"
+msgstr "عمل"
+
+msgid "Action failed. Please refresh the page and retry."
+msgstr "اقدام ناموفق بود. لطفا صفحه را تازه کنید و دوباره امتحان کنید."
+
+msgid "Action not allowed!"
+msgstr "اقدام مجاز نیست!"
+
+msgid "Activate Plugin"
+msgstr "فعال کردن پلاگین"
+
+msgid "Adamawa"
+msgstr "آماوا"
+
+msgid "Adana"
+msgstr "آدانا"
+
+msgid "Add Device"
+msgstr "اضافه کردن دستگاه"
+
+msgid "Add Email (Optional)"
+msgstr "افزودن ایمیل (اختیاری)"
+
+msgid "Add Email Address"
+msgstr "افزودن آدرس ایمیل"
+
+msgid "Add Login Flow"
+msgstr "افزودن حالت ورود"
+
+msgid "Add Phone (Optional)"
+msgstr "افزودن تلفن (اختیاری)"
+
+msgid "Add Security Key"
+msgstr "افزودن کلید امنیتی"
+
+msgid "Add a Option"
+msgstr "افزودن گزینه"
+
+msgid "Add customer on Add Order Page on dashboard using Modal"
+msgstr "اضافه کردن مشتری در صفحه سفارش در داشبورد با استفاده از ماژول"
+
+msgid "Add new user"
+msgstr "افزودن کاربر جدید"
+
+msgid "Add the IP(s) to not get blocked by our brute force detection system"
+msgstr "آی پی ها را اضافه کنید تا توسط سیستم تشخیص قدرتمند ما مسدود نشوند"
+
+msgid "Add to menu"
+msgstr "افزودن به منو"
+
+msgid "Address Line 1"
+msgstr "آدرس 1"
+
+msgid "Address Line 2"
+msgstr "آدرس 2"
+
+msgid "Adjumani"
+msgstr "آدومانی"
+
+msgid "Adrar"
+msgstr "آدرار"
+
+msgid "Advanced Options"
+msgstr "تنظیمات پیشرفته"
+
+msgid "Adıyaman"
+msgstr "آدیمان"
+
+msgid ""
+"After setting up your Signup form you can navigate from left hand pane to "
+"setup your Login Form and even style it accordingly."
+msgstr ""
+"پس از راه‌اندازی فرم ثبت‌نام، می‌توانید از سمت چپ برای راه‌اندازی فرم ورود خود "
+"حرکت کنید و حتی به آن استایل دهید."
+
+msgid "Afyon"
+msgstr "Afyon"
+
+msgid "Agago"
+msgstr "آگاگو"
+
+msgid "Agrigento"
+msgstr "Agrigento"
+
+msgid "Aguascalientes"
+msgstr "Aguascalientes"
+
+msgid "Agusan del Norte"
+msgstr "آگوسان شمالی"
+
+msgid "Agusan del Sur"
+msgstr "آگوسان جنوبی"
+
+msgid "Ahafo"
+msgstr "Ahafo"
+
+msgid "Ahuachapán"
+msgstr "آواچاچان"
+
+msgid "Aichi"
+msgstr "آیچی"
+
+msgid "Aisén del General Carlos Ibañez del Campo"
+msgstr "Aisén del General Carlos Ibañez del Campo"
+
+msgid "Akita"
+msgstr "آکیتا"
+
+msgid "Aklan"
+msgstr "آکلان"
+
+msgid "Aksaray"
+msgstr "آق سرای"
+
+msgid "Akwa Ibom"
+msgstr "اکوا ایبوم"
+
+msgid "Al Sharqia"
+msgstr "الشرقیه"
+
+msgid "Alabama"
+msgstr "آلاباما"
+
+msgid "Alagoas"
+msgstr "Alagoas"
+
+msgid "Alajuela"
+msgstr "آلاکولّا"
+
+msgid "Alaska"
+msgstr "آلاسکا"
+
+msgid "Alba"
+msgstr "آلبا"
+
+msgid "Albacete"
+msgstr "آلبومه"
+
+msgid "Albay"
+msgstr "آلبای"
+
+msgid "Alberta"
+msgstr "آلبرتا"
+
+msgid "Alborz (البرز)"
+msgstr "البرز"
+
+msgid "Alebtong"
+msgstr "آلبونگ"
+
+msgid "Alessandria"
+msgstr "حوش شراب Alessandria"
+
+msgid "Alexandria"
+msgstr "اسکندریه"
+
+msgid "Algiers"
+msgstr "الجزیره"
+
+msgid "Alibori"
+msgstr "الیبوری"
+
+msgid "Alicante"
+msgstr "آلیکانته"
+
+msgid "All Addons"
+msgstr "همه افزودنی ها"
+
+msgid "All Users"
+msgstr "همه کاربران"
+
+msgid "Allow Digits forms in iframe"
+msgstr "اجازه به فرم‌های دیجیتس در iframe"
+
+msgid "Allow Logins only from Digits Secure Form"
+msgstr "اجازه ورود فقط از فرم امن دیجیتس"
+
+msgid "Allow users to have multiple devices"
+msgstr "اجازه به کاربران به داشتن چندین دستگاه"
+
+msgid "Almería"
+msgstr "آلمریا"
+
+msgid "Already a member?"
+msgstr "قبلا عضو شده اید؟"
+
+msgid "Alta Verapaz"
+msgstr "آلتا وراپاز"
+
+msgid "Alto Paraguay"
+msgstr "آلتو پاراگوئه"
+
+msgid "Alto Paraná"
+msgstr "آلتو پارانا"
+
+msgid "Always"
+msgstr "همیشه"
+
+msgid "Amambay"
+msgstr "آماموی"
+
+msgid "Amapá"
+msgstr "آمپا"
+
+msgid "Amasya"
+msgstr "آبی"
+
+msgid "Amazonas"
+msgstr "آمازوناس"
+
+msgid "Amnat Charoen"
+msgstr "امنت چارون"
+
+msgid "Amolatar"
+msgstr "آمولاتار"
+
+msgid "Amudat"
+msgstr "آمودات"
+
+msgid "Amuria"
+msgstr "آموریا"
+
+msgid "Amuru"
+msgstr "آمورو"
+
+msgid ""
+"An account is already registered with that username. Please choose another."
+msgstr ""
+"قبلا این نام کاربری ثبت شده است. خواهشمندیم یک نام کاربری دیگر انتخاب کنید."
+
+msgid "An account is already registered with your email address. Please log in."
+msgstr ""
+"در حال حاضر یک حساب کاربری با آدرس ایمیل شما ثبت شده است. لطفا وارد شوید."
+
+msgid "Anambra"
+msgstr "آنامبرا"
+
+msgid "Ancash"
+msgstr "آنکاس"
+
+msgid "Ancona"
+msgstr "Ancona"
+
+msgid "Andaman and Nicobar Islands"
+msgstr "جزایر آندامان و نیکوبار"
+
+msgid "Andhra Pradesh"
+msgstr "آندرا پرادش"
+
+msgid "Anenii Noi"
+msgstr "آنیونی نوئی"
+
+msgid "Ang Thong"
+msgstr "انگتونگ"
+
+msgid "Anhui / 安徽"
+msgstr "آنهویی / 安徽"
+
+msgid "Ankara"
+msgstr "آنکارا"
+
+msgid "Annaba"
+msgstr "آنابه"
+
+msgid "Antalya"
+msgstr "آنتالیا"
+
+msgid "Antioquia"
+msgstr "آنتیوکیا"
+
+msgid "Antique"
+msgstr "عتیقه"
+
+msgid "Antofagasta"
+msgstr "انتوفگاستا"
+
+msgid "Anzoátegui"
+msgstr "آنزوادگی"
+
+msgid "Aomori"
+msgstr "اُموری"
+
+msgid "Aosta"
+msgstr "ائوستا"
+
+msgid "Apac"
+msgstr "آپاک"
+
+msgid "Apayao"
+msgstr "آپایاو"
+
+msgid "App ID"
+msgstr "شناسه برنامه"
+
+msgid "App Secret"
+msgstr "App Secret"
+
+msgid "AppSid"
+msgstr "AppSid"
+
+msgid "Appenzell Ausserrhoden"
+msgstr "آپنسل اوسرهوردن"
+
+msgid "Appenzell Innerrhoden"
+msgstr "آپنسل ایناهوردن"
+
+msgid "Application ID/Project ID"
+msgstr "ID اپلیکیشن/ID پروژه"
+
+msgid "Apure"
+msgstr "آپوره"
+
+msgid "Apurímac"
+msgstr "آپوریماک"
+
+msgid "Araba/Álava"
+msgstr "آرابانا/آلاوا"
+
+msgid "Arad"
+msgstr "آراد"
+
+msgid "Aragua"
+msgstr "آراگوا"
+
+msgid "Arauca"
+msgstr "آراوكا"
+
+msgid "Ardabil (اردبیل)"
+msgstr "اردبیل"
+
+msgid "Ardahan"
+msgstr "ارداهان"
+
+msgid "Arequipa"
+msgstr "Arequipa"
+
+msgid "Arezzo"
+msgstr "Arezzo"
+
+msgid "Argeș"
+msgstr "آرژاش"
+
+msgid "Arica y Parinacota"
+msgstr "آریکا و پارینه کوتا"
+
+msgid "Arizona"
+msgstr "آریزونا"
+
+msgid "Arkansas"
+msgstr "آرکانزاس"
+
+msgid "Armed Forces (AA)"
+msgstr "نیروهای مسلح (AA)"
+
+msgid "Armed Forces (AE)"
+msgstr "نیروهای مسلح (AE)"
+
+msgid "Armed Forces (AP)"
+msgstr "نیروهای مسلح (AP)"
+
+msgid "Artigas"
+msgstr "آرتیگاس"
+
+msgid "Artvin"
+msgstr "آرتوین"
+
+msgid "Arua"
+msgstr "آروا"
+
+msgid "Arunachal Pradesh"
+msgstr "آروناچال پرادش"
+
+msgid "Arusha"
+msgstr "اروشا"
+
+msgid "Ascoli Piceno"
+msgstr "آسکولی پیچنو"
+
+msgid "Ashanti"
+msgstr "Ashanti"
+
+msgid "Assam"
+msgstr "آسام"
+
+msgid "Asti"
+msgstr "آستي"
+
+msgid "Asturias"
+msgstr "آستوریاس"
+
+msgid "Asunción"
+msgstr "آسونسیون"
+
+msgid "Aswan"
+msgstr "اسوان"
+
+msgid "Asyut"
+msgstr "آسیوت"
+
+msgid "At least one authorisation method need to be enabled"
+msgstr "حداقل یک روش مجوز باید فعال شود"
+
+msgid "At the moment, we do not allow users from your country"
+msgstr "در حال حاضر ، ما به کاربران کشور شما اجازه نمی دهیم"
+
+msgid ""
+"At the time of Login, the OTP will be sent automatically after clicking on "
+"\"Continue\" button on login form on all the routes selected above."
+msgstr ""
+"در زمان ورود، کد یکبار مصرف پس از کلیک بر روی دکمه \"ادامه\" در فرم ورود در "
+"تمام مسیرهای انتخاب شده در بالا به طور خودکار ارسال می شود."
+
+msgid "Atacama"
+msgstr "آتاکاما"
+
+msgid "Atakora"
+msgstr "آتاکورا"
+
+msgid "Atlantique"
+msgstr "آتلانتیک"
+
+msgid "Atlántico"
+msgstr "آتلانتیکو"
+
+msgid "Atlántico Norte"
+msgstr "اقیانوس اطلس شمالی"
+
+msgid "Atlántico Sur"
+msgstr "جنوب اقیانوس اطلس"
+
+msgid "Atlántida"
+msgstr "آتلانتیدا"
+
+msgid "Attapeu"
+msgstr "Attapeu"
+
+msgid "Attica"
+msgstr "آتیکا"
+
+msgid "Auckland"
+msgstr "اوکلند"
+
+msgid "Aurora"
+msgstr "شفق قطبی"
+
+msgid "Australian Capital Territory"
+msgstr "قلمرو سرمایه استرالیا"
+
+msgid "Auth ID"
+msgstr "Auth ID"
+
+msgid "Auth Key"
+msgstr "Auth Key"
+
+msgid "Auth Method not allowed!"
+msgstr "روش تأیید مجاز نیست!"
+
+msgid "Auth Method not found!"
+msgstr "روش احراز هویت یافت نشد!"
+
+msgid "Auth Token"
+msgstr "Auth Token"
+
+msgid "Authentication"
+msgstr "احراز هویت"
+
+msgid "Authentication (1st Step)"
+msgstr "احراز هویت (مرحله اول)"
+
+msgid "Authentication (2nd Step)"
+msgstr "احراز هویت (مرحله دوم)"
+
+msgid "Authentication (3rd Step)"
+msgstr "احراز هویت (مرحله سوم)"
+
+msgid "Authentication Key"
+msgstr "کلید تأیید اعتبار"
+
+msgid "Authentication method not found, please try using another method!"
+msgstr "روش احراز هویت یافت نشد، لطفا از روش دیگری استفاده کنید!"
+
+msgid "Authenticator App (like Google Auth, Authy, etc.)"
+msgstr "اپ Authenticator (مانند Google Auth، Authy و غیره)"
+
+msgid "Autofill WooCommerce billing fields with user info"
+msgstr "تکمیل خودکار فیلدهای صورتحساب ووکامرس با اطلاعات کاربر"
+
+msgid "Avellino"
+msgstr "Avellino"
+
+msgid "Ayacucho"
+msgstr "آیاکوچو"
+
+msgid "Aydın"
+msgstr "آیدین"
+
+msgid "Ayutthaya"
+msgstr "Ayutthaya"
+
+msgid "Azad Kashmir"
+msgstr "کشمیر آزاد"
+
+msgid "Azua"
+msgstr "آزوآ"
+
+msgid "Azuay"
+msgstr "آزووه"
+
+msgid "Aïn Defla"
+msgstr "آین دفلا"
+
+msgid "Aïn Témouchent"
+msgstr "آین تیموشو"
+
+msgid "Ağrı"
+msgstr "آگری"
+
+msgid "BACK"
+msgstr "بازگشت"
+
+msgid "Back"
+msgstr "بازگشت"
+
+msgid "Back to login"
+msgstr "بازگشت به صفحه ورود"
+
+msgid "Back/Cancel Button Color"
+msgstr "رنگ دکمه برگشت/انصراف"
+
+msgid "Background Color"
+msgstr "رنگ پس زمینه"
+
+msgid "Bacău"
+msgstr "باکاو"
+
+msgid "Badajoz"
+msgstr "باداژوز"
+
+msgid "Baden-Württemberg"
+msgstr "بادن وورتمبرگ"
+
+msgid "Bagerhat"
+msgstr "بگرهات"
+
+msgid "Bagmati"
+msgstr "باگماتی"
+
+msgid "Bahia"
+msgstr "باهیا"
+
+msgid "Baja California"
+msgstr "باخا کالیفرنیا"
+
+msgid "Baja California Sur"
+msgstr "باخا کالیفرنیا سور"
+
+msgid "Baja Verapaz"
+msgstr "بارتا وراپاز"
+
+msgid "Baker Island"
+msgstr "جزیره بیکر"
+
+msgid "Baleares"
+msgstr "Baleares"
+
+msgid "Bali"
+msgstr "بالی"
+
+msgid "Balochistan"
+msgstr "بلوچستان"
+
+msgid "Balıkesir"
+msgstr "بالیکسیر"
+
+msgid "Bandarban"
+msgstr "بندربان"
+
+msgid "Bangka Belitung"
+msgstr "وانگکابلیتونگ"
+
+msgid "Bangkok"
+msgstr "بانکوک"
+
+msgid "Banten"
+msgstr "بانتن"
+
+msgid "Baoruco"
+msgstr "بائروکو"
+
+msgid "Barahona"
+msgstr "باراهونا"
+
+msgid "Baranya"
+msgstr "بارانیا"
+
+msgid "Barcelona"
+msgstr "بارسلونا"
+
+msgid "Barguna"
+msgstr "Barguna"
+
+msgid "Bari"
+msgstr "باری"
+
+msgid "Barinas"
+msgstr "باریناس"
+
+msgid "Baringo"
+msgstr "باینگو"
+
+msgid "Barishal"
+msgstr "خلیج فارس"
+
+msgid "Barletta-Andria-Trani"
+msgstr "بارلتا-آندریا-ترانی"
+
+msgid "Bartın"
+msgstr "بارتین"
+
+msgid "Basarabeasca"
+msgstr "‏Basarabeasca"
+
+msgid "Base URL"
+msgstr "URL اصلی"
+
+msgid "Basel-Landschaft"
+msgstr "بازل - لندشافت"
+
+msgid "Basel-Stadt"
+msgstr "بازل - شتافت"
+
+msgid "Basic"
+msgstr "پایه"
+
+msgid "Basic Settings"
+msgstr "تنظیمات پایه"
+
+msgid "Basilan"
+msgstr "بازیلن"
+
+msgid "Bataan"
+msgstr "Bataan"
+
+msgid "Batanes"
+msgstr "باتانس"
+
+msgid "Batangas"
+msgstr "باتانگاس"
+
+msgid "Batman"
+msgstr "باتمان"
+
+msgid "Batna"
+msgstr "باتنا"
+
+msgid "Bauchi"
+msgstr "باوچی"
+
+msgid "Bavaria"
+msgstr "Bavaria"
+
+msgid "Bay Islands"
+msgstr "جزایر بی"
+
+msgid "Bay of Plenty"
+msgstr "بی اف پلنتی"
+
+msgid "Bayburt"
+msgstr "بایبورت"
+
+msgid "Bayelsa"
+msgstr "بایلسا"
+
+msgid "Beheira"
+msgstr "بهیرا"
+
+msgid "Beijing / 北京"
+msgstr "پکن / 北京"
+
+msgid "Belluno"
+msgstr "بلونو"
+
+msgid "Benevento"
+msgstr "Benevento"
+
+msgid "Bengkulu"
+msgstr "بنگکولو"
+
+msgid "Bengo"
+msgstr "بنگو"
+
+msgid "Benguela"
+msgstr "بنگولا"
+
+msgid "Benguet"
+msgstr "Benguet"
+
+msgid "Beni"
+msgstr "‏Beni"
+
+msgid "Beni Suef"
+msgstr "بنی سوف"
+
+msgid "Benue"
+msgstr "بنو"
+
+msgid "Berat"
+msgstr "برات"
+
+msgid "Bergamo"
+msgstr "برگاموی"
+
+msgid "Berlin"
+msgstr "برلین"
+
+msgid "Bern"
+msgstr "برن"
+
+msgid "Bheri"
+msgstr "بری"
+
+msgid "Bhola"
+msgstr "بولا"
+
+msgid "Biella"
+msgstr "بیه لا"
+
+msgid "Bihar"
+msgstr "بیهار"
+
+msgid "Bihor"
+msgstr "بیهور"
+
+msgid "Bilecik"
+msgstr "بیله سیک"
+
+msgid "Biliran"
+msgstr "بلیران"
+
+msgid "Billing Email"
+msgstr "ایمیل صورتحساب"
+
+msgid "Billing Mobile Number"
+msgstr "شماره موبایل"
+
+msgid "Bingöl"
+msgstr "بینگول"
+
+msgid "Biobío"
+msgstr "بیوبیو"
+
+msgid "Biometrics & Security Key Devices"
+msgstr "بیومتریک و دستگاه های کلید امنیتی"
+
+msgid "Biometrics & Security Key Devices Setup"
+msgstr "راه‌اندازی دستگاه‌های کلید بیومتریک و امنیتی"
+
+msgid "Biometrics / Security Keys"
+msgstr "بیومتریک / کلیدهای امنیتی"
+
+msgid "Biscay"
+msgstr "بیسکای"
+
+msgid "Biskra"
+msgstr "بیسکرا"
+
+msgid "Bistrița-Năsăud"
+msgstr "بیستریا-ناصوود"
+
+msgid "Bitlis"
+msgstr "بتلیس"
+
+msgid "Bié"
+msgstr "بیه"
+
+msgid "Blagoevgrad"
+msgstr "بلاگویفگراد"
+
+msgid "Blida"
+msgstr "بلیدا"
+
+msgid "Block login for users with unverified email"
+msgstr "ورود کاربران با ایمیل تایید نشده را مسدود کنید"
+
+msgid "Blur"
+msgstr "بلور"
+
+msgid "Boaco"
+msgstr "بوآکو"
+
+msgid "Bocas del Toro"
+msgstr "بوکاس دل تورو"
+
+msgid "Bogura"
+msgstr "بوگرا"
+
+msgid "Bohol"
+msgstr "Bohol"
+
+msgid "Bokeo"
+msgstr "Bokeo"
+
+msgid "Bolikhamsai"
+msgstr "Bolikhamsai"
+
+msgid "Bologna"
+msgstr "بولوگنا"
+
+msgid "Bolu"
+msgstr "بولی"
+
+msgid "Bolzano"
+msgstr "بولزانو"
+
+msgid "Bolívar"
+msgstr "بولیوار"
+
+msgid "Bomet"
+msgstr "بومت"
+
+msgid "Bomi"
+msgstr "Bomi"
+
+msgid "Bong"
+msgstr "بونگ"
+
+msgid "Bono"
+msgstr "Bono"
+
+msgid "Bono East"
+msgstr "Bono East"
+
+msgid "Boquerón"
+msgstr "بوکرون"
+
+msgid "Bordj Bou Arréridj"
+msgstr "بورج بو آرریده"
+
+msgid "Borgou"
+msgstr "بورگو"
+
+msgid "Borno"
+msgstr "بورنو"
+
+msgid "Borsod-Abaúj-Zemplén"
+msgstr "زامپلن"
+
+msgid "Both Password and OTP cannot be disabled"
+msgstr "هر دو رمز عبور و کد تایید را نمی توان غیر فعال کرد"
+
+msgid "Botoșani"
+msgstr "بوتوشیانی"
+
+msgid "Bouira"
+msgstr "بویرا"
+
+msgid "Boumerdès"
+msgstr "بومرداس"
+
+msgid "Boyacá"
+msgstr "بوایاکا"
+
+msgid "Brahmanbaria"
+msgstr "برهمن بریا"
+
+msgid "Brandenburg"
+msgstr "Brandenburg"
+
+msgid "Brașov"
+msgstr "براشوف"
+
+msgid "Bremen"
+msgstr "Bremen"
+
+msgid "Brescia"
+msgstr "Brescia"
+
+msgid "Briceni"
+msgstr "‏Briceni"
+
+msgid "Brindisi"
+msgstr "Brindisi"
+
+msgid "British Columbia"
+msgstr "بریتیش کلمبیا"
+
+msgid "Broadcast Name"
+msgstr "نام پخش"
+
+msgid "Brong-Ahafo"
+msgstr "Brong-Ahafo"
+
+msgid "Brute Force Allow-listed IPs"
+msgstr "لیست آی پی های مجاز بروت فورس"
+
+msgid "Brăila"
+msgstr "بریلا"
+
+msgid "București"
+msgstr "بوکورشتی"
+
+msgid "Budaka"
+msgstr "بوداکا"
+
+msgid "Budapest"
+msgstr "بوداپست"
+
+msgid "Bududa"
+msgstr "بودا"
+
+msgid "Bueng Kan"
+msgstr "Bueng کان"
+
+msgid "Buenos Aires"
+msgstr "بوینس آیرس"
+
+msgid "Bugiri"
+msgstr "بوگیری"
+
+msgid "Bugweri"
+msgstr "بوگوري"
+
+msgid "Buhweju"
+msgstr "بووهوجو"
+
+msgid "Buikwe"
+msgstr "بیوکوه"
+
+msgid "Build with Digits"
+msgstr "ساخت با دیحیتس"
+
+msgid "Built on WooCommerce/WordPress standards and using their hooks."
+msgstr ""
+"ساخته شده بر اساس استانداردهای WooCommerce/WordPress و با استفاده از قلاب آنها."
+
+msgid "Built-in Biometric Sensor"
+msgstr "سنسور بیومتریک داخلی"
+
+msgid "Bukedea"
+msgstr "بوکودا"
+
+msgid "Bukidnon"
+msgstr "بوکیدنون"
+
+msgid "Bukomansimbi"
+msgstr "بوکومنسیبی"
+
+msgid "Bukwa"
+msgstr "بوکوا"
+
+msgid "Bulacan"
+msgstr "Bulacan"
+
+msgid "Bulambuli"
+msgstr "بولامبولی"
+
+msgid "Buliisa"
+msgstr "بولیسا"
+
+msgid "Bundibugyo"
+msgstr "باندیوبوهویو"
+
+msgid "Bungoma"
+msgstr "بونگوما"
+
+msgid "Bunyangabu"
+msgstr "بونانگابو"
+
+msgid "Burdur"
+msgstr "بوردور"
+
+msgid "Burgas"
+msgstr "بورگاس"
+
+msgid "Burgos"
+msgstr "بورگوس"
+
+msgid "Buri Ram"
+msgstr "بوری رام"
+
+msgid "Bursa"
+msgstr "بورسا"
+
+msgid "Bushehr (بوشهر)"
+msgstr "بوشهر"
+
+msgid "Bushenyi"
+msgstr "بوشنی"
+
+msgid "Busia"
+msgstr "بوسیا"
+
+msgid "Butaleja"
+msgstr "بوتالهیا"
+
+msgid "Butambala"
+msgstr "بوتامبلا"
+
+msgid "Butebo"
+msgstr "بوتبو (Butebo)"
+
+msgid "Button Border Color"
+msgstr "رنگ حاشیه دکمه"
+
+msgid "Button Font Color"
+msgstr "رنگ فونت دکمه"
+
+msgid "Button Text Color"
+msgstr "رنگ متن دکمه"
+
+msgid "Buvuma"
+msgstr "بوووما"
+
+msgid "Buy Now"
+msgstr "خرید"
+
+msgid "Buyende"
+msgstr "بوینده (Buyende)"
+
+msgid "Buzău"
+msgstr "بوزائو"
+
+msgid ""
+"By activating this option, the country code such as +98 will not be displayed "
+"when receiving the mobile number"
+msgstr ""
+"با فعال کردن این گزینه کد کشوری مانند 98+ هنگام دریافت شماره موبایل نمایش داده "
+"نمی شود"
+
+msgid ""
+"By activating this option, the problem of Persian numbers in the FAS standard "
+"and mobile phones will be solved"
+msgstr ""
+"با فعال سازی این گزینه مشکل شماره های فارسی در استاندارد FAS و گوشی های موبایل "
+"حل می شود"
+
+msgid "Bács-Kiskun"
+msgstr "بچ-کیشکون"
+
+msgid "Béchar"
+msgstr "بشار"
+
+msgid "Béjaïa"
+msgstr "بیژایا"
+
+msgid "Békés"
+msgstr "Békés"
+
+msgid "Bălți"
+msgstr "بلقی"
+
+msgid "CLOSE"
+msgstr "بستن"
+
+msgid "COPY"
+msgstr "کپی"
+
+msgid "CSS"
+msgstr "CSS"
+
+msgid "CUSTOM"
+msgstr "سفارشی"
+
+msgid "Caaguazú"
+msgstr "کاگواسو"
+
+msgid "Caazapá"
+msgstr "کازاپه"
+
+msgid "Cabañas"
+msgstr "کابانیاس"
+
+msgid "Cabinda"
+msgstr "کابیندا"
+
+msgid "Cabo Delgado"
+msgstr "کابو دلگادو"
+
+msgid "Cagayan"
+msgstr "Cagayan"
+
+msgid "Cagliari"
+msgstr "کالیاری"
+
+msgid "Cahul"
+msgstr "‏Cahul"
+
+msgid "Cairo"
+msgstr "قاهره"
+
+msgid "Cajamarca"
+msgstr "داخامارتا"
+
+msgid "Caldas"
+msgstr "کالداس"
+
+msgid "California"
+msgstr "کالیفرنیا"
+
+msgid "Caltanissetta"
+msgstr "Caltanissetta"
+
+msgid "Camarines Norte"
+msgstr "کامارینز شمالی"
+
+msgid "Camarines Sur"
+msgstr "کامارینز جنوبی"
+
+msgid "Camiguin"
+msgstr "کامیگوین"
+
+msgid "Campaign ID"
+msgstr "شناسه کمپین"
+
+msgid "Campeche"
+msgstr "تحرکاتی"
+
+msgid "Campobasso"
+msgstr "Campobasso"
+
+msgid "Can't change / Don't have existing button"
+msgstr "نمی توان تغییر داد / دکمه موجود وجود ندارد"
+
+msgid "Cancel"
+msgstr "لغو"
+
+msgid "Canelones"
+msgstr "کانلونس"
+
+msgid "Canindeyú"
+msgstr "کانینده یو"
+
+msgid "Cannot send email to an empty address"
+msgstr "امکان ارسال ایمیل به آدرس خالی وجود ندارد"
+
+msgid "Cantabria"
+msgstr "کانتابریا"
+
+msgid "Cantemir"
+msgstr "‏Cantemir"
+
+msgid "Canterbury"
+msgstr "کانتربوری"
+
+msgid "Capital"
+msgstr "پایتخت"
+
+msgid "Capital District"
+msgstr "حوزه پایتخت"
+
+msgid "Capiz"
+msgstr "Capiz"
+
+msgid "Captcha"
+msgstr "کپچا"
+
+msgid "Caquetá"
+msgstr "کاگتا"
+
+msgid "Carabobo"
+msgstr "کارابوبو"
+
+msgid "Carazo"
+msgstr "کاراسو"
+
+msgid "Caraș-Severin"
+msgstr "کارا سورین"
+
+msgid "Carchi"
+msgstr "کارچی"
+
+msgid "Carlow"
+msgstr "کارلو"
+
+msgid "Cartago"
+msgstr "کارتاگو"
+
+msgid "Casanare"
+msgstr "کاساناره"
+
+msgid "Caserta"
+msgstr "Caserta"
+
+msgid "Castellón"
+msgstr "کاستلون"
+
+msgid "Catamarca"
+msgstr "کاتامارکا"
+
+msgid "Catanduanes"
+msgstr "Catanduanes"
+
+msgid "Catania"
+msgstr "کاتانیا"
+
+msgid "Catanzaro"
+msgstr "Catanzaro"
+
+msgid "Cauca"
+msgstr "کآوکا"
+
+msgid "Cavan"
+msgstr "کاون"
+
+msgid "Cavite"
+msgstr "کاویته"
+
+msgid "Cañar"
+msgstr "کانیا"
+
+msgid "Ceará"
+msgstr "سارا"
+
+msgid "Cebu"
+msgstr "سبو"
+
+msgid "Central"
+msgstr "سنترال (Central)"
+
+msgid "Central Greece"
+msgstr "یونان مرکزی"
+
+msgid "Central Macedonia"
+msgstr "مقدونیه مرکزی"
+
+msgid "Cerro Largo"
+msgstr "سرلو لارگو"
+
+msgid "Cesar"
+msgstr "سزار"
+
+msgid "Ceuta"
+msgstr "سوتا"
+
+msgid "Chachoengsao"
+msgstr "چاچواینگزائو"
+
+msgid "Chaco"
+msgstr "چاکو"
+
+msgid "Chaharmahal and Bakhtiari (چهارمحال و بختیاری)"
+msgstr "چهارمحال و بختیاری"
+
+msgid "Chai Nat"
+msgstr "چای نات"
+
+msgid "Chaiyaphum"
+msgstr "چیایافوم"
+
+msgid "Chalatenango"
+msgstr "چالتاننگو"
+
+msgid "Champasak"
+msgstr "چم پاساک"
+
+msgid "Chandigarh"
+msgstr "چاندیگار"
+
+msgid "Chandpur"
+msgstr "چاندپور"
+
+msgid "Change Image"
+msgstr "تغییر تصویر"
+
+msgid "Change existing button"
+msgstr "تغییر دکمه موجود"
+
+msgid "Changelog"
+msgstr "تغییرات"
+
+msgid "Chanthaburi"
+msgstr "چانباوری"
+
+msgid "Chattogram"
+msgstr "Chattogram"
+
+msgid "Cheatin&#8217; huh?"
+msgstr "Cheatin&#8217; huh?"
+
+msgid "Check and follow your device's biometrics popup"
+msgstr "پاپ آپ بیومتریک دستگاه خود را بررسی و دنبال کنید"
+
+msgid "Check and follow your device's biometrics popup or use Yubikey"
+msgstr ""
+"پاپ آپ بیومتریک دستگاه خود را بررسی و دنبال کنید یا از Yubikey استفاده کنید"
+
+msgid "Check and follow your device's browser popup"
+msgstr "پاپ آپ مرورگر دستگاه خود را بررسی کرده و دنبال کنید"
+
+msgid "Check for updates"
+msgstr "بررسی برای بروزرسانی"
+
+msgid "CheckBox"
+msgstr "چک باکس"
+
+msgid "Checkbox (v2)"
+msgstr "ریکپچا چک باکس، نسخه 2"
+
+msgid "Cherkashchyna"
+msgstr "چرکاشچینا"
+
+msgid "Chernihivshchyna"
+msgstr "چرنیهیوشچینا"
+
+msgid "Chernivtsi Oblast"
+msgstr "چرنیوتسی"
+
+msgid "Chhattisgarh"
+msgstr "پور"
+
+msgid "Chiang Mai"
+msgstr "چیانگ مای"
+
+msgid "Chiang Rai"
+msgstr "چیانگ رای"
+
+msgid "Chiapas"
+msgstr "چیاپاس"
+
+msgid "Chiba"
+msgstr "چیبا"
+
+msgid "Chieti"
+msgstr "Chieti"
+
+msgid "Chihuahua"
+msgstr "چیهواهوا"
+
+msgid "Chimaltenango"
+msgstr "چیمالتینانگو"
+
+msgid "Chimborazo"
+msgstr "چیمبروزو"
+
+msgid "Chinandega"
+msgstr "چیناندگا"
+
+msgid "Chiquimula"
+msgstr "چیکیمیلا"
+
+msgid "Chiriquí"
+msgstr "چیریکی"
+
+msgid "Chișinău"
+msgstr "کیشیناو"
+
+msgid "Chlef"
+msgstr "چلف"
+
+msgid "Chocó"
+msgstr "چاکو"
+
+msgid "Choluteca"
+msgstr "چلوتیکا"
+
+msgid "Chonburi"
+msgstr "چونبوری"
+
+msgid "Chongqing / 重庆"
+msgstr "چونگکینگ / 重庆"
+
+msgid "Chontales"
+msgstr "چونتالس"
+
+msgid "Chuadanga"
+msgstr "چودانگا"
+
+msgid "Chubut"
+msgstr "Chubut"
+
+msgid "Chumphon"
+msgstr "چومفون"
+
+msgid "Chuquisaca"
+msgstr "چاکویزاکا"
+
+msgid "Cibao Nordeste"
+msgstr "سیبائو نوردست"
+
+msgid "Cibao Noroeste"
+msgstr "سیبائو نوروسته"
+
+msgid "Cibao Norte"
+msgstr "سیبائو نورته"
+
+msgid "Cibao Sur"
+msgstr "سیبائو سور"
+
+msgid "Cimișlia"
+msgstr "چیمیشلیا"
+
+msgid "City"
+msgstr "شهر"
+
+msgid "Ciudad Autónoma de Buenos Aires"
+msgstr "شهر خودمختار بوئنوس آیرس"
+
+msgid "Ciudad Real"
+msgstr "سیوداد واقعی"
+
+msgid "Ciudad de México"
+msgstr "سیوداد مکزیک (Ciudad de México)"
+
+msgid "Clare"
+msgstr "کلار"
+
+msgid "Clarendon"
+msgstr "Clarendon"
+
+msgid "Clear"
+msgstr "پاک کردن"
+
+msgid "Clear color"
+msgstr "پاک کردن رنگ"
+
+msgid "Click Here"
+msgstr "اینجا کلیک کنید"
+
+msgid "Click here to Approve Access"
+msgstr "برای تأیید دسترسی اینجا کلیک کنید"
+
+msgid "Click here to Verify Email"
+msgstr "برای تایید ایمیل اینجا کلیک کنید"
+
+msgid "ClockWork API"
+msgstr "ClockWork API"
+
+msgid "Close Editor"
+msgstr "بستن ویرایشگر"
+
+msgid "Cluj"
+msgstr "کلوژ"
+
+msgid "Coahuila"
+msgstr "Coahuila امور"
+
+msgid "Coast"
+msgstr "کوست"
+
+msgid "Cochabamba"
+msgstr "کوکابامبا"
+
+msgid "Coclé"
+msgstr "کوکله"
+
+msgid "Code is valid, please proceed with checkout"
+msgstr "کد معتبر است ، لطفا پرداخت را ادامه دهید"
+
+msgid "Cojedes"
+msgstr "کوجیدس"
+
+msgid "Colima"
+msgstr "کلیما"
+
+msgid "Collines"
+msgstr "کولینز"
+
+msgid "Colonia"
+msgstr "کلونیا"
+
+msgid "Color value"
+msgstr "مقدار رنگ"
+
+msgid "Colorado"
+msgstr "کلرادو"
+
+msgid "Colón"
+msgstr "کولون"
+
+msgid "Comayagua"
+msgstr "کومایاگوا"
+
+msgid "Como"
+msgstr "Como"
+
+msgid "Company"
+msgstr "شرکت"
+
+msgid "Compostela Valley"
+msgstr "کومپوستلا ولی"
+
+msgid "Concepción"
+msgstr "کونسپثیان"
+
+msgid "Confirm Password"
+msgstr "تایید رمز عبور"
+
+msgid "Connecticut"
+msgstr "کانکتیکات"
+
+msgid "Constantine"
+msgstr "کنستانتین"
+
+msgid "Constanța"
+msgstr "کونستانسا"
+
+msgid "Content"
+msgstr "محتوا"
+
+msgid "Continue"
+msgstr "ادامه"
+
+msgid "Convert To Unicode"
+msgstr "تبدیل به یونیکد"
+
+msgid "Copied to clipboard"
+msgstr "در کلیب برد کپی شده"
+
+msgid "Copperbelt"
+msgstr "کوپربالت"
+
+msgid "Copy"
+msgstr "کپی"
+
+msgid "Copán"
+msgstr "کوپان"
+
+msgid "Coquimbo"
+msgstr "کوکیمبو"
+
+msgid "Cordillera"
+msgstr "کوردیلرا"
+
+msgid "Cork"
+msgstr "کورک"
+
+msgid "Corrientes"
+msgstr "Corrientes"
+
+msgid "Cortés"
+msgstr "کورتس"
+
+msgid "Cosenza"
+msgstr "Cosenza"
+
+msgid "Cotabato"
+msgstr "کوتابوتو"
+
+msgid "Cotopaxi"
+msgstr "کودوپاکسی"
+
+msgid "Could not create temporary file."
+msgstr "فایل موقت ایجاد نشد."
+
+msgid ""
+"Couldn&#8217;t register you&hellip; please contact us if you continue to have "
+"problems."
+msgstr "نمیتوانید ثبت نام کنید! با ما تماس بگیرید."
+
+msgid "Country"
+msgstr "کشور"
+
+msgid "Country Codes Allowlist"
+msgstr "لیست پیش شماره کشور های مجاز"
+
+msgid "Country Codes Denylist"
+msgstr "پیش شماره کشور نامعتبر"
+
+msgid "Covasna"
+msgstr "کوواسنا"
+
+msgid "Cox's Bazar"
+msgstr "بازار ككس"
+
+msgid "Create Account without OTP verification"
+msgstr "ایجاد حساب بدون کد تأیید(OTP)"
+
+msgid "Create Customer"
+msgstr "ایجاد مشتری"
+
+msgid "Create Customer Button"
+msgstr "ایجاد دکمه سفارشی"
+
+msgid "Create New Customer"
+msgstr "ایجاد مشتری جدید"
+
+msgid "Create a <span>Page Form</span>"
+msgstr "یک <span>فرم صفحه</span> ایجاد کنید"
+
+msgid "Create a <span>Popup / Modal Form</span>"
+msgstr "یک <span>فرم بازشو / مودال</span> ایجاد کنید"
+
+msgid "Create a New Page on this Page"
+msgstr "یک صفحه جدید در این صفحه ایجاد کنید"
+
+msgid "Create a New Popup on this Page"
+msgstr "یک پاپ آپ جدید در این صفحه ایجاد کنید"
+
+msgid "Create an account"
+msgstr "ایجاد یک حساب کاربری"
+
+msgid "Cremona"
+msgstr "Cremona"
+
+msgid "Crete"
+msgstr "کرت"
+
+msgid "Crimea"
+msgstr "کریمه"
+
+msgid "Criuleni"
+msgstr "کریولن"
+
+msgid "Cross River"
+msgstr "ریور کروز"
+
+msgid "Crotone"
+msgstr "کروتون"
+
+msgid "Csongrád-Csanád"
+msgstr "سانگراد (Csongrád-Csanád)"
+
+msgid "Cuenca"
+msgstr "کوئنکا"
+
+msgid "Cumilla"
+msgstr "کومله"
+
+msgid "Cundinamarca"
+msgstr "کوندینامارکا"
+
+msgid "Cunene"
+msgstr "سوننه"
+
+msgid "Cuneo"
+msgstr "Cuneo"
+
+msgid "Cursor"
+msgstr "مکان نما"
+
+msgid "Cuscatlán"
+msgstr "کوسکاتلن"
+
+msgid "Cusco"
+msgstr "Cusco"
+
+msgid "Custom"
+msgstr "سفارشی"
+
+msgid "Custom CSS"
+msgstr "CSS سفارشی"
+
+msgid "Custom Class"
+msgstr "کلاس سفارشی"
+
+msgid "Custom Gateway"
+msgstr "درپاه پیامکی سفارشی"
+
+msgid "Cáceres"
+msgstr "کاسرس"
+
+msgid "Cádiz"
+msgstr "ثادیز"
+
+msgid "Córdoba"
+msgstr "Córdoba"
+
+msgid "Călărași"
+msgstr "کلاراشی"
+
+msgid "Căușeni"
+msgstr "کوشن"
+
+msgid "DEREGISTER"
+msgstr "لغو ثبت"
+
+msgid "DIGITS: WordPress Mobile Number Signup and Login"
+msgstr "دیجیتس - ثبت نام و ورود با شماره موبایل وردپرس"
+
+msgid "DKI Jakarta"
+msgstr "جاکارتا DKI"
+
+msgid "DLT Template ID"
+msgstr "شناسه تمپلیت DLT"
+
+msgid "Dadra and Nagar Haveli"
+msgstr "دادرا و ناگار هاولی"
+
+msgid "Daerah Istimewa Aceh"
+msgstr "Daerah Istimewa پاريس"
+
+msgid "Daerah Istimewa Yogyakarta"
+msgstr "یوگیاکارتا، Istimewa Daerah"
+
+msgid "Dajabón"
+msgstr "داکه بون"
+
+msgid "Dakahlia"
+msgstr "داکاهلیا"
+
+msgid "Dakar"
+msgstr "داکار"
+
+msgid "Daman and Diu"
+msgstr "دامان و دیو"
+
+msgid "Damietta"
+msgstr "دمیرتا"
+
+msgid "Dar es Salaam"
+msgstr "Dar es Salaam"
+
+msgid "Darién"
+msgstr "داریان"
+
+msgid "Dark"
+msgstr "تیره"
+
+msgid "Dashboard"
+msgstr "داشبورد"
+
+msgid "Date"
+msgstr "تاریخ"
+
+msgid "Date & Time"
+msgstr "تاریخ و زمان"
+
+msgid "Davao Occidental"
+msgstr "اکسیدنتال داوائو"
+
+msgid "Davao Oriental"
+msgstr "داوائو شرقی"
+
+msgid "Davao del Norte"
+msgstr "داوائو شمالی"
+
+msgid "Davao del Sur"
+msgstr "داوائو جنوبی"
+
+msgid "Dedicated For AbzarWp"
+msgstr "اختصاصی ابزاروردپرس"
+
+msgid "Default"
+msgstr "پیشفرض"
+
+msgid "Default Country Code"
+msgstr "کد کشور پیشفرض"
+
+msgid "Default User Role"
+msgstr "نقش کاربری پیشفرض"
+
+msgid "Delaware"
+msgstr "دلاور"
+
+msgid "Delhi"
+msgstr "دهلی نو"
+
+msgid "Delta"
+msgstr "دلتا"
+
+msgid "Delta Amacuro"
+msgstr "دلتا اماکورو"
+
+msgid "Denied permission to login from email"
+msgstr "اجازه ورود از ایمیل رد شد"
+
+msgid "Denizli"
+msgstr "دنیزلی"
+
+msgid "Deprecated"
+msgstr "منسوخ"
+
+msgid "Device Biometrics"
+msgstr "بیومتریک دستگاه"
+
+msgid "Device Blocked Successfully!"
+msgstr "دستگاه با موفقیت مسدود شد!"
+
+msgid "Device Registered"
+msgstr "دستگاه ثبت شد"
+
+msgid "Device authentication successful!"
+msgstr "احراز هویت دستگاه با موفقیت انجام شد!"
+
+msgid "Device deleted successfully!"
+msgstr "دستگاه با موفقیت حذف شد!"
+
+msgid "Device name cannot be empty!"
+msgstr "نام دستگاه نمی‌تواند خالی باشد!"
+
+msgid "Device's Nickname"
+msgstr "نام‌مستعار دستگاه"
+
+msgid "Dhaka"
+msgstr "داکا"
+
+msgid "Dhaulagiri"
+msgstr "‏Dhaulagiri"
+
+msgid "Dibër"
+msgstr "دیبر"
+
+msgid "Digits"
+msgstr "رقم"
+
+msgid "Digits Data Eraser"
+msgstr "پاک کننده داده های DIGITS"
+
+msgid "Digits Editor"
+msgstr "ویرایشگر دیجیتس"
+
+msgid "Digits Logs"
+msgstr "گزارشات دیجیتس"
+
+msgid "Digits Menu Items"
+msgstr "منوی افزونه DIGITS"
+
+msgid "Digits Native"
+msgstr "اعداد محلی"
+
+msgid "Digits Native Form"
+msgstr "فرم بومی دیجیتس"
+
+msgid "Digits Onboarding Wizard"
+msgstr "جادوگر نصب دیجیتس"
+
+msgid "Dinagat Islands"
+msgstr "جزایر دینگات"
+
+msgid "Dinajpur"
+msgstr "دیناژپور"
+
+msgid "Diourbel"
+msgstr "دیوربل"
+
+msgid "Disable"
+msgstr "غیرفعال"
+
+msgid "Disable %s-Factor Authentication"
+msgstr "غیرفعال کردن %s-Factor Authentication"
+
+msgid "Disabled"
+msgstr "غیر فعال"
+
+msgid "Display Name"
+msgstr "نام نمایشی"
+
+msgid "Display name"
+msgstr "نام نمایشی"
+
+msgid "District Of Columbia"
+msgstr "منطقه کلمبیا"
+
+msgid "Distrito Federal"
+msgstr "فدرال دیستریتو"
+
+msgid "Distrito Nacional"
+msgstr "منطقه ملی"
+
+msgid "Diyarbakır"
+msgstr "دیاربکر"
+
+msgid "Djelfa"
+msgstr "جلفا"
+
+msgid "Dnipropetrovshchyna"
+msgstr "دنیپروپتروشچینا"
+
+msgid "Do not display the country code"
+msgstr "کد کشور را نمایش ندهید"
+
+msgid "Do you want us to block the device from trying again?"
+msgstr "آیا می‌خواهید مانع از تلاش مجدد این دستگاه شویم؟"
+
+msgid "Dobrich"
+msgstr "دوبریچ"
+
+msgid "Documentation"
+msgstr "مستندات"
+
+msgid "Dodoma"
+msgstr "دودوما"
+
+msgid "Dokolo"
+msgstr "دوکولو"
+
+msgid "Dolj"
+msgstr "دولژ"
+
+msgid "Domain"
+msgstr "دامنه"
+
+msgid "Don't have an account?"
+msgstr "حساب کاربری ندارید؟"
+
+msgid "Dondușeni"
+msgstr "دوندوشن"
+
+msgid "Donechchyna"
+msgstr "دونچچینا"
+
+msgid "Donegal"
+msgstr "دانگل"
+
+msgid "Donga"
+msgstr "دانگا"
+
+msgid "Drochia"
+msgstr "دروکیا"
+
+msgid "DropDown"
+msgstr "دراپ داون(کشویی)"
+
+msgid "Duarte"
+msgstr "دوارتی"
+
+msgid "Dublin"
+msgstr "دوبلین"
+
+msgid "Dubăsari"
+msgstr "دوبوساری"
+
+msgid "Duplicate Value"
+msgstr "تکراری"
+
+msgid "Durango"
+msgstr "دورانگو"
+
+msgid "Durazno"
+msgstr "دورازنو"
+
+msgid "Durrës"
+msgstr "دوررس"
+
+msgid "Dâmbovița"
+msgstr "دامبوویتا"
+
+msgid "Düzce"
+msgstr "دوزجه"
+
+msgid "ERROR"
+msgstr "خطا"
+
+msgid "East Azarbaijan (آذربایجان شرقی)"
+msgstr "آذربایجان شرقی"
+
+msgid "East Macedonia and Thrace"
+msgstr "مقدونیه شرقی و تریسی"
+
+msgid "Eastern"
+msgstr "شرقی"
+
+msgid "Eastern Cape"
+msgstr "کیپ شرقی"
+
+msgid "Eastern Samar"
+msgstr "استرن سمر"
+
+msgid "Ebonyi"
+msgstr "ابنی"
+
+msgid "Edineț"
+msgstr "ادینت"
+
+msgid "Edirne"
+msgstr "ادیرنه"
+
+msgid "Edit Phone Number"
+msgstr "ویرایش شماره تلفن"
+
+msgid "Edit existing button menu item"
+msgstr "ویرایش آیتم منوی دکمه موجود"
+
+msgid "Edit existing button using our Button Editor"
+msgstr "دکمه موجود را با استفاده از ویرایشگر دکمه ما ویرایش کنید"
+
+msgid "Edo"
+msgstr "اودو"
+
+msgid "Ehime"
+msgstr "اشیمه"
+
+msgid "Either enter your Mobile Number or use Password!"
+msgstr "شماره تلفن همراه خود را وارد کنید یا از رمز عبور استفاده کنید!"
+
+msgid "Either enter your mobile number or click on sign up with password"
+msgstr "شماره تلفن همراه خود را وارد کنید یا روی ثبت نام با رمز عبور کلیک کنید"
+
+msgid "Ekiti"
+msgstr "اکیتی"
+
+msgid "El Bayadh"
+msgstr "إل بيده"
+
+msgid "El Callao"
+msgstr "ال کالائو"
+
+msgid "El Oro"
+msgstr "ال اورو"
+
+msgid "El Oued"
+msgstr "ال اود"
+
+msgid "El Paraíso"
+msgstr "ال پارایسو"
+
+msgid "El Progreso"
+msgstr "ال پروگرسو"
+
+msgid "El Seibo"
+msgstr "ال سیبو"
+
+msgid "El Tarf"
+msgstr "التارف"
+
+msgid "El Valle"
+msgstr "ال واله"
+
+msgid "Elazığ"
+msgstr "الازیچ"
+
+msgid "Elbasan"
+msgstr "الباسان"
+
+msgid "Elementor & Page Builder"
+msgstr "Elementor & Page Builder"
+
+msgid "Elgeyo-Marakwet"
+msgstr "الگیو-ماراکویت"
+
+msgid "Elías Piña"
+msgstr "الیاس پینیا"
+
+msgid "Email"
+msgstr "ایمیل"
+
+msgid "Email Address"
+msgstr "آدرس ایمیل"
+
+msgid "Email Gateway"
+msgstr "درگاه ایمیل"
+
+msgid "Email OTP"
+msgstr "کد تایید ایمیلی"
+
+msgid "Email Passcode"
+msgstr "رمز ایمیلی"
+
+msgid "Email already in use!"
+msgstr "ایمیل در حال استفاده است!"
+
+msgid "Email approval link has expired, Please try again!"
+msgstr "لینک تایید ایمیل منقضی شده است، لطفا دوباره امتحان کنید!"
+
+msgid "Email is already in use!"
+msgstr "ایمیل در حال حاضر در حال استفاده است!"
+
+msgid "Email not found, please try different method!"
+msgstr "ایمیل پیدا نشد، لطفا روش دیگری را امتحان کنید!"
+
+msgid "Email/Mobile Number"
+msgstr "ایمیل/شماره موبایل"
+
+msgid "Email/Mobile number has already registered"
+msgstr "ایمیل / شماره تلفن قبلا ثبت شده است"
+
+msgid "Emberá"
+msgstr "امبرا"
+
+msgid "Embu"
+msgstr "امبو"
+
+msgid "Enable %s-Factor Authentication"
+msgstr "فعالسازی احراز هویت %s-مرحله ای"
+
+msgid "Enable /wp-login.php Integration"
+msgstr "فعال‌سازی ادغام /wp-login.php"
+
+msgid "Enable Biometrics / Security Keys"
+msgstr "فعال کردن کلیدهای بیومتریک/امنیتی"
+
+msgid "Enable Brute Force Protection"
+msgstr "فعال کردن حفاظت از حملات فراگیر"
+
+msgid "Enable Forgot Password"
+msgstr "فعال کردن فراموشی رمزعبور"
+
+msgid "Enable New Design"
+msgstr "فعال‌سازی طراحی جدید"
+
+msgid "Enable Signup"
+msgstr "فعال سازی ثبت‌نام"
+
+msgid "Enable Strong Password"
+msgstr "فعال سازی بررسی قدرت گذرواژه"
+
+msgid "Enable checkout billing phone verification"
+msgstr "فعال کردن تأیید صحت تلفن فاکتور پرداخت"
+
+msgid "Enable guest checkout billing phone verification"
+msgstr "فعال کردن تأیید صحت تلفن فاکتور پرداخت مهمان"
+
+msgid ""
+"Enclose the word(s) between [t] and [/t] for terms and condition and [p] and [/"
+"t] for privacy policy."
+msgstr ""
+"نوشتن متن\n"
+"(s) ما بین [t] and [/t] برای شرایط و مقررات\n"
+" [p] و [/t] برای حفظ رازداری."
+
+msgid "Encode Message"
+msgstr "انکد پیغام"
+
+msgid "Enna"
+msgstr "Enna"
+
+msgid "Enriquillo"
+msgstr "انریکویلو"
+
+msgid "Enter Parameters separated by \",\" and values by \":\""
+msgstr "پارامترهای جدا شده توسط \"،\" و مقادیر \":\" را وارد کنید"
+
+msgid "Enter all fields!"
+msgstr "تمام موارد خواسته شده را وارد کنید!"
+
+msgid "Enter code shown on 2FA app"
+msgstr "کد نمایش داده شده در اپ 2FA را وارد کنید"
+
+msgid "Enter your password to continue"
+msgstr "برای ادامه رمز عبور خود را وارد کنید"
+
+msgid "Enter your purchase code"
+msgstr "کد خرید خود را وارد کنید"
+
+msgid "Entity ID"
+msgstr "شناسه موجودیت"
+
+msgid "Entre Ríos"
+msgstr "انتر ریوس"
+
+msgid "Enugu"
+msgstr "انوگو"
+
+msgid "Epirus"
+msgstr "اپیروس"
+
+msgid "Erongo"
+msgstr "ارنگو"
+
+msgid "Error"
+msgstr "خطا"
+
+msgid "Error please try again!"
+msgstr "خطا، لطفا دوباره امتحان کنید!"
+
+msgid "Error verifying your Phone Number, please try again!"
+msgstr "تأیید شماره موبایل با خطا مواجه شد، لطفاً دوباره امتحان کنید!"
+
+msgid "Error while generating username!"
+msgstr "خطا هنگام ایجاد نام کاربری!"
+
+msgid "Error while removing %s, as it is in use in %s-Factor Authentication!"
+msgstr "خطا هنگام حذف %s، زیرا در احراز هویت %s-مرحله ای استفاده می‌شود!"
+
+msgid "Error!"
+msgstr "خطا!"
+
+msgid "Error! Not found"
+msgstr "خطا! یافت نشد"
+
+msgid "Error! Please try again later"
+msgstr "خطا! لطفا مجدد تلاش کنید"
+
+msgid "Error! User not found."
+msgstr "خطا! کاربر پیدا نشد."
+
+msgid "Error, Please reload the page and try again!"
+msgstr "خطا، لطفاً صفحه را دوباره بارگیری کنید و دوباره امتحان کنید!"
+
+msgid "Error, Please try again after sometime"
+msgstr "خطا، لطفاً بعد از مدتی دوباره امتحان کنید"
+
+msgid "Error, auth not found!"
+msgstr "خطا، احراز هویت یافت نشد!"
+
+msgid "Error, please try again!"
+msgstr "خطا، لطفا دوباره امتحان کنید!"
+
+msgid "Error, token not found!"
+msgstr "خطا، توکن یافت نشد!"
+
+msgid "Error, while sending verification email! Please try again later"
+msgstr "خطا، هنگام ارسال ایمیل تأیید! لطفاً دوباره امتحان کنید"
+
+msgid "Error:"
+msgstr "خطا:"
+
+msgid "Erzincan"
+msgstr "ارزنجان"
+
+msgid "Erzurum"
+msgstr "ارزروم"
+
+msgid "Escuintla"
+msgstr "اسکوینتلا"
+
+msgid "Eskişehir"
+msgstr "اسکیشهر"
+
+msgid "Esmeraldas"
+msgstr "اسمرالداس"
+
+msgid "Espaillat"
+msgstr "اسپالی"
+
+msgid "Espírito Santo"
+msgstr "اسپیریتو سانتو"
+
+msgid "Estado de México"
+msgstr "استادو مکزیک"
+
+msgid "Estelí"
+msgstr "استلی"
+
+msgid "Expand Onboarding Wizard"
+msgstr "بازکردن نصب سریع"
+
+msgid ""
+"Expand your website dimensions by providing signup and login using mobile "
+"number. User can register themselves with just a mobile number."
+msgstr ""
+"امکانات وب‌سایت خود را با ارائه ثبت‎نام و ورود با موبایل گسترش دهید. کاربر "
+"می‌تواند تنها با یک شماره موبایل ثبت‌نام کند."
+
+msgid "Export"
+msgstr "برون ریزی"
+
+msgid "Export / Import Settings"
+msgstr "تنظیمات درون‌ریزی/برون‌ریزی"
+
+msgid "FATA"
+msgstr "نواحی قبیله نشین فدرال"
+
+msgid "Failed, please try logging in again!"
+msgstr "ناموفق، لطفا دوباره وارد شوید!"
+
+msgid "Faiyum"
+msgstr "فایوم"
+
+msgid "Falcón"
+msgstr "فالکون"
+
+msgid "Faridpur "
+msgstr "فریدپور (Faridpur ) "
+
+msgid "Fars (فارس)"
+msgstr "فارس"
+
+msgid "Fatick"
+msgstr "فتیچ"
+
+msgid "Federal Dependencies"
+msgstr "وابستگی‌های فدرال"
+
+msgid "Fejér"
+msgstr "فایر"
+
+msgid "Feni"
+msgstr "فینی"
+
+msgid "Fermo"
+msgstr "Fermo"
+
+msgid "Ferrara"
+msgstr "فرارا"
+
+msgid "Field Already exist"
+msgstr "فیلد قبلا وجود دارد"
+
+msgid "Field Background Color"
+msgstr "رنگ پس زمینه فیلد"
+
+msgid "Field Type"
+msgstr "نوع فیلد"
+
+msgid "Fier"
+msgstr "Fier"
+
+msgid "Firebase Config"
+msgstr "Firebase تنظیمات"
+
+msgid "Firenze"
+msgstr "فلورانس"
+
+msgid "First Name"
+msgstr "نام"
+
+msgid "Fix It"
+msgstr "تعمیر"
+
+msgid "Fixed the problem of typing Persian numbers"
+msgstr "رفع مشکل تایپ اعداد فارسی"
+
+msgid "Flores"
+msgstr "فلورس"
+
+msgid "Florești"
+msgstr "فلورشت"
+
+msgid "Florida"
+msgstr "فلوریدا"
+
+msgid "Foggia"
+msgstr "فرودگاه فوگیا"
+
+msgid "Font Family"
+msgstr "خانواده فونت"
+
+msgid "For All Payment Methods"
+msgstr "برای همه روش‌های پرداخت"
+
+msgid "For Cash on Delivery"
+msgstr "برای پرداخت نقدی هنگام تحویل"
+
+msgid ""
+"For SMS gateways besides Firebase, we recommend testing your gateway "
+"beforehand to avoid confusion and ensure successful message delivery."
+msgstr ""
+"برای درگاه پیامکی علاوه بر Firebase، توصیه می‌کنیم درگاه پیامکی خود را تست کنید "
+"تا از تحویل موفقیت‌آمیز پیامک اطمینان حاصل کنید."
+
+msgid ""
+"For example \"I Agree [t]Terms and Conditions[/t] & [p]Privacy Policy[/t]\""
+msgstr "مثلا : \"موافقم شرایط و ضوابط [/ t] و [p] سیاست حفظ حریم خصوصی [/ t]\""
+
+msgid ""
+"For example, you can only let admin user role to login using OTP and all other "
+"user roles should login using password"
+msgstr ""
+"به عنوان مثال، شما فقط می توانید به نقش کاربر مدیر اجازه ورود با استفاده از "
+"OTP را بدهید و همه نقش های کاربر دیگر باید با استفاده از رمز عبور وارد شوند"
+
+msgid "Forgot"
+msgstr "فراموش کردم"
+
+msgid "Forgot Password"
+msgstr "فراموشی رمز عبور"
+
+msgid "Forgot Password Form"
+msgstr "فرم فراموشی پسورد"
+
+msgid "Forgot Password Modal"
+msgstr "ماژول فراموشی رمز"
+
+msgid "Forgot Password Page"
+msgstr "صفحه فراموشی رمز عبور"
+
+msgid "Forgot Password Redirect"
+msgstr "تغییر مسیر فراموش رمز عبور"
+
+msgid "Forgot Password is disabled"
+msgstr "فراموشی رمزعبور غیرفعال است"
+
+msgid "Forgot Password is disabled!"
+msgstr "فراموشی رمز غیرفعال است!"
+
+msgid "Forgot Password is not enabled!"
+msgstr "فراموشی رمز عبورفعال نیست!"
+
+msgid "Forgot your Password?"
+msgstr "رمز عبور را فراموش کرده اید؟"
+
+msgid "Forgot your password?"
+msgstr "رمز عبور خود را فراموش کرده اید؟"
+
+msgid "Forlì-Cesena"
+msgstr "فورلی کسنا"
+
+msgid "Form Break"
+msgstr "شکست فرم"
+
+msgid "Form Fields"
+msgstr "فیلد های فرم"
+
+msgid "Form Type"
+msgstr "نوع فرم"
+
+msgid "Formosa"
+msgstr "فورموسا"
+
+msgid "Forms"
+msgstr "فرم ها"
+
+msgid "Forms General"
+msgstr "فرم های عمومی"
+
+msgid "Francisco Morazán"
+msgstr "فرانسیسکو مورازان"
+
+msgid "Free State"
+msgstr "منطقه آزاد"
+
+msgid "Fribourg"
+msgstr "فریبورگ"
+
+msgid "From"
+msgstr "از"
+
+msgid "From Email"
+msgstr "از ایمیل"
+
+msgid "From Name"
+msgstr "از نام"
+
+msgid "From Phone Number (with + and country code)"
+msgstr "از شماره تلفن (با + و کد کشور)"
+
+msgid "From Phone Number (with 0)"
+msgstr "از شماره تلفن (با 0)"
+
+msgid "From Phone Number (with just country code)"
+msgstr "از شماره تلفن (فقط با کد کشور)"
+
+msgid "From Phone Number (without country code)"
+msgstr "از شماره تلفن (بدون کد کشور)"
+
+msgid "From Phone Number ID"
+msgstr "از شناسه شماره تلفن"
+
+msgid "Frosinone"
+msgstr "Frosinone"
+
+msgid "Fujian / 福建"
+msgstr "فوجیان / 福建"
+
+msgid "Fukui"
+msgstr "Fukui"
+
+msgid "Fukuoka"
+msgstr "فوکوئوکا"
+
+msgid "Fukushima"
+msgstr "فوکوشیما"
+
+msgid "Fălești"
+msgstr "فلستی"
+
+msgid "Gabrovo"
+msgstr "گابروو"
+
+msgid "Gaibandha"
+msgstr "گایباندا"
+
+msgid "Galați"
+msgstr "گالاتچی"
+
+msgid "Galway"
+msgstr "گولوی"
+
+msgid "Galápagos"
+msgstr "گالاپاگوس"
+
+msgid "Gandaki"
+msgstr "گنداکی"
+
+msgid "Gansu / 甘肃"
+msgstr "گانسو / 甘肃"
+
+msgid "Garissa"
+msgstr "گاریسا"
+
+msgid "Gateway Parameters"
+msgstr "پارامترهای درگاه پیامکی"
+
+msgid "Gateway Response"
+msgstr "پاسخ درگاه"
+
+msgid "Gauteng"
+msgstr "گاوتنگ"
+
+msgid "Gaza"
+msgstr "گازا"
+
+msgid "Gaziantep"
+msgstr "قازیانتپ"
+
+msgid "Gazipur"
+msgstr "قازی پور"
+
+msgid "Gbarpolu"
+msgstr "Gbarpolu"
+
+msgid "Geita"
+msgstr "Geita"
+
+msgid "General"
+msgstr "عمومی"
+
+msgid "Geneva"
+msgstr "ژنو"
+
+msgid "Genova"
+msgstr "جنوا"
+
+msgid "Gharbia"
+msgstr "گربیا"
+
+msgid "Ghardaïa"
+msgstr "غدایا"
+
+msgid "Ghazvin (قزوین)"
+msgstr "قزوین"
+
+msgid "Gifu"
+msgstr "گیفو"
+
+msgid "Gilan (گیلان)"
+msgstr "گیلان"
+
+msgid "Gilgit Baltistan"
+msgstr "گلگت بلتستان"
+
+msgid "Gipuzkoa"
+msgstr "گیپوزوکا"
+
+msgid "Giresun"
+msgstr "گیرسون"
+
+msgid "Girona"
+msgstr "جیرونا"
+
+msgid "Gisborne"
+msgstr "گیسبورن"
+
+msgid "Giurgiu"
+msgstr "جورجو"
+
+msgid "Giza"
+msgstr "جیزه"
+
+msgid "Gjirokastër"
+msgstr "جیروکاستر"
+
+msgid "Glarus"
+msgstr "گلاروس"
+
+msgid "Glodeni"
+msgstr "‏Glodeni"
+
+msgid "Go Back"
+msgstr "بازگشت"
+
+msgid "Go back"
+msgstr "بازگشت"
+
+msgid "Goa"
+msgstr "گوا"
+
+msgid "Goiás"
+msgstr "گویاس"
+
+msgid "Golestan (گلستان)"
+msgstr "گلستان"
+
+msgid "Gomba"
+msgstr "گمبا"
+
+msgid "Gombe"
+msgstr "گومب"
+
+msgid "Gopalganj"
+msgstr "گوپال گنج"
+
+msgid "Gorizia"
+msgstr "Gorizia"
+
+msgid "Gorj"
+msgstr "گورژ"
+
+msgid "Gorontalo"
+msgstr "Gorontalo"
+
+msgid "Gracias a Dios"
+msgstr "گراتسیاس ادیوس"
+
+msgid "Granada"
+msgstr "گرانادا"
+
+msgid "Grand Bassa"
+msgstr "Grand Bassa"
+
+msgid "Grand Cape Mount"
+msgstr "کوه گراند کاپ"
+
+msgid "Grand Gedeh"
+msgstr "Grand Gedeh"
+
+msgid "Grand Kru"
+msgstr "Grand Kru"
+
+msgid "Graubünden"
+msgstr "گراوبندن"
+
+msgid "Greater Accra"
+msgstr "Greater Accra"
+
+msgid "Grosseto"
+msgstr "گراستو"
+
+msgid "Guadalajara"
+msgstr "گوادالاجارا"
+
+msgid "Guainía"
+msgstr "گوینیا"
+
+msgid "Guairá"
+msgstr "گوئیرا"
+
+msgid "Guanacaste"
+msgstr "گوواناکاست"
+
+msgid "Guanajuato"
+msgstr "Guanajuato"
+
+msgid "Guangdong / 广东"
+msgstr "گوانگ دونگ / 广东"
+
+msgid "Guangxi Zhuang / 广西壮族"
+msgstr "چینگ یانگ / 广西壮族"
+
+msgid "Guatemala"
+msgstr "گواتمالا"
+
+msgid "Guaviare"
+msgstr "گواویار"
+
+msgid "Guayas"
+msgstr "گوایس"
+
+msgid "Guelma"
+msgstr "گلمه"
+
+msgid "Guerrero"
+msgstr "گوررو"
+
+msgid "Guimaras"
+msgstr "گیماراس"
+
+msgid "Guizhou / 贵州"
+msgstr "گوئیژو / 贵州"
+
+msgid "Gujarat"
+msgstr "گجرات"
+
+msgid "Gulu"
+msgstr "گلو"
+
+msgid "Guna Yala"
+msgstr "گونا یالا"
+
+msgid "Gunma"
+msgstr "گومه آ"
+
+msgid "Guárico"
+msgstr "گوآریکو"
+
+msgid "Győr-Moson-Sopron"
+msgstr "گیور-موشرون-شوپرون"
+
+msgid "Gümüşhane"
+msgstr "گوموش خانه"
+
+msgid "HTTP Header"
+msgstr "HTTP Header"
+
+msgid "HTTP Method"
+msgstr "نوع (متد) HTTP"
+
+msgid "Habiganj"
+msgstr "هابیگانج"
+
+msgid "Hainan / 海南"
+msgstr "جیانگ / 海南"
+
+msgid "Hajdú-Bihar"
+msgstr "هایدو-بیهار"
+
+msgid "Hakkari"
+msgstr "Hakkari"
+
+msgid "Hamadan (همدان)"
+msgstr "همدان"
+
+msgid "Hamburg"
+msgstr "Hamburg"
+
+msgid "Hanover"
+msgstr "هانوور"
+
+msgid "Hardap"
+msgstr "هاردپ"
+
+msgid "Harghita"
+msgstr "هارگیتا"
+
+msgid "Haryana"
+msgstr "هاریانا"
+
+msgid "Haskovo"
+msgstr "خاسکوو"
+
+msgid "Hatay"
+msgstr "هاتای"
+
+msgid "Hato Mayor"
+msgstr "هاتو مایور"
+
+msgid "Have other options to change it"
+msgstr "گزینه های دیگری برای تغییر آن داشته باشید"
+
+msgid "Hawaii"
+msgstr "هاوایی"
+
+msgid "Hawke’s Bay"
+msgstr "خلیج هاوک (Hawke’s Bay)"
+
+msgid "Headers separated by \",\""
+msgstr "سرصفحه های جدا شده توسط \"،\""
+
+msgid "Hebei / 河北"
+msgstr "هبی / 河北"
+
+msgid "Heilongjiang / 黑龙江"
+msgstr "هیلونگجیانگ / 黑龙江"
+
+msgid "Help us improve Digits by opting in to share non-sensitive plugin data"
+msgstr "با اشتراک‌گذاری داده‌های غیرحساس افزونه، به ما در بهبود دیجیتس کمک کنید"
+
+msgid "Henan / 河南"
+msgstr "هنان / 河南"
+
+msgid "Heredia"
+msgstr "اریدیا"
+
+msgid "Hermanas Mirabal"
+msgstr "هرمناس میرابل"
+
+msgid "Herrera"
+msgstr "هررا"
+
+msgid "Hesse"
+msgstr "Hesse"
+
+msgid "Heves"
+msgstr "Heves"
+
+msgid "Hidalgo"
+msgstr "هیدالگو"
+
+msgid "Hide Country Code"
+msgstr "مخفی کردن کد کشور"
+
+msgid "Hide This"
+msgstr "پنهان کردن این"
+
+msgid "Higüamo"
+msgstr "هیگوآمئو"
+
+msgid "Himachal Pradesh"
+msgstr "هیماچال پرادش"
+
+msgid "Hiroshima"
+msgstr "هیروشیما"
+
+msgid "Hoima"
+msgstr "هویما"
+
+msgid "Hokkaido"
+msgstr "هوکایدو"
+
+msgid "Homa Bay"
+msgstr "خلیج هما"
+
+msgid "Hong Kong Island"
+msgstr "جزیره هنگ کنگ"
+
+msgid "Hormozgan (هرمزگان)"
+msgstr "هرمزگان"
+
+msgid "Houaphanh"
+msgstr "Houaphanh"
+
+msgid "How To Link Login Page or Modal"
+msgstr "نحوه پیوند دادن صفحه ورود یا Modal"
+
+msgid "How To Trigger Modal From A Custom Button"
+msgstr "نحوه فعال کردن Modal از یک دکمه سفارشی"
+
+msgid "How can it be changed?"
+msgstr "چگونه می توان آن را تغییر داد؟"
+
+msgid "How can we improve this wizard?"
+msgstr "چگونه می توانیم این جادوگر را بهبود بخشیم؟"
+
+msgid "How to change the link of an existing button"
+msgstr "نحوه تغییر پیوند یک دکمه موجود"
+
+msgid "How to use Builder"
+msgstr "نحوه استفاده از سازنده"
+
+msgid "How to use Elementor"
+msgstr "نحوه استفاده از المنتور"
+
+msgid "How to use Login and Registration Form"
+msgstr "نحوه استفاده از فرم ورود و ثبت نام"
+
+msgid "Howland Island"
+msgstr "جزیره هولند"
+
+msgid "Huambo"
+msgstr "هامبو"
+
+msgid "Huancavelica"
+msgstr "گوانگاولیتا"
+
+msgid "Hubei / 湖北"
+msgstr "هوبئی / 湖北"
+
+msgid "Huehuetenango"
+msgstr "هواهویتنانگو"
+
+msgid "Huelva"
+msgstr "Huelva"
+
+msgid "Huesca"
+msgstr "هوسکا"
+
+msgid "Huila"
+msgstr "هویلا"
+
+msgid "Hunan / 湖南"
+msgstr "هونان / 湖南"
+
+msgid "Hunedoara"
+msgstr "هونه دوآرا"
+
+msgid "Huánuco"
+msgstr "هانوکو"
+
+msgid "Huíla"
+msgstr "هویلا"
+
+msgid "Hyogo"
+msgstr "هیوگو"
+
+msgid "Hîncești"
+msgstr "هنچشت"
+
+msgid "I don't know how to change it"
+msgstr "نمیدونم چجوری عوضش کنم"
+
+msgid "I want to use <span>Digits Forms</span>"
+msgstr "من می خواهم از <span>فرم های دیجیتس</span> استفاده کنم"
+
+msgid "I want to use <span>Paid</span> OTP SMS"
+msgstr "من می خواهم از پیام کوتاه کد یکبار مصرف <span>پولی</span> استفاده کنم"
+
+msgid "I want to use my <span>Existing Forms</span>"
+msgstr "من می خواهم از <span>فرم های موجود</span> خود استفاده کنم"
+
+msgid "I will <span>use Drag and Drop Builder</span>"
+msgstr "من <span>از بیلدر کشیدن و رهاکردن</span> استفاده خواهم کرد"
+
+msgid "Ialomița"
+msgstr "ایالومیتا"
+
+msgid "Ialoveni"
+msgstr "‏Ialoveni"
+
+msgid "Iași"
+msgstr "ایاش"
+
+msgid "Ibanda"
+msgstr "ایباندا"
+
+msgid "Ibaraki"
+msgstr "ایباراکی"
+
+msgid "Ica"
+msgstr "ایکا"
+
+msgid "Idaho"
+msgstr "آیداهو"
+
+msgid ""
+"If Firebase is being used as the SMS gateway, users can only receive an SMS "
+"OTP if they log in with their phone number. This means that attempting to log "
+"in using an email or username will not trigger the SMS OTP for security "
+"reasons."
+msgstr ""
+"اگر Firebase بعنوان درگاه پیامکی استفاده می‌شود، کاربران تنها در صورتی می "
+"توانند پیامک تایید دریافت کنند که با شماره تلفن خود وارد شوند. این بدان معناست "
+"که به دلایل امنیتی تلاش برای ورود با استفاده از ایمیل یا نام‌کاربری، پیامک "
+"تایید را فعال نمی‌کند."
+
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+"اگر این یک اشتباه بود، فقط این ایمیل را نادیده بگیرید و هیچ اتفاقی نخواهد "
+"افتاد."
+
+msgid ""
+"If you don’t have an existing button then the easiest option is to create a "
+"menu item on your site which triggers login or signup form for User"
+msgstr ""
+"اگر دکمه موجود ندارید، ساده ترین گزینه ایجاد یک آیتم منو در سایت شما است که "
+"فرم ورود یا ثبت نام را برای کاربر فعال می کند"
+
+msgid ""
+"If you want to use same purchase code on your production site then please "
+"click the below button to request for it. Our team will take less than 12 "
+"hours to respond to your request, and will notify via email."
+msgstr ""
+"اگر می خواهید از همان کد خرید در سایت درحال ساخت خود استفاده کنید، لطفاً روی "
+"دکمه زیر کلیک کنید تا آن را درخواست کنید. تیم ما کمتر از 12 ساعت طول می کشد تا "
+"به درخواست شما پاسخ دهد و از طریق ایمیل به شما اطلاع خواهد داد."
+
+msgid ""
+"If you want to use same purchase code on your testing site then please click "
+"the below button to request for it. Our team will take less than 12 hours to "
+"respond to your request, and will notify via email."
+msgstr ""
+"اگر می خواهید از همان کد خرید در سایت آزمایشی خود استفاده کنید، لطفاً روی دکمه "
+"زیر کلیک کنید تا آن را درخواست کنید. تیم ما کمتر از 12 ساعت طول می کشد تا به "
+"درخواست شما پاسخ دهد و از طریق ایمیل به شما اطلاع خواهد داد."
+
+msgid ""
+"If your theme has other options to change it then please do the needful "
+"changes or else you can go through the below documentations."
+msgstr ""
+"اگر تم شما گزینه های دیگری برای تغییر آن دارد، لطفاً تغییرات لازم را انجام دهید "
+"وگرنه می توانید اسناد زیر را مرور کنید."
+
+msgid "Ifugao"
+msgstr "ایفوگائو"
+
+msgid "Iganga"
+msgstr "ایگانگا"
+
+msgid "Ilaam (ایلام)"
+msgstr "ایلام"
+
+msgid "Ilfov"
+msgstr "ایلفوف"
+
+msgid "Illinois"
+msgstr "ایلینویز"
+
+msgid "Illizi"
+msgstr "ایلیسی"
+
+msgid "Ilocos Norte"
+msgstr "ایلوقس شمالی"
+
+msgid "Ilocos Sur"
+msgstr "ایلوقس جنوبی"
+
+msgid "Iloilo"
+msgstr "ایلویلیو"
+
+msgid "Imbabura"
+msgstr "ایمبابورا"
+
+msgid "Immediately send OTP on"
+msgstr "ارسال کد یکبار مصرف بلافاصله در"
+
+msgid "Imo"
+msgstr "Imo"
+
+msgid "Imperia"
+msgstr "Imperia"
+
+msgid "Import"
+msgstr "درون ریزی"
+
+msgid "Important Contact Info"
+msgstr "اطلاعات تماس مهم"
+
+msgid ""
+"In case you are using same purchase code on your testing/production server, "
+"then make sure to request addon domain."
+msgstr ""
+"در صورتی که از همان کد خرید در سرور آزمایش/تولید خود استفاده می کنید، مطمئن "
+"شوید که دامنه افزونه را درخواست کنید."
+
+msgid "Independencia"
+msgstr "ایندپندنتسیا"
+
+msgid "Indiana"
+msgstr "ایندیانا"
+
+msgid "Inhambane"
+msgstr "Inhambane"
+
+msgid "Inner Mongolia / 內蒙古"
+msgstr "مغولستان داخلی / 內蒙古"
+
+msgid "Input Background Color"
+msgstr "رنگ پس زمینه ورودی"
+
+msgid "Input Border Color"
+msgstr "رنگ خط ورودی"
+
+msgid "Input Text Color"
+msgstr "رنگ متن ورودی"
+
+msgid "Install"
+msgstr "نصب"
+
+msgid "Install Required Plugins"
+msgstr "نصب پلاگین های مورد نیاز"
+
+msgid "Instance ID"
+msgstr "شناسه نمونه"
+
+msgid "International"
+msgstr "بین المللی"
+
+msgid "Intibucá"
+msgstr "ایندیبوکا"
+
+msgid "Invalid  Email!"
+msgstr "ایمیل نامعتبر!"
+
+msgid "Invalid API credentials!"
+msgstr "اعتبار نامعتبر API!"
+
+msgid "Invalid Country Code!"
+msgstr "کد کشور نامعتبر است!"
+
+msgid "Invalid Credentials!"
+msgstr "اطلاعات نامعتبر!"
+
+msgid "Invalid Details!"
+msgstr "جزئیات نامعتبر!"
+
+msgid "Invalid Email Address"
+msgstr "آدرس ایمیل نامعتبر"
+
+msgid "Invalid Email or Mobile Number"
+msgstr "شماره موبایل یا ایمیل نامعتبر"
+
+msgid "Invalid Email or mobile number!"
+msgstr "ایمیل/شماره موبایل نامعتبر است!"
+
+msgid "Invalid Email!"
+msgstr "ایمیل نامعتبر!"
+
+msgid "Invalid Email/Mobile Number"
+msgstr "شماره موبایل یا ایمیل نامعتبر است"
+
+msgid "Invalid Mobile Number"
+msgstr "شماره موبایل نامعتبر"
+
+msgid "Invalid Mobile Number or email"
+msgstr "شماره تلفن یا ایمیل نامعتبر است"
+
+msgid "Invalid Mobile Number!"
+msgstr "شماره موبایل نامعتبر!"
+
+msgid "Invalid Name!"
+msgstr "نام نامعتبر است!"
+
+msgid "Invalid OTP!"
+msgstr "کد تایید نامعبر است!"
+
+msgid "Invalid Password"
+msgstr "رمزعبور نامعتبر است"
+
+msgid "Invalid Password!"
+msgstr "رمزعبور نامعتبر است!"
+
+msgid "Invalid Purchase Code"
+msgstr "لایسنس نامعتبر است"
+
+msgid "Invalid URL!"
+msgstr "آدرس نامعتبر!"
+
+msgid "Invalid Username!"
+msgstr "نام کاربری نامعتبر است!"
+
+msgid "Invalid country code!"
+msgstr "کد کشور نامعتبر است!"
+
+msgid "Invalid details!"
+msgstr "جزئیات نامعتبر!"
+
+msgid "Invalid login credentials!"
+msgstr "ورود نامعتبر است!"
+
+msgid "Invalid msg91 sender id!"
+msgstr "شناسه فرستنده msg91 نامعتبر است!"
+
+msgid "Invalid password"
+msgstr "رمز عبور نامعتبر"
+
+msgid "Invisible (v2)"
+msgstr "ریکپچا نامرئی، نسخه 2"
+
+msgid "Ionian Islands"
+msgstr "جزایر ایونی"
+
+msgid "Iowa"
+msgstr "آیووا"
+
+msgid "Iringa"
+msgstr "ایرینگا"
+
+msgid "Isabela"
+msgstr "ایزابلا"
+
+msgid "Isernia"
+msgstr "Isernia"
+
+msgid "Isfahan (اصفهان)"
+msgstr "اصفهان"
+
+msgid "Ishikawa"
+msgstr "ایشیکاوا"
+
+msgid "Isingiro"
+msgstr "ایسینگیرو"
+
+msgid "Isiolo"
+msgstr "ایثیولو"
+
+msgid "Islamabad Capital Territory"
+msgstr "ناحیه پایتختی اسلام آباد"
+
+msgid "Ismailia"
+msgstr "اسماعیلیه"
+
+msgid "Isparta"
+msgstr "ایزپارتا"
+
+msgid "It can be changed from Menu Items"
+msgstr "می توان آن را از آیتم های منو تغییر داد"
+
+msgid "Itapúa"
+msgstr "ایتاپوآ"
+
+msgid "Iwate"
+msgstr "ایواته"
+
+msgid "Izabal"
+msgstr "ایزابلا"
+
+msgid "Iğdır"
+msgstr "ایقدیر"
+
+msgid "JS"
+msgstr "JS"
+
+msgid "Jalapa"
+msgstr "جالپا"
+
+msgid "Jalisco"
+msgstr "Jalisco"
+
+msgid "Jamalpur"
+msgstr "جمالپور"
+
+msgid "Jambi"
+msgstr "Jambi"
+
+msgid "Jammu and Kashmir"
+msgstr "جامو و کشمیر"
+
+msgid "Janakpur"
+msgstr "جاناکپور"
+
+msgid "Jarvis Island"
+msgstr "جزیره جارویس"
+
+msgid "Jashore"
+msgstr "Jashore"
+
+msgid "Jawa Barat"
+msgstr "جاوه برات"
+
+msgid "Jawa Tengah"
+msgstr "جاوا تنگا"
+
+msgid "Jawa Timur"
+msgstr "جاوا تیمور"
+
+msgid "Jaén"
+msgstr "ساین"
+
+msgid "Jhalokati"
+msgstr "Jhalokati"
+
+msgid "Jharkhand"
+msgstr "Jharkhand"
+
+msgid "Jhenaidah"
+msgstr "جناحیاه"
+
+msgid "Jiangsu / 江苏"
+msgstr "جیانگسو / 江苏"
+
+msgid "Jiangxi / 江西"
+msgstr "جیانگشی / 江西"
+
+msgid "Jigawa"
+msgstr "جیگوا"
+
+msgid "Jijel"
+msgstr "جیجل"
+
+msgid "Jilin / 吉林"
+msgstr "جیلین / 吉林"
+
+msgid "Jinja"
+msgstr "جینجا"
+
+msgid "Jinotega"
+msgstr "جینوته گا"
+
+msgid "Johnston Atoll"
+msgstr "جانستون اتل"
+
+msgid "Johor"
+msgstr "جوهور"
+
+msgid "Joypurhat"
+msgstr "Joypurhat"
+
+msgid "Jujuy"
+msgstr "خوخوئی"
+
+msgid "Junín"
+msgstr "یانین"
+
+msgid "Jura"
+msgstr "جورا"
+
+msgid "Jutiapa"
+msgstr "جوتیپا"
+
+msgid "Jász-Nagykun-Szolnok"
+msgstr "ایاز-ناتگکن-سولنوک"
+
+msgid "Kaabong"
+msgstr "کابونگ"
+
+msgid "Kabale"
+msgstr "کابل"
+
+msgid "Kabarole"
+msgstr "کبیرول"
+
+msgid "Kaberamaido"
+msgstr "کابرمایدو"
+
+msgid "Kaduna"
+msgstr "کادونا"
+
+msgid "Kaffrine"
+msgstr "کافرین"
+
+msgid "Kafr el-Sheikh"
+msgstr "کفر السیخ"
+
+msgid "Kagadi"
+msgstr "کاگادی"
+
+msgid "Kagawa"
+msgstr "کاگاوا"
+
+msgid "Kagera"
+msgstr "کاگرا"
+
+msgid "Kagoshima"
+msgstr "کاگوشیما"
+
+msgid "Kahramanmaraş"
+msgstr "قهرمان مارش"
+
+msgid "Kajiado"
+msgstr "کاجیادو"
+
+msgid "Kakamega"
+msgstr "کاکامگا"
+
+msgid "Kakumiro"
+msgstr "کاکومیرو"
+
+msgid "Kalangala"
+msgstr "کالانگالا"
+
+msgid "Kalasin"
+msgstr "کلاسین"
+
+msgid "Kalimantan Barat"
+msgstr "کالیمانانت بارات"
+
+msgid "Kalimantan Selatan"
+msgstr "کلمینانت سلاتیان"
+
+msgid "Kalimantan Tengah"
+msgstr "کالیمانانت تنگه"
+
+msgid "Kalimantan Timur"
+msgstr "کلیمانتان تیمور"
+
+msgid "Kalimantan Utara"
+msgstr "کالیمانتان Utara"
+
+msgid "Kalinga"
+msgstr "Kalinga"
+
+msgid "Kaliro"
+msgstr "کالیرو"
+
+msgid "Kalungu"
+msgstr "کالونگو"
+
+msgid "Kampala"
+msgstr "کامپالا"
+
+msgid "Kamphaeng Phet"
+msgstr "کامپینگ فت"
+
+msgid "Kamuli"
+msgstr "کامولی"
+
+msgid "Kamwenge"
+msgstr "کامونج"
+
+msgid "Kanagawa"
+msgstr "کانگاوا"
+
+msgid "Kanchanaburi"
+msgstr "کانچانابوری"
+
+msgid "Kano"
+msgstr "کانو"
+
+msgid "Kansas"
+msgstr "کانزاس"
+
+msgid "Kanungu"
+msgstr "کانونهو"
+
+msgid "Kaolack"
+msgstr "کائولاک"
+
+msgid "Kapchorwa"
+msgstr "کاپچورا"
+
+msgid "Kapelebyong"
+msgstr "کاپلبیونگ"
+
+msgid "Karabük"
+msgstr "قره بوک"
+
+msgid "Karaman"
+msgstr "قارامان"
+
+msgid "Karas"
+msgstr "کاراس"
+
+msgid "Kardzhali"
+msgstr "کاردزالی"
+
+msgid "Karnali"
+msgstr "کارنالی"
+
+msgid "Karnataka"
+msgstr "کارناتاکا"
+
+msgid "Kars"
+msgstr "کارس"
+
+msgid "Kasanda"
+msgstr "کاساندا"
+
+msgid "Kasese"
+msgstr "کاسیه"
+
+msgid "Kastamonu"
+msgstr "کاستمونو"
+
+msgid "Katakwi"
+msgstr "کاتاکوی"
+
+msgid "Katavi"
+msgstr "Katavi"
+
+msgid "Katsina"
+msgstr "کاتسینا"
+
+msgid "Kavango East"
+msgstr "کاوانگو ایست"
+
+msgid "Kavango West"
+msgstr "کاوانگو وست"
+
+msgid "Kayseri"
+msgstr "کای سرای"
+
+msgid "Kayunga"
+msgstr "کایونگا"
+
+msgid "Kebbi"
+msgstr "کبّی"
+
+msgid "Kedah"
+msgstr "کداه (Kedah)"
+
+msgid "Kelantan"
+msgstr "تناقض صحبت"
+
+msgid "Kentucky"
+msgstr "کنتاکی"
+
+msgid "Kepulauan Riau"
+msgstr "کاپولاوان ریاو"
+
+msgid "Kerala"
+msgstr "کرالا"
+
+msgid "Kericho"
+msgstr "کریکو"
+
+msgid "Kerman (کرمان)"
+msgstr "کرمان"
+
+msgid "Kermanshah (کرمانشاه)"
+msgstr "کرمانشاه"
+
+msgid "Kerry"
+msgstr "کری"
+
+msgid "Key"
+msgstr "کلید"
+
+msgid "Key verification failed, if issue persists please try reloading!"
+msgstr "تأیید کلید ناموفق بود، اگر مشکل ادامه داشت، بارگیری مجدد را تست کنید!"
+
+msgid "Key:"
+msgstr "کلید:"
+
+msgid "Khagrachhari"
+msgstr "Khagrachhari"
+
+msgid "Khammouane"
+msgstr "Khammouane"
+
+msgid "Kharkivshchyna"
+msgstr "خارکشچینا"
+
+msgid "Khenchela"
+msgstr "کنشلا"
+
+msgid "Khersonshchyna"
+msgstr "Khersonshchyna"
+
+msgid "Khmelnychchyna"
+msgstr "خملنیچچینا"
+
+msgid "Khomas"
+msgstr "خمس"
+
+msgid "Khon Kaen"
+msgstr "خون کین"
+
+msgid "Khulna"
+msgstr "Khulna"
+
+msgid "Khuzestan (خوزستان)"
+msgstr "خوزستان"
+
+msgid "Khyber Pakhtunkhwa"
+msgstr "خیبر پختونخوا"
+
+msgid "Kiambu"
+msgstr "کیامبو"
+
+msgid "Kibaale"
+msgstr "کیباله"
+
+msgid "Kiboga"
+msgstr "کیبوگا"
+
+msgid "Kibuku"
+msgstr "کیبوکو"
+
+msgid "Kigoma"
+msgstr "کیگوما"
+
+msgid "Kikuube"
+msgstr "کیکوئوب"
+
+msgid "Kildare"
+msgstr "کیلدر"
+
+msgid "Kilifi"
+msgstr "کیلیفی"
+
+msgid "Kilimanjaro"
+msgstr "کلیمانجارو"
+
+msgid "Kilis"
+msgstr "اجلاس"
+
+msgid "Kilkenny"
+msgstr "کیلکنی"
+
+msgid "Kingman Reef"
+msgstr "کینگمن ریف"
+
+msgid "Kingston"
+msgstr "کینگستون"
+
+msgid "Kirinyaga"
+msgstr "کیرینیاگا"
+
+msgid "Kirovohradschyna"
+msgstr "کیروهرادشنا"
+
+msgid "Kiruhura"
+msgstr "کیروهرا"
+
+msgid "Kiryandongo"
+msgstr "کیریاندونگو"
+
+msgid "Kishoreganj"
+msgstr "Kishoreganj"
+
+msgid "Kisii"
+msgstr "کیزی"
+
+msgid "Kisoro"
+msgstr "کیسورو"
+
+msgid "Kisumu"
+msgstr "کیسومو"
+
+msgid "Kitgum"
+msgstr "کیتگام"
+
+msgid "Kitui"
+msgstr "کیتوی"
+
+msgid "Koboko"
+msgstr "کوبوکو"
+
+msgid "Kocaeli"
+msgstr "کوجایلی"
+
+msgid "Kochi"
+msgstr "کوچی"
+
+msgid "Kogi"
+msgstr "کگی"
+
+msgid "Kohgiluyeh and BoyerAhmad (کهگیلوییه و بویراحمد)"
+msgstr "کهگیلوییه و بویراحمد"
+
+msgid "Kolda"
+msgstr "کلدا"
+
+msgid "Kole"
+msgstr "کول"
+
+msgid "Komárom-Esztergom"
+msgstr "کومارم-استرگم"
+
+msgid "Konya"
+msgstr "قونیه"
+
+msgid "Korçë"
+msgstr "کرچه"
+
+msgid "Koshi"
+msgstr "آثارش"
+
+msgid "Kotido"
+msgstr "کوتیو"
+
+msgid "Kouffo"
+msgstr "کافو"
+
+msgid "Kowloon"
+msgstr "کولون"
+
+msgid "Krabi"
+msgstr "کرابی"
+
+msgid "Kuala Lumpur"
+msgstr "کوالالامپور"
+
+msgid "Kuando Kubango"
+msgstr "‏Kuando Kubango"
+
+msgid "Kukës"
+msgstr "کوکس"
+
+msgid "Kumamoto"
+msgstr "کوماموتو"
+
+msgid "Kumi"
+msgstr "کومی"
+
+msgid "Kunene"
+msgstr "کونان"
+
+msgid "Kurdistan / کردستان)"
+msgstr "کردستان"
+
+msgid "Kurigram"
+msgstr "کوریگرام"
+
+msgid "Kushtia"
+msgstr "کوششیا"
+
+msgid "KwaZulu-Natal"
+msgstr "کوازولو-ناتال"
+
+msgid "Kwale"
+msgstr "کواله"
+
+msgid "Kwania"
+msgstr "کوانیا"
+
+msgid "Kwanza-Norte"
+msgstr "‏Kwanza-Norte"
+
+msgid "Kwanza-Sul"
+msgstr "‏Kwanza-Sul"
+
+msgid "Kwara"
+msgstr "کوارا"
+
+msgid "Kween"
+msgstr "کوین"
+
+msgid "Kyankwanzi"
+msgstr "کیانکوانزی"
+
+msgid "Kyegegwa"
+msgstr "کیگگوا"
+
+msgid "Kyenjojo"
+msgstr "کاینجوهو"
+
+msgid "Kyiv"
+msgstr "کی یف"
+
+msgid "Kyivshchyna"
+msgstr "کیفشچینا"
+
+msgid "Kyotera"
+msgstr "کیوترا"
+
+msgid "Kyoto"
+msgstr "کیوتو"
+
+msgid "Kyustendil"
+msgstr "کیوستندیل"
+
+msgid "Kédougou"
+msgstr "کدوگو"
+
+msgid "Kütahya"
+msgstr "کوتاهیه"
+
+msgid "Kırklareli"
+msgstr "کیرکلارلی"
+
+msgid "Kırıkkale"
+msgstr "کیریکقلعه"
+
+msgid "Kırşehir"
+msgstr "کره شهر"
+
+msgid "L'Aquila"
+msgstr "لاکوئیلا"
+
+msgid "La Altagracia"
+msgstr "لاالتگراتسیا"
+
+msgid "La Araucanía"
+msgstr "La Araucanía"
+
+msgid "La Guaira (Vargas)"
+msgstr "لا گوایرا (وارگاس)"
+
+msgid "La Guajira"
+msgstr "لاگوآکیرا"
+
+msgid "La Libertad"
+msgstr "لالیبرتاد"
+
+msgid "La Pampa"
+msgstr "پامپا، لا"
+
+msgid "La Paz"
+msgstr "لاپاز"
+
+msgid "La Rioja"
+msgstr "لا ریوجا"
+
+msgid "La Romana"
+msgstr "لا رامونا"
+
+msgid "La Spezia"
+msgstr "لا اسپتسیا"
+
+msgid "La Union"
+msgstr "لائونیون"
+
+msgid "La Unión"
+msgstr "لئونیون"
+
+msgid "La Vega"
+msgstr "لاوگا"
+
+msgid "Label"
+msgstr "برچسب"
+
+msgid "Labuan"
+msgstr "Labuan"
+
+msgid "Ladakh"
+msgstr "لاداخ"
+
+msgid "Laghouat"
+msgstr "لگووات"
+
+msgid "Lagos"
+msgstr "لاگوس"
+
+msgid "Laguna"
+msgstr "لوگانا"
+
+msgid "Laikipia"
+msgstr "لایکیپیا"
+
+msgid "Lakshadeep"
+msgstr "Lakshadeep"
+
+msgid "Lakshmipur"
+msgstr "لاکمیپور"
+
+msgid "Lalmonirhat"
+msgstr "لالمونیرات"
+
+msgid "Lambayeque"
+msgstr "لامبایکه"
+
+msgid "Lampang"
+msgstr "لامپنگ"
+
+msgid "Lamphun"
+msgstr "لامپون"
+
+msgid "Lampung"
+msgstr "Lampung"
+
+msgid "Lamu"
+msgstr "لامو"
+
+msgid "Lamwo"
+msgstr "لاموو"
+
+msgid "Lanao del Norte"
+msgstr "لاناو شمالی"
+
+msgid "Lanao del Sur"
+msgstr "لانودلسور"
+
+msgid "Language"
+msgstr "زبان"
+
+msgid "Laois"
+msgstr "لیش"
+
+msgid "Lara"
+msgstr "لارا"
+
+msgid "Las Palmas"
+msgstr "لاس پالماس"
+
+msgid "Last 12 Months"
+msgstr "12 ماه گذشته"
+
+msgid "Last 6 Months"
+msgstr "6 ماه گذشته"
+
+msgid "Last Name"
+msgstr "نام خانوادگی"
+
+msgid "Latina"
+msgstr "لاتینا"
+
+msgid "Lavalleja"
+msgstr "لاوایخا"
+
+msgid "Leave blank for auto redirect"
+msgstr "برای تغییر مسیر خودکار خالی بگذارید"
+
+msgid "Lecce"
+msgstr "لچ"
+
+msgid "Lecco"
+msgstr "لکو"
+
+msgid "Leitrim"
+msgstr "لیتریم"
+
+msgid "Lempira"
+msgstr "لامپیرا"
+
+msgid "Leova"
+msgstr "‏Leova"
+
+msgid "Leyte"
+msgstr "لیتی"
+
+msgid "Lezhë"
+msgstr "لژا"
+
+msgid "León"
+msgstr "لیئون"
+
+msgid "Liaoning / 辽宁"
+msgstr "لیائونینگ / 辽宁"
+
+msgid "Libertador General Bernardo O'Higgins"
+msgstr "لیبرادور ژنرال برنارد او هگگینز"
+
+msgid "Light"
+msgstr "روشن"
+
+msgid "Lima"
+msgstr "لیما"
+
+msgid "Limerick"
+msgstr "لایمریک"
+
+msgid "Limpopo"
+msgstr "لیمپوپو"
+
+msgid "Limón"
+msgstr "لیمون"
+
+msgid "Lindi"
+msgstr "لیندی"
+
+msgid "Lira"
+msgstr "لیر"
+
+msgid "Littoral"
+msgstr "لیترل"
+
+msgid "Livorno"
+msgstr "لیوورنو"
+
+msgid "Lleida"
+msgstr "Lleida"
+
+msgid "Local"
+msgstr "محلی"
+
+msgid "Lodi"
+msgstr "لودی"
+
+msgid "Loei"
+msgstr "لوئی"
+
+msgid "Lofa"
+msgstr "Lofa"
+
+msgid "Log In"
+msgstr "ورود"
+
+msgid "Log in to {{sitename}}"
+msgstr "ورود به {{sitename}}"
+
+msgid "Login"
+msgstr "ورود"
+
+msgid "Login / Register"
+msgstr "ورود / ثبت نام"
+
+msgid "Login / Signup Page"
+msgstr "صفحه ثبت نام/ورود"
+
+msgid "Login / Signup Popup"
+msgstr "پاپ‌آپ ثبت‌نام/ورود"
+
+msgid "Login Approved Successfully!"
+msgstr "ورود با موفقیت تایید شد!"
+
+msgid "Login Box Background Color"
+msgstr "رنگ بکگراند باکس ورود"
+
+msgid "Login Box Left Background Color"
+msgstr "رنگ پس زمینه سمت چپ پنجره ورود"
+
+msgid "Login Box Left Image"
+msgstr "تصویر چپ باکس ورود"
+
+msgid "Login Box Radius"
+msgstr "خمیدگی باکس ورود"
+
+msgid "Login Box Shadow"
+msgstr "سایه باکس ورود"
+
+msgid "Login Box Shadow Color"
+msgstr "رنگ سایه باکس ورود"
+
+msgid "Login Form"
+msgstr "فرم ورود"
+
+msgid "Login Modal"
+msgstr "ماژول ورود"
+
+msgid "Login Modal Background Color"
+msgstr "رنگ زمینه ماژول ورود"
+
+msgid "Login Modal Background Image"
+msgstr "تصویر زمینه ماژول ورود"
+
+msgid "Login Modal Radius"
+msgstr "خمیدگی ماژول ورود"
+
+msgid "Login Modal Shadow"
+msgstr "سایه ماژول ورود"
+
+msgid "Login Modal Shadow Color"
+msgstr "رنگ سایه ماژول ورود"
+
+msgid "Login Now"
+msgstr "ورود به سیستم"
+
+msgid "Login Page"
+msgstr "صفحه ورود"
+
+msgid "Login Page Background Color"
+msgstr "رنگ بکگراند صفحه ورود"
+
+msgid "Login Page Background Image"
+msgstr "تصویر پس زمینه صفحه ورود"
+
+msgid "Login Page Footer"
+msgstr "فوتر صفحه ورود"
+
+msgid "Login Page Footer Text Color"
+msgstr "رنگ متن فوتر صفحه ورود"
+
+msgid "Login Page Left Background Color"
+msgstr "رنگ پس زمینه برگه ورود"
+
+msgid "Login Page Left Background Position"
+msgstr "موقعیت بکگراند چپ صفحه ورود"
+
+msgid "Login Page Left Background Size"
+msgstr "اندازه سمت چپ بکگراند صفحه ورود"
+
+msgid "Login Page Left Image"
+msgstr "تصویر چپ صفحه ورود"
+
+msgid "Login Popup"
+msgstr "پاپ آپ ورود"
+
+msgid "Login Redirect"
+msgstr "تغییر مسیر ورود"
+
+msgid "Login Settings"
+msgstr "تنظیمات ورود"
+
+msgid "Login Successful, Redirecting.."
+msgstr "ورود با موفقیت انجام شد, در حال تغییر مسیر.."
+
+msgid "Login With OTP"
+msgstr "ورود با کد یکبارمصرف"
+
+msgid "Login With WhatsApp"
+msgstr "وورد باواتساپ"
+
+msgid "Login not allowed"
+msgstr "ورود مجاز نیست"
+
+msgid "Login with your Phone's Fingerprint or Face ID"
+msgstr "با اثر انگشت یا فیس‌آیدی گوشی خود وارد شوید"
+
+msgid "Login/Registration Success Message"
+msgstr "پیغام تکمیل عضویت/ورود"
+
+msgid "Login/Signup Form"
+msgstr "فرم ورود/ثبت‌نام"
+
+msgid "Login/Signup Modal"
+msgstr "ماژول ثبت نام/ورود"
+
+msgid "Login/Signup Page"
+msgstr "صفحه ثبت نام/ورود"
+
+msgid "Logo"
+msgstr "لوگو"
+
+msgid "Logout"
+msgstr "خروج"
+
+msgid "Logout Redirect"
+msgstr "تغییر مسیر خروج"
+
+msgid "Loja"
+msgstr "لوژ"
+
+msgid "Longford"
+msgstr "لونگفورد"
+
+msgid "Lopburi"
+msgstr "Lopburi"
+
+msgid "Loreto"
+msgstr "لورتو"
+
+msgid "Los Lagos"
+msgstr "لوس لاگوس"
+
+msgid "Los Ríos"
+msgstr "لوس ریوس"
+
+msgid "Los Santos"
+msgstr "لوس سانتوس"
+
+msgid ""
+"Lost your password? Please enter your mobile number to receive OTP or email "
+"address to get a link to create a new password."
+msgstr ""
+"رمز عبور خود را فراموش کرده اید؟ لطفا شماره تلفن همراه خود را برای دریافت کد "
+"تایید یا آدرس ایمیل برای دریافت لینک برای ایجاد یک رمز جدید وارد کنید."
+
+msgid "Louga"
+msgstr "لوگا"
+
+msgid "Louisiana"
+msgstr "لوئیزیانا"
+
+msgid "Louth"
+msgstr "لوس"
+
+msgid "Lovech"
+msgstr "لووچ"
+
+msgid "Lower Saxony"
+msgstr "نیدرزاکسن"
+
+msgid "Luanda"
+msgstr "لواندا"
+
+msgid "Luang Namtha"
+msgstr "Luang Namtha"
+
+msgid "Luang Prabang"
+msgstr "لوانگ پرابانگ"
+
+msgid "Luapula"
+msgstr "لواپولا"
+
+msgid "Lucca"
+msgstr "لوکا"
+
+msgid "Lugo"
+msgstr "لوگو"
+
+msgid "Luhanshchyna"
+msgstr "لوهانشچینا"
+
+msgid "Lumbini"
+msgstr "لومبینی"
+
+msgid "Lunda-Norte"
+msgstr "‏Lunda-Norte"
+
+msgid "Lunda-Sul"
+msgstr "‏Lunda-Sul"
+
+msgid "Luristan (لرستان)"
+msgstr "لرستان"
+
+msgid "Lusaka"
+msgstr "لوزاکا"
+
+msgid "Luuka"
+msgstr "لووکا"
+
+msgid "Luwero"
+msgstr "لوورو"
+
+msgid "Luxor"
+msgstr "اقصر"
+
+msgid "Luzern"
+msgstr "لوزان"
+
+msgid "Lvivshchyna"
+msgstr "لویوشچینا"
+
+msgid "Lwengo"
+msgstr "لافنگو"
+
+msgid "Lyantonde"
+msgstr "لیانتونده"
+
+msgid "Macao / 澳门"
+msgstr "ماکائو / 澳门"
+
+msgid "Macerata"
+msgstr "Macerata"
+
+msgid "Machakos"
+msgstr "ماچکوس"
+
+msgid "Madaripur"
+msgstr "مداریپور"
+
+msgid "Madhya Pradesh"
+msgstr "پرادش Madhya"
+
+msgid "Madre de Dios"
+msgstr "مادرددریوس"
+
+msgid "Madrid"
+msgstr "مادرید"
+
+msgid "Madriz"
+msgstr "مادریس"
+
+msgid "Mae Hong Son"
+msgstr "مائو هنگ سون"
+
+msgid "Magallanes"
+msgstr "Magallanes"
+
+msgid "Magdalena"
+msgstr "ماگدالنا"
+
+msgid "Maguindanao"
+msgstr "ماگیندنآو"
+
+msgid "Magura"
+msgstr "مگورا"
+
+msgid "Maha Sarakham"
+msgstr "ماها سرخم"
+
+msgid "Mahakali"
+msgstr "ماهاکالی"
+
+msgid "Maharashtra"
+msgstr "ماهاراشترا"
+
+msgid "Maine"
+msgstr "ماین"
+
+msgid "Make Third Party Login Forms More Secure"
+msgstr "ایمن‌تر کردن فرم های ورود شخص ثالث"
+
+msgid "Makueni"
+msgstr "ماکوئنی"
+
+msgid "Malacca (Melaka)"
+msgstr "Malacca (Melaka)"
+
+msgid "Malanje"
+msgstr "‏Malanje"
+
+msgid "Malatya"
+msgstr "مالاتیا"
+
+msgid "Maldonado"
+msgstr "مالدونادو"
+
+msgid "Maluku"
+msgstr "مالوکو"
+
+msgid "Maluku Utara"
+msgstr "ملوک اوترا"
+
+msgid "Manabí"
+msgstr "مانابی"
+
+msgid "Manafwa"
+msgstr "منافوا"
+
+msgid "Managua"
+msgstr "ماناگوا"
+
+msgid "Manawatu-Wanganui"
+msgstr "مانوآاتو وانگانوی"
+
+msgid "Manchester"
+msgstr "منچستر"
+
+msgid "Mandera"
+msgstr "ماندرا"
+
+msgid "Manica"
+msgstr "Manica"
+
+msgid "Manikganj "
+msgstr "مانیکگنج (Manikganj) "
+
+msgid "Manipur"
+msgstr "مانیپور"
+
+msgid "Manisa"
+msgstr "مانیسا"
+
+msgid "Manitoba"
+msgstr "مانیتوبا"
+
+msgid "Mantova"
+msgstr "مانتووا"
+
+msgid "Manyara"
+msgstr "منیاره"
+
+msgid "Maputo"
+msgstr "Maputo"
+
+msgid "Maputo Province"
+msgstr "استان ماپوتو"
+
+msgid "Mara"
+msgstr "مارا"
+
+msgid "Maracha"
+msgstr "ماراچا"
+
+msgid "Maramureș"
+msgstr "مارامورش"
+
+msgid "Maranhão"
+msgstr "مارانائو"
+
+msgid "Mardin"
+msgstr "مردین"
+
+msgid "Margibi"
+msgstr "Margibi"
+
+msgid "Marinduque"
+msgstr "ماریندوکه"
+
+msgid "Markazi (مرکزی)"
+msgstr "مرکزی"
+
+msgid "Marlborough"
+msgstr "مارلبرو"
+
+msgid "Marsabit"
+msgstr "مارسابیت"
+
+msgid "Maryland"
+msgstr "مریلند"
+
+msgid "María Trinidad Sánchez"
+msgstr "ماریا ترینیداد سانچز"
+
+msgid "Masaka"
+msgstr "ماساکا"
+
+msgid "Masaya"
+msgstr "ماسایا"
+
+msgid "Masbate"
+msgstr "ماسباته"
+
+msgid "Mascara"
+msgstr "مسکارا"
+
+msgid "Masindi"
+msgstr "ماسیندی"
+
+msgid "Massa-Carrara"
+msgstr "ماسا کارارا"
+
+msgid "Massachusetts"
+msgstr "ماساچوست"
+
+msgid "Matagalpa"
+msgstr "ماتاگالپا"
+
+msgid "Matam"
+msgstr "ماتام"
+
+msgid "Matera"
+msgstr "ماترا"
+
+msgid "Mato Grosso"
+msgstr "Mato Gross"
+
+msgid "Mato Grosso do Sul"
+msgstr "ماتو گروسو دو سول"
+
+msgid "Matrouh"
+msgstr "ماتروه"
+
+msgid "Maule"
+msgstr "ماوله"
+
+msgid "Mayo"
+msgstr "مایو"
+
+msgid "Mayuge"
+msgstr "مایوگو"
+
+msgid "Mazandaran (مازندران)"
+msgstr "مازندران"
+
+msgid "Mbale"
+msgstr "مبلی"
+
+msgid "Mbarara"
+msgstr "مبارارا"
+
+msgid "Mbeya"
+msgstr "امبیا"
+
+msgid "Meath"
+msgstr "میث"
+
+msgid "Mechi"
+msgstr "مچی"
+
+msgid "Mecklenburg-Vorpommern"
+msgstr "مکلنبورگ-فورپومرن"
+
+msgid "Meghalaya"
+msgstr "Meghalaya"
+
+msgid "Mehedinți"
+msgstr "مهدینچی"
+
+msgid "Meherpur"
+msgstr "مهرپور"
+
+msgid "Melilla"
+msgstr "ملیلیا"
+
+msgid "Mendoza"
+msgstr "مندوزا"
+
+msgid "Menu Items"
+msgstr "آیتم های منو"
+
+msgid "Menu items"
+msgstr "آیتم های منو"
+
+msgid "Meru"
+msgstr "مرو"
+
+msgid "Message Template"
+msgstr "نمونه متن"
+
+msgid "Messina"
+msgstr "مسینا"
+
+msgid "Meta"
+msgstr "متا"
+
+msgid "Meta Key"
+msgstr "کلید متا"
+
+msgid "Metro Manila"
+msgstr "کلانشهر مانیل"
+
+msgid "Michigan"
+msgstr "میشیگان"
+
+msgid "Michoacán"
+msgstr "میچوآکان"
+
+msgid "Midway Atoll"
+msgstr "میدوی"
+
+msgid "Mie"
+msgstr "مي"
+
+msgid "Migori"
+msgstr "میگوری"
+
+msgid "Mila"
+msgstr "میلا"
+
+msgid "Milano"
+msgstr "میلان"
+
+msgid "Minas Gerais"
+msgstr "Minas Gerais"
+
+msgid "Minnesota"
+msgstr "مینه سوتا"
+
+msgid "Minutes Saved by Users"
+msgstr "دقیقه ذخیره‌شده توسط کاربران"
+
+msgid "Minya"
+msgstr "مینیا"
+
+msgid "Miranda"
+msgstr "میراندا"
+
+msgid "Misamis Occidental"
+msgstr "میسامیس غربی"
+
+msgid "Misamis Oriental"
+msgstr "میسامیس شرقی"
+
+msgid "Miscellaneous"
+msgstr "متفرقه"
+
+msgid "Misiones"
+msgstr "‫Misiones"
+
+msgid "Mississippi"
+msgstr "می سی سی پی"
+
+msgid "Missouri"
+msgstr "میسوری"
+
+msgid "Mitooma"
+msgstr "میتوما"
+
+msgid "Mityana"
+msgstr "میتینا"
+
+msgid "Miyagi"
+msgstr "میاگی"
+
+msgid "Miyazaki"
+msgstr "میازاکی"
+
+msgid "Mizoram"
+msgstr "Mizoram"
+
+msgid "Mobile"
+msgstr "موبایل"
+
+msgid "Mobile Number"
+msgstr "شماره موبایل"
+
+msgid "Mobile Number Formatting"
+msgstr "فرمت شماره موبایل"
+
+msgid "Mobile Number already in use!"
+msgstr "این شماره در حال حاضر در حال استفاده است (قبلا ثبت نام کرده است)!"
+
+msgid "Mobile Number and Email"
+msgstr "شماره موبایل و ایمیل"
+
+msgid "Mobile Number is already in use"
+msgstr "شماره موبایل در حال استفاده است"
+
+msgid "Mobile Number is already in use!"
+msgstr "این شماره موبایل در حال استفاده است!"
+
+msgid "Mobile Number is required!"
+msgstr "شماره موبایل لازم است!"
+
+msgid "Mobile Number not allowed!"
+msgstr "شماره موبایل مجاز نیست!"
+
+msgid "Mobile Number verification failed"
+msgstr "فیلد شماره موبایل تایید نشد"
+
+msgid "Mobile number already in use!"
+msgstr "این شماره موبایل در حال استفاده است!"
+
+msgid "Mobile number not found!"
+msgstr "شماره موبایل پیدا نشد!"
+
+msgid "Mobile number verification failed!"
+msgstr "تأیید شماره تلفن تکمیل نشد!"
+
+msgid "Modal"
+msgstr "مودال"
+
+msgid "Modal Overlay Color"
+msgstr "رنگ پوشش ماژول"
+
+msgid "Modena"
+msgstr "مودنا"
+
+msgid "Mombasa"
+msgstr "مومباسا"
+
+msgid "Monagas"
+msgstr "موناگاس"
+
+msgid "Monaghan"
+msgstr "موناهان"
+
+msgid "Mono"
+msgstr "مونو"
+
+msgid "Monseñor Nouel"
+msgstr "مونسینیور نوول"
+
+msgid "Montana"
+msgstr "مونتانا"
+
+msgid "Monte Cristi"
+msgstr "مونته کریستی"
+
+msgid "Monte Plata"
+msgstr "مونتا پلاتا"
+
+msgid "Montevideo"
+msgstr "مونته ویدئو"
+
+msgid "Montserrado"
+msgstr "مونتسرات"
+
+msgid "Monufia"
+msgstr "مونوفیا"
+
+msgid "Monza e della Brianza"
+msgstr "مونزا دلا برایانزا"
+
+msgid "Moquegua"
+msgstr "موکگوا"
+
+msgid "Morazán"
+msgstr "موراثان"
+
+msgid "More information about %s"
+msgstr "اطلاعات بیشتر درباره %s"
+
+msgid "Morelos"
+msgstr "Morelos"
+
+msgid "Morogoro"
+msgstr "موروگورو"
+
+msgid "Morona-Santiago"
+msgstr "مورونا - سانتیاگو"
+
+msgid "Moroto"
+msgstr "موروتو"
+
+msgid "Mostaganem"
+msgstr "موسته گنم"
+
+msgid "Moulvibazar"
+msgstr "مولوی بازار"
+
+msgid "Mountain Province"
+msgstr "استان مونتاین"
+
+msgid "Moxico"
+msgstr "مکزیک"
+
+msgid "Moyo"
+msgstr "مویی"
+
+msgid "Mpigi"
+msgstr "مپیگی"
+
+msgid "Mpumalanga"
+msgstr "مپومالانگا"
+
+msgid "Mtwara"
+msgstr "متوارا"
+
+msgid "Mubende"
+msgstr "موبند"
+
+msgid "Muchinga"
+msgstr "ماشینگا"
+
+msgid "Mukdahan"
+msgstr "Mukdahan"
+
+msgid "Mukono"
+msgstr "موکونو"
+
+msgid "Municipalidad Metropolitana de Lima"
+msgstr "لیما"
+
+msgid "Munshiganj"
+msgstr "مانشی گانج"
+
+msgid "Murang’a"
+msgstr "مورنگا"
+
+msgid "Murcia"
+msgstr "مورسیا"
+
+msgid "Mureș"
+msgstr "مورش"
+
+msgid "Muğla"
+msgstr "موغلا"
+
+msgid "Muş"
+msgstr "موش"
+
+msgid "Mwanza"
+msgstr "موانزا"
+
+msgid "My Account"
+msgstr "حساب من"
+
+msgid "My Account Link"
+msgstr "لینک حساب کاربری"
+
+msgid "Mykolayivschyna"
+msgstr "میکولایو چین"
+
+msgid "Mymensingh"
+msgstr "میمینسینگ"
+
+msgid "Málaga"
+msgstr "مالاگا"
+
+msgid "Médéa"
+msgstr "میدیا"
+
+msgid "Mérida"
+msgstr "مریدا"
+
+msgid "M’Sila"
+msgstr "ام سیلا"
+
+msgid "Naama"
+msgstr "نائامه"
+
+msgid "Nabilatuk"
+msgstr "نابیلاتوک"
+
+msgid "Nagaland"
+msgstr "ناگالند"
+
+msgid "Nagano"
+msgstr "ناگانو"
+
+msgid "Nagasaki"
+msgstr "ناگازاکی"
+
+msgid "Nairobi County"
+msgstr "شهرستان نایروبی"
+
+msgid "Nakapiripirit"
+msgstr "نیکاپریپریت"
+
+msgid "Nakaseke"
+msgstr "ناکاسکه"
+
+msgid "Nakasongola"
+msgstr "ناکاسنگولا"
+
+msgid "Nakhon Nayok"
+msgstr "ناکون نایوک"
+
+msgid "Nakhon Pathom"
+msgstr "ناخون پاتوم"
+
+msgid "Nakhon Phanom"
+msgstr "ناخون پانوم"
+
+msgid "Nakhon Ratchasima"
+msgstr "ناکون راچوسیما"
+
+msgid "Nakhon Sawan"
+msgstr "ناخون ساوان"
+
+msgid "Nakhon Si Thammarat"
+msgstr "ناخون سی تامارات"
+
+msgid "Nakuru"
+msgstr "ناکورو"
+
+msgid "Namayingo"
+msgstr "نامینگو"
+
+msgid "Name"
+msgstr "نام"
+
+msgid "Namespace"
+msgstr "فضای نام"
+
+msgid "Namibe"
+msgstr "نامیبیا"
+
+msgid "Namisindwa"
+msgstr "نامیسیندوا"
+
+msgid "Nampula"
+msgstr "Nampula"
+
+msgid "Namutumba"
+msgstr "ناموتومبا"
+
+msgid "Nan"
+msgstr "نان"
+
+msgid "Nandi"
+msgstr "ناندی"
+
+msgid "Naogaon"
+msgstr "ناوگان"
+
+msgid "Napak"
+msgstr "نپاک"
+
+msgid "Napo"
+msgstr "ناپو"
+
+msgid "Napoli"
+msgstr "ناپولی"
+
+msgid "Nara"
+msgstr "نارا"
+
+msgid "Narail"
+msgstr "ناریل"
+
+msgid "Narathiwat"
+msgstr "ناریتیوات"
+
+msgid "Narayanganj"
+msgstr "ناریانگانج"
+
+msgid "Narayani"
+msgstr "نارایانی"
+
+msgid "Nariño"
+msgstr "نارینو"
+
+msgid "Narok"
+msgstr "ناروک"
+
+msgid "Narsingdi"
+msgstr "نارسندی"
+
+msgid "Nasarawa"
+msgstr "Nasarawa"
+
+msgid "Native Form Style"
+msgstr "استایل فرم بومی"
+
+msgid "Natore"
+msgstr "ناتور"
+
+msgid "Navarra"
+msgstr "ناوارا"
+
+msgid "Navassa Island"
+msgstr "جزیره ناواسا"
+
+msgid "Nawabganj"
+msgstr "نواب گنج"
+
+msgid "Nayarit"
+msgstr "Nayarit"
+
+msgid "Neamț"
+msgstr "نعمت"
+
+msgid "Nebbi"
+msgstr "نبی"
+
+msgid "Nebraska"
+msgstr "نبراسکا"
+
+msgid "Need More Help?"
+msgstr "به کمک احتیاج دارید؟"
+
+msgid "Negeri Sembilan"
+msgstr "نگری سمبلان"
+
+msgid "Negros Occidental"
+msgstr "نیگروس اوسیدنتال"
+
+msgid "Negros Oriental"
+msgstr "نگروز شرقی"
+
+msgid "Nelson"
+msgstr "نلسون"
+
+msgid "Netrakona"
+msgstr "نتراکونا"
+
+msgid "Neuchâtel"
+msgstr "نوشاتل"
+
+msgid "Neuquén"
+msgstr "نویکوین"
+
+msgid "Nevada"
+msgstr "نوادا"
+
+msgid "Nevşehir"
+msgstr "نوشهر"
+
+msgid "New"
+msgstr "جدید"
+
+msgid "New Brunswick"
+msgstr "نیوبرانزویک"
+
+msgid "New Hampshire"
+msgstr "نیوهمپشایر"
+
+msgid "New Jersey"
+msgstr "نیوجرسی"
+
+msgid "New Mexico"
+msgstr "نیومکزیکو"
+
+msgid "New Password"
+msgstr "رمز عبور جدید"
+
+msgid "New South Wales"
+msgstr "نیو ساوت ولز"
+
+msgid "New Territories"
+msgstr "سرزمین های جدید"
+
+msgid "New Valley"
+msgstr "دره نو"
+
+msgid "New York"
+msgstr "نیویورک"
+
+msgid "New passwords do not match."
+msgstr "کلمه عبور جدید مطابقت ندارد."
+
+msgid "Newfoundland and Labrador"
+msgstr "نیوفاندلند و لابرادور"
+
+msgid "Ngora"
+msgstr "نگورا"
+
+msgid "Ngöbe-Buglé"
+msgstr "انگوه بوگله"
+
+msgid "Niassa"
+msgstr "Niassa"
+
+msgid "Nidwalden"
+msgstr "نیدوالدین"
+
+msgid "Niger"
+msgstr "نیجر"
+
+msgid "Niigata"
+msgstr "نیگاتا"
+
+msgid "Nilphamari"
+msgstr "نیلفامری"
+
+msgid "Nimba"
+msgstr "Nimba"
+
+msgid "Ningxia Hui / 宁夏"
+msgstr "شینگ هویی / 宁夏"
+
+msgid "Nisporeni"
+msgstr "‏Nisporeni"
+
+msgid "Niğde"
+msgstr "نجد"
+
+msgid "Njombe"
+msgstr "Njombe"
+
+msgid "No"
+msgstr "خیر"
+
+msgid "No data found!"
+msgstr "داده ای یافت نشد!"
+
+msgid "No device found!"
+msgstr "دستگاهی پیدا نشد!"
+
+msgid "No device is not linked to your account!"
+msgstr "هیچ دستگاهی به حساب شما متصل نیست!"
+
+msgid "No devices found!"
+msgstr "دستگاهی پیدا نشد!"
+
+msgid "No, don't block"
+msgstr "نه، مسدود نکن"
+
+msgid "No, it's not me"
+msgstr "نه، من نيستم"
+
+msgid "Noakhali"
+msgstr "نوکالی"
+
+msgid "Nong Bua Lam Phu"
+msgstr "نونگ بوا لام فو"
+
+msgid "Nong Khai"
+msgstr "نونگ خای"
+
+msgid "Nonthaburi"
+msgstr "نونتابوری"
+
+msgid "Norte de Santander"
+msgstr "نورت د سانتاندر"
+
+msgid "North Aegean"
+msgstr "اژه شمالی"
+
+msgid "North Carolina"
+msgstr "کارولینای شمالی"
+
+msgid "North Dakota"
+msgstr "داکوتای شمالی"
+
+msgid "North East"
+msgstr "شمال شرق"
+
+msgid "North Khorasan (خراسان شمالی)"
+msgstr "خراسان شمالی (خراسان شمالی)"
+
+msgid "North Rhine-Westphalia"
+msgstr "نوردراین-وستفالن"
+
+msgid "North Sinai"
+msgstr "سینای شمالی"
+
+msgid "North West"
+msgstr "شمال غربی"
+
+msgid "North-Western"
+msgstr "شمال- غرب"
+
+msgid "Northern"
+msgstr "شمالی"
+
+msgid "Northern Cape"
+msgstr "کیپ شمالی"
+
+msgid "Northern Samar"
+msgstr "صحرای شمالی"
+
+msgid "Northern Territory"
+msgstr "سرزمین شمالی"
+
+msgid "Northland"
+msgstr "نوردلند"
+
+msgid "Northwest Territories"
+msgstr "سرزمینهای شمال غربی"
+
+msgid "Not a member yet?"
+msgstr "آیا هنوز عضو نشده اید؟"
+
+msgid ""
+"Note, the soap module is not active on your host, there may be a connection "
+"with some SMS ports in Digits plugins. In this case you can check with the "
+"backup host."
+msgstr ""
+"توجه داشته باشید، ماژول soap روی هاست شما فعال نیست، ممکن است در پلاگین های "
+"Digits با برخی از پورت های پیام کوتاه ارتباط برقرار باشد. در این صورت می "
+"توانید با میزبان پشتیبان بررسی کنید."
+
+msgid "Note:"
+msgstr "یادداشت:"
+
+msgid "Nothing"
+msgstr "هیچی"
+
+msgid "Notice!"
+msgstr "توجه!"
+
+msgid "Nova Scotia"
+msgstr "نوا اسکوشیا"
+
+msgid "Novara"
+msgstr "Novara"
+
+msgid ""
+"Now that you have your form created, its time to link it to your site so that "
+"people can use it."
+msgstr ""
+"اکنون که فرم خود را ایجاد کرده اید، وقت آن است که آن را به سایت خود پیوند دهید "
+"تا مردم بتوانند از آن استفاده کنند."
+
+msgid "Ntoroko"
+msgstr "نتوروکو"
+
+msgid "Ntungamo"
+msgstr "نتوانگمو"
+
+msgid "Nueva Ecija"
+msgstr "نوا اسیخا"
+
+msgid "Nueva Esparta"
+msgstr "نووا اسپارتا"
+
+msgid "Nueva Segovia"
+msgstr "نوا سگوویا"
+
+msgid "Nueva Vizcaya"
+msgstr "نووا ویزکیا"
+
+msgid "Nuevo León"
+msgstr "نوئون لئون"
+
+msgid "Number"
+msgstr "شماره"
+
+msgid "Nunavut"
+msgstr "نوناووت"
+
+msgid "Nuoro"
+msgstr "نورو وجود"
+
+msgid "Nusa Tenggara Barat"
+msgstr "نوسا تنگرا برات"
+
+msgid "Nusa Tenggara Timur"
+msgstr "نوسا تنگرا تیمور"
+
+msgid "Nwoya"
+msgstr "Nwoya"
+
+msgid "Nyamira"
+msgstr "نیامیرا"
+
+msgid "Nyandarua"
+msgstr "نیانداروآ"
+
+msgid "Nyeri"
+msgstr "نیری"
+
+msgid "Nógrád"
+msgstr "نوگراد"
+
+msgid "OR"
+msgstr "یا"
+
+msgid "OTP"
+msgstr "کد تایید"
+
+msgid "OTP Delivered"
+msgstr "کد یکبار مصرف تحویل داده شد"
+
+msgid "OTP Resend Time"
+msgstr "زمان ارسال مجدد OTP (کد تایید)"
+
+msgid "OTP Settings"
+msgstr "تنظیمات OTP"
+
+msgid ""
+"OTP limit has exceeded since you made too many attempts, Please try again "
+"after some time!"
+msgstr "بیش از حد برای کد تایید تلاش کردید. لطفا مدتی بعد دوباره امتحان کنید!"
+
+msgid "OTP should be of 6 digit!"
+msgstr "کد تایید باید حداقل 6 رقم باشد!"
+
+msgid "OTP size"
+msgstr "تعداد ارقام کد تایید"
+
+msgid "Oaxaca"
+msgstr "اوآخاکا"
+
+msgid "Obwalden"
+msgstr "اوبوالدن"
+
+msgid "Occidental Mindoro"
+msgstr "اکسیدنتال میندورو"
+
+msgid "Ocnița"
+msgstr "اکنیتا"
+
+msgid "Ocotepeque"
+msgstr "اوکتوپیکه"
+
+msgid "Odeshchyna"
+msgstr "اودشچینا"
+
+msgid "Odisha"
+msgstr "اودیشا"
+
+msgid "Offaly"
+msgstr "آوفلّی"
+
+msgid "Ogun"
+msgstr "اوگان"
+
+msgid "Oh Snap!"
+msgstr "خطا!!!"
+
+msgid "Ohangwena"
+msgstr "اوهانوانا"
+
+msgid "Ohio"
+msgstr "اوهایو"
+
+msgid "Oita"
+msgstr "اویتا"
+
+msgid "Okayama"
+msgstr "اوکیاما"
+
+msgid "Okinawa"
+msgstr "اوکیناوا"
+
+msgid "Oklahoma"
+msgstr "اوکلاهما"
+
+msgid "Olancho"
+msgstr "اولانچو"
+
+msgid ""
+"Old style pages will soon be deprecated, so its recommended to change to new "
+"styling as soon as possible."
+msgstr ""
+"صفحات استایل قدیمی به زودی منسوخ می شوند، بنابراین توصیه می شود در اسرع وقت به "
+"استایل جدید تغییر دهید."
+
+msgid "Olt"
+msgstr "الت"
+
+msgid "Omaheke"
+msgstr "اوماهیکی"
+
+msgid "Omoro"
+msgstr "Omoro"
+
+msgid "Omusati"
+msgstr "اوسماتی"
+
+msgid "Ondo"
+msgstr "اونو"
+
+msgid ""
+"Only use Popup if your website is non https:// otherwise we highly recommend "
+"using modal."
+msgstr ""
+"فقط اگر از وبسایت //:https استفاده میکنید، از پاپ آپ استفاده کنید. در غیر این "
+"صورت ما به شدت توصیه میکنیم از ماژول استفاده کنید."
+
+msgid "Ontario"
+msgstr "انتاریو"
+
+msgid "Oops! You cannot enable email without password for login"
+msgstr "وای! شما نمی توانید ایمیل را بدون رمز عبور برای ورود به سیستم فعال کنید"
+
+msgid "Optional"
+msgstr "اختیاری"
+
+msgid "Options"
+msgstr "گزینه ها"
+
+msgid ""
+"Or if you can edit your website header then you can create a button and use "
+"the below documentations to link the button."
+msgstr ""
+"یا اگر می توانید هدر وب سایت خود را ویرایش کنید، می توانید یک دکمه ایجاد کنید "
+"و از اسناد زیر برای پیوند دادن دکمه استفاده کنید."
+
+msgid "Oran"
+msgstr "اوران"
+
+msgid "Ordu"
+msgstr "اردو"
+
+msgid "Oregon"
+msgstr "اورگان"
+
+msgid "Orellana"
+msgstr "اورلانا"
+
+msgid "Orhei"
+msgstr "‏Orhei"
+
+msgid "Oriental Mindoro"
+msgstr "میندرو شرقی"
+
+msgid "Originator"
+msgstr "مبدأ"
+
+msgid "Oristano"
+msgstr "اویلیستانو"
+
+msgid "Oruro"
+msgstr "اورورو"
+
+msgid "Osaka"
+msgstr "اوزاکا"
+
+msgid "Oshana"
+msgstr "اوشانا"
+
+msgid "Oshikoto"
+msgstr "اوشیکوتو"
+
+msgid "Osmaniye"
+msgstr "عثمانيه"
+
+msgid "Osun"
+msgstr "عسون"
+
+msgid "Otago"
+msgstr "اوتاگو"
+
+msgid "Oti"
+msgstr "Oti"
+
+msgid "Otjozondjupa"
+msgstr "اتجوزندوپا"
+
+msgid "Otuke"
+msgstr "اوتوکه"
+
+msgid "Ouargla"
+msgstr "واگلا"
+
+msgid "Oudomxay"
+msgstr "Oudomxay"
+
+msgid "Oum El Bouaghi"
+msgstr "ام البواقی"
+
+msgid ""
+"Our button editor will help you to edit your existing button and make it "
+"trigger our page or popup form without the need of any development or coding "
+"knowledge."
+msgstr ""
+"ویرایشگر دکمه ما به شما کمک می کند تا دکمه موجود خود را ویرایش کنید و بدون "
+"نیاز به دانش برنامه نویسی یا برنامه نویسی، صفحه یا فرم پاپ آپ ما را فعال کنید."
+
+msgid "Ourense"
+msgstr "اورنسه"
+
+msgid "Ouémé"
+msgstr "اویمه"
+
+msgid "Oyam"
+msgstr "اویام"
+
+msgid "Oyo"
+msgstr "اویو"
+
+msgid "Ozama"
+msgstr "اوزاما"
+
+msgid "PRESET LIBRARY"
+msgstr "استایل پیشنهادی"
+
+msgid "Pabna"
+msgstr "پابنا"
+
+msgid "Pader"
+msgstr "پدر"
+
+msgid "Padova"
+msgstr "پادووا"
+
+msgid "Page"
+msgstr "صفحه"
+
+msgid "Page Builder"
+msgstr "صفحه ساز"
+
+msgid "Pahang"
+msgstr "Pahang"
+
+msgid "Pakwach"
+msgstr "پاکواچ"
+
+msgid "Palawan"
+msgstr "پالاوان"
+
+msgid "Palencia"
+msgstr "پالنسیا"
+
+msgid "Palermo"
+msgstr "پالرمو"
+
+msgid "Pallisa"
+msgstr "پالیزا"
+
+msgid "Palmyra Atoll"
+msgstr "پالمیرا اتل"
+
+msgid "Pampanga"
+msgstr "پامپانگه"
+
+msgid "Panamá"
+msgstr "پاناما"
+
+msgid "Panchagarh"
+msgstr "پانچگره"
+
+msgid "Pando"
+msgstr "پاندو"
+
+msgid "Pangasinan"
+msgstr "پنگاسینان"
+
+msgid "Papua"
+msgstr "پاپوآ"
+
+msgid "Papua Barat"
+msgstr "پاپوا بارات"
+
+msgid "Paraguarí"
+msgstr "پاراگواری"
+
+msgid "Paraná"
+msgstr "پارانا"
+
+msgid "Paraíba"
+msgstr "پارایبا"
+
+msgid "Parma"
+msgstr "پارما"
+
+msgid "Pará"
+msgstr "پارا"
+
+msgid "Pasco"
+msgstr "پاسکو"
+
+msgid "Password"
+msgstr "رمز عبور"
+
+msgid "Password changed successfully, Redirecting.."
+msgstr "تغییر رمز انجام شد, در حال تغییر مسیر.."
+
+msgid "Password does not match the confirm password!"
+msgstr "رمز عبور یکسان نیست!"
+
+msgid "Passwords are not allowed!"
+msgstr "رمزهای عبور مجاز نیستند!"
+
+msgid "Passwords do not match!"
+msgstr "رمز عبور هماهنگی ندارد!"
+
+msgid "Pastaza"
+msgstr "پاستازا"
+
+msgid "Paste your import code here..."
+msgstr "لطفا کد خود را اینجا وارد کنید."
+
+msgid "Pathum Thani"
+msgstr "پاتوم تانی"
+
+msgid "Pattani"
+msgstr "Pattani"
+
+msgid "Pattern ID"
+msgstr "آیدی پترن (Pattern ID)"
+
+msgid "Patuakhali"
+msgstr "پاتواکالی"
+
+msgid "Pavia"
+msgstr "پاویا"
+
+msgid "Paysandú"
+msgstr "پایساندو"
+
+msgid "Pazardzhik"
+msgstr "پازارجیک"
+
+msgid "Pedernales"
+msgstr "پدنوالیس"
+
+msgid "Peloponnese"
+msgstr "پلوبونز"
+
+msgid "Pemba North"
+msgstr "Pemba North"
+
+msgid "Pemba South"
+msgstr "Pemba South"
+
+msgid "Penang (Pulau Pinang)"
+msgstr "پنانگ (پولاو پینانگ)"
+
+msgid "Pennsylvania"
+msgstr "پنسیلوانیا"
+
+msgid "Perak"
+msgstr "پراک"
+
+msgid "Peravia"
+msgstr "پرواویا"
+
+msgid "Perlis"
+msgstr "پرلیس"
+
+msgid "Pernambuco"
+msgstr "Pernambuco"
+
+msgid "Pernik"
+msgstr "پرنیک"
+
+msgid "Perugia"
+msgstr "Perugia"
+
+msgid "Pesaro e Urbino"
+msgstr "پزآرو اوربینینو"
+
+msgid "Pescara"
+msgstr "پسکارا"
+
+msgid "Pest"
+msgstr "پیشت"
+
+msgid "Petén"
+msgstr "پتن"
+
+msgid "Phang Nga"
+msgstr "Phang Nga"
+
+msgid "Phatthalung"
+msgstr "فاتالونگ"
+
+msgid "Phayao"
+msgstr "Phayao"
+
+msgid "Phetchabun"
+msgstr "فتچابین"
+
+msgid "Phetchaburi"
+msgstr "فتچابوری"
+
+msgid "Phichit"
+msgstr "Phichit"
+
+msgid "Phitsanulok"
+msgstr "فیتزانولوک"
+
+msgid "Phone"
+msgstr "تلفن"
+
+msgid "Phone Number"
+msgstr "شماره تلفن"
+
+msgid "Phone Verification"
+msgstr "تایید موبایل"
+
+msgid "Phone number not found, please try different method!"
+msgstr "شماره تلفن پیدا نشد، لطفاً روش دیگری را امتحان کنید!"
+
+msgid "Phone number/Email not found, please try using different method!"
+msgstr "شماره تلفن/ایمیل پیدا نشد، لطفا از روش دیگری استفاده کنید!"
+
+msgid "Phone numbers Denylist"
+msgstr "شماره موبایل های غیرمجاز"
+
+msgid "Phone's Fingerprint or Face ID"
+msgstr "اثر انگشت یا فیس آیدی گوشی"
+
+msgid "Phongsaly"
+msgstr "Phongsaly"
+
+msgid "Phrae"
+msgstr "فریه"
+
+msgid "Phuket"
+msgstr "پوکت"
+
+msgid "Physical Key (like Yubikey etc)"
+msgstr "کلید فیزیکی (مانند Yubikey و غیره)"
+
+msgid "Piacenza"
+msgstr "پیاکنزا"
+
+msgid "Piauí"
+msgstr "پیاوی"
+
+msgid "Pichincha"
+msgstr "پیچینچا"
+
+msgid "Pirojpur"
+msgstr "پیرج پور"
+
+msgid "Pisa"
+msgstr "پیزا"
+
+msgid "Pistoia"
+msgstr "Pistoia"
+
+msgid "Piura"
+msgstr "پیورا"
+
+msgid "Plateau"
+msgstr "فلات"
+
+msgid "Please Approve, it's me"
+msgstr "لطفا تاييد کن، منم"
+
+msgid "Please Login with your phone via using the QR Code!"
+msgstr "لطفا با استفاده از کد QR با گوشی خود وارد شوید!"
+
+msgid "Please accept terms & conditions."
+msgstr "لطفا شرایط و قوانین را بپذیرید."
+
+msgid "Please accept terms and condition!"
+msgstr "لطفا شرایط و قوانین را بپذیرید!"
+
+msgid ""
+"Please activate your plugin to change the look and feel of your Login page and "
+"Popup"
+msgstr "لطفا پلاگین را فعال کنید تا تغییرات را در برگه ورود و یا پاپ آپ ببینید"
+
+msgid "Please activate your plugin to receive updates"
+msgstr "لطفا پلاگین خود را برای دریافت به روز رسانی فعال کنید"
+
+msgid ""
+"Please add phone number to your account before using it as a %s-Factor "
+"Authenticator"
+msgstr ""
+"لطفاً قبل از استفاده از آن به‌عنوان احرازهویت %s-مرحله ای، شماره تلفن را به حساب "
+"خود اضافه کنید"
+
+msgid "Please check your email for the verification link to verify the account."
+msgstr "لطفاً ایمیل خود را برای لینک تأیید حساب، بررسی کنید."
+
+msgid ""
+"Please complete your SMS Gateway settings by clicking here, without those "
+"plugin will not work. For documentation, click %s here %s"
+msgstr ""
+"لطفاً تنظیمات درگاه پنل پیامکی خود را تکمیل کنید، بدون تنظیم این بخش افزونه کار "
+"نخواهد کرد. مستندات را %s اینجا %s مشاهده کنید"
+
+msgid "Please complete your custom field settings"
+msgstr "لطفا تنظیمات فیلد سفارشی خود را تکمیل کنید"
+
+msgid "Please complete your settings"
+msgstr "لطفاً تنظیمات خود را انجام دهید"
+
+msgid "Please enable 2FA before enabling 3FA"
+msgstr "لطفاً قبل از فعال کردن 3FA، 2FA را فعال کنید"
+
+msgid "Please enter Mobile Number!"
+msgstr "لطفا شماره موبایل را وارد کنید!"
+
+msgid "Please enter a stronger password."
+msgstr "لطفا رمز عبور قوی تری وارد کنید."
+
+msgid "Please enter a valid Captcha!"
+msgstr "لطفا یک کپچا معتبر وارد کنید!"
+
+msgid "Please enter a valid Country Code"
+msgstr "لطفاً یک کد کشور معتبر وارد کنید"
+
+msgid "Please enter a valid Email!"
+msgstr "لطفا ایمیل معتبر وارد کنید!"
+
+msgid "Please enter a valid Email\\Mobile Number!"
+msgstr "لطفاً یک ایمیل/شماره موبایل معتبر وارد کنید!"
+
+msgid "Please enter a valid Mobile Number"
+msgstr "لطفا یک شماره موبایل معتبر وارد کنید"
+
+msgid "Please enter a valid Mobile Number!"
+msgstr "لطفا یک شماره تلفن همراه معتبر وارد کنید!"
+
+msgid "Please enter a valid OTP"
+msgstr "لطفا کد تایید معتبر وارد کنید"
+
+msgid "Please enter a valid OTP!"
+msgstr "لطفا کد تایید معتبر وارد کنید!"
+
+msgid "Please enter a valid Password"
+msgstr "لطفا رمز معتبر وارد کنید"
+
+msgid "Please enter a valid Password!"
+msgstr "لطفا رمز معتبری وارد کنید!"
+
+msgid "Please enter a valid account username."
+msgstr "لطفاً یک نام کاربری معتبر وارد کنید."
+
+msgid "Please enter a valid captcha"
+msgstr "لطفا کد تشخیص انسانی (کپچا) را درست وارد کنید"
+
+msgid "Please enter a valid captcha!"
+msgstr "لطفا کپچا را درست وارد کنید!"
+
+msgid "Please enter a valid country code!"
+msgstr "لطفاً یک کد کشور معتبر وارد کنید!"
+
+msgid "Please enter a valid country code."
+msgstr "لطفا یک کد کشور معتبر وارد کنید."
+
+msgid "Please enter a valid email!"
+msgstr "لطفا یک ایمیل معتبر وارد کنید!"
+
+msgid "Please enter a valid import code"
+msgstr "لطفا یک کد معتبر وارد کنید"
+
+msgid "Please enter a valid mobile number"
+msgstr "لطفا شماره موبایل معتبر وارد کنید"
+
+msgid "Please enter a valid otp!"
+msgstr "لطفاً یک کدتایید معتبر وارد کنید!"
+
+msgid "Please enter a valid password"
+msgstr "لطفا پسورد معتبر وارد کنید"
+
+msgid "Please enter a valid phone number."
+msgstr "لطفا یک شماره تلفن معتبر وارد نمایید."
+
+msgid "Please enter a valid purchase code"
+msgstr "لطفا یک کد خرید معتبر وارد کنید"
+
+msgid "Please enter all the details!"
+msgstr "لطفا تمام جزئیات را وارد کنید!"
+
+msgid "Please enter an account password."
+msgstr "خواهشمندیم گذرواژه حساب خود را وارد کنید."
+
+msgid "Please enter country code!"
+msgstr "لطفا کد کشور را وارد کنید!"
+
+msgid "Please enter the OTP sent to your phone"
+msgstr "لطفاً کدتایید ارسال شده به تلفن خود را وارد کنید"
+
+msgid "Please enter your Mobile Number."
+msgstr "لطفا شماره موبایل خود را وارد کنید."
+
+msgid "Please enter your Mobile Number/Email"
+msgstr "لطفا ایمیل/شماره موبایل را وارد کنید"
+
+msgid "Please enter your current password."
+msgstr "لطفا رمز عبور فعلی خود را وارد کنید."
+
+msgid "Please enter your email or Mobile Number!"
+msgstr "لطفا ایمیل یا شماره تلفن خود را وارد کنید!"
+
+msgid "Please fill all the required details!"
+msgstr "لطفا تمام اطلاعات مورد نیاز را پر کنید!"
+
+msgid "Please fill all the required details."
+msgstr "لطفا تمام اطلاعات مورد نیاز را پر کنید."
+
+msgid "Please fill out all password fields."
+msgstr "لطفا تمام فیلد های پسورد را کامیل کنید."
+
+msgid "Please fill the required field!"
+msgstr "لطفا فیلد ضروری را پر کنید!"
+
+msgid "Please install Additional Gateways addon to use this gateway."
+msgstr "لطفاً برای استفاده از این درگاه ادان Additional Gateways را نصب کنید."
+
+msgid ""
+"Please keep this message template similar to the one on Yunpian, just replace "
+"#code# with {OTP} otherwise messages will not be sent."
+msgstr ""
+"لطفاً این الگوی پیام را شبیه به Yunpian نگه دارید ، کافی است # CODE # را با "
+"{OTP} در غیر اینصورت پیام ها ارسال نمی شوند."
+
+msgid "Please login to continue"
+msgstr "برای ادامه ، لطفا وارد شوید"
+
+msgid "Please login to continue!"
+msgstr "برای ادامه ، لطفا وارد شوید!"
+
+msgid "Please provide a valid email address."
+msgstr "لطفا یک آدرس ایمیل معتبر ارائه کنید."
+
+msgid "Please provide a valid email address/Mobile number."
+msgstr "لطفا یک ایمیل / شماره تلفن معتبر وارد کنید."
+
+msgid "Please purchase addon license from https://digits.unitedover.com/addons/"
+msgstr ""
+"لطفا لایسنس افزونه را از https://digits.unitedover.com/addons/ خریداری کنید"
+
+msgid "Please rate your experience!"
+msgstr "لطفا به تجربه خود امتیاز دهید!"
+
+msgid "Please re-enter your password."
+msgstr "لطفا رمز عبور خود را دوباره وارد کنید."
+
+msgid "Please register your device!"
+msgstr "لطفا دستگاه خود را ثبت کنید!"
+
+msgid "Please select a method to continue!"
+msgstr "لطفاً روشی را برای ادامه انتخاب کنید!"
+
+msgid "Please select a valid device type!"
+msgstr "لطفاً یک نوع دستگاه معتبر انتخاب کنید!"
+
+msgid "Please select a valid option!"
+msgstr "لطفا یک گزینه معتبر را انتخاب کنید!"
+
+msgid "Please signup before logging in."
+msgstr "لطفا قبل از ورود، ثبت نام کنید."
+
+msgid "Please signup before placing order!"
+msgstr "لطفا قبل از ارسال سفارش ، ثبت نام کنید!"
+
+msgid "Please take action on the request"
+msgstr "لطفا برای درخواست اقدام کنید"
+
+msgid "Please try again"
+msgstr "لطفا دوباره تلاش کنید"
+
+msgid "Please try again!"
+msgstr "لطفا دوباره تلاش کنید!"
+
+msgid "Please type the verification code sent to"
+msgstr "لطفا کد تأیید ارسال شده را تایپ کنید"
+
+msgid "Please type the verification code sent to %s"
+msgstr "لطفا کد تأیید ارسال شده را تایپ کنید %s"
+
+msgid "Please type the verification code shown in your authentication app"
+msgstr "لطفاً کد تأیید نشان داده شده در برنامه احراز هویت خود را تایپ کنید"
+
+msgid ""
+"Please use <span>Digits Forms</span> to experience enhanced security and "
+"seamless experience"
+msgstr ""
+"لطفاً از <span>فرم‌های دیجیتس</span> استفاده کنید تا امنیت پیشرفته و تجربه "
+"یکپارچه را تجربه کنید"
+
+msgid "Please use a strong password!"
+msgstr "لطفا از رمز عبور قوی استفاده کنید!"
+
+msgid "Please use a stronger password!"
+msgstr "لطفا از رمز عبور قوی استفاده کنید!"
+
+msgid "Please use mobile number to login!"
+msgstr "لطفا از شماره موبایل برای ورود استفاده کنید!"
+
+msgid "Please use your device's authentication"
+msgstr "لطفاً از احراز هویت دستگاه خود استفاده کنید"
+
+msgid "Please use your device's authentication or security key"
+msgstr "لطفاً از احراز هویت یا کلید‌امنیتی دستگاه خود استفاده کنید"
+
+msgid "Please use your security key"
+msgstr "لطفا از کلید امنیتی خود استفاده کنید"
+
+msgid "Please verify captcha!"
+msgstr "لطفاً کپچا را تأیید کنید!"
+
+msgid "Please verify your mobile number!"
+msgstr "لطفا شماره موبایل خود را تایید کنید!"
+
+msgid "Pleven"
+msgstr "پلون"
+
+msgid "Plovdiv"
+msgstr "پلوودیف"
+
+msgid "Poltavshchyna"
+msgstr "پولتاشچینا"
+
+msgid "Pondicherry (Puducherry)"
+msgstr "پوندیچری"
+
+msgid "Pontevedra"
+msgstr "پونتوودرا"
+
+msgid "Popup"
+msgstr "پاپ آپ"
+
+msgid "Popup Builder"
+msgstr "سازنده پاپ آپ"
+
+msgid "Pordenone"
+msgstr "Pordenone"
+
+msgid "Port Said"
+msgstr "بندر سعید"
+
+msgid "Portland"
+msgstr "پورتلند"
+
+msgid "Portuguesa"
+msgstr "پرتغال"
+
+msgid "Possible reason: your host may have disabled the mail() function."
+msgstr "دلیل احتمالی: میزبان شما ممکن است عملکرد mail () را غیرفعال کند."
+
+msgid "Postcode / ZIP"
+msgstr "کد پستی"
+
+msgid "Potenza"
+msgstr "گروه طراحی مهر"
+
+msgid "Potosí"
+msgstr "پوتوزی"
+
+msgid "Prachin Buri"
+msgstr "پراچین بوری"
+
+msgid "Prachuap Khiri Khan"
+msgstr "پرچواپ خیری خان"
+
+msgid "Prahova"
+msgstr "پراهوآ"
+
+msgid "Prato"
+msgstr "پراتو"
+
+msgid "Preset"
+msgstr "از پیش تعیین شده"
+
+msgid "Presidente Hayes"
+msgstr "پرزیدنت هیز"
+
+msgid "Primary Color"
+msgstr "رنگ اصلی"
+
+msgid "Prince Edward Island"
+msgstr "جزیره پرنس ادوارد"
+
+msgid "Privacy Link"
+msgstr "لینک  حریم خصوص"
+
+msgid "Production / Live"
+msgstr "تولید / زنده"
+
+msgid "Production Site"
+msgstr "تولید سایت"
+
+msgid "Protected by"
+msgstr "محافظت توسط"
+
+msgid "Prykarpattia"
+msgstr "پریکارپاتیا"
+
+msgid "Puebla"
+msgstr "ام"
+
+msgid "Puerto Plata"
+msgstr "پورتو پلاتا"
+
+msgid "Punjab"
+msgstr "پنجاب"
+
+msgid "Puno"
+msgstr "پونو"
+
+msgid "Puntarenas"
+msgstr "پونتارناس"
+
+msgid "Purchase Code"
+msgstr "کد خرید"
+
+msgid "Purchase code"
+msgstr "کد خرید"
+
+msgid "Putrajaya"
+msgstr "Putrajaya"
+
+msgid "Putumayo"
+msgstr "پوتومایو"
+
+msgid "Qalyubia"
+msgstr "قلیاوپیا"
+
+msgid "Qena"
+msgstr "قنا"
+
+msgid "Qinghai / 青海"
+msgstr "چینگ یانگ / 青海"
+
+msgid "Qom (قم)"
+msgstr "قم"
+
+msgid "Quebec"
+msgstr "کبک"
+
+msgid "Queensland"
+msgstr "Queensland"
+
+msgid "Querétaro"
+msgstr "کوئرترارو"
+
+msgid "Quetzaltenango"
+msgstr "کولتنانگو"
+
+msgid "Quezon"
+msgstr "کیسون"
+
+msgid "Quiché"
+msgstr "کوچه"
+
+msgid "Quindío"
+msgstr "کویندیو"
+
+msgid "Quintana Roo"
+msgstr "رو بدن"
+
+msgid "Quirino"
+msgstr "کیرینو"
+
+msgid "ROUTE"
+msgstr "مسیر"
+
+msgid "Radio"
+msgstr "رادیو"
+
+msgid "Ragusa"
+msgstr "راگوزا"
+
+msgid "Rajasthan"
+msgstr "راجستان"
+
+msgid "Rajbari"
+msgstr "راجباری"
+
+msgid "Rajshahi"
+msgstr "راجشاهی"
+
+msgid "Rakai"
+msgstr "راکای"
+
+msgid "Random Numbers"
+msgstr "شماره های تصادفی"
+
+msgid "Rangamati"
+msgstr "راگامامتی"
+
+msgid "Rangpur"
+msgstr "رانگپور"
+
+msgid "Ranong"
+msgstr "Ranong"
+
+msgid "Rapti"
+msgstr "رپتی"
+
+msgid "Ratchaburi"
+msgstr "رادچابوری"
+
+msgid "Rate your experience with this wizard"
+msgstr "به تجربه خود با این جادوگر امتیاز دهید"
+
+msgid "Ravenna"
+msgstr "راونا"
+
+msgid "Rayong"
+msgstr "ریونگ"
+
+msgid "Razavi Khorasan (خراسان رضوی)"
+msgstr "خراسان رضوی"
+
+msgid "Razgrad"
+msgstr "رازگراد"
+
+msgid "ReCaptcha"
+msgstr "ریکپچا"
+
+msgid "Red Sea"
+msgstr "دریای سرخ"
+
+msgid "Redirect /wp-login.php to Digits"
+msgstr "ریدایرکت /wp-login.php به دیجیتس"
+
+msgid "Redirect WooCommerce account page to Digits login page"
+msgstr "تغییر صفحه حساب کاربری دیفالت ووکامرس به صفحه ورودی Digits"
+
+msgid "Redirection"
+msgstr "تغییر مسیر"
+
+msgid "Redirection Settings"
+msgstr "تنظیمات تغییر مسیر"
+
+msgid ""
+"Redirection settings only work for WordPress Native, WooCommerce and Digits "
+"Native Forms."
+msgstr ""
+"تنظیمات تغییر مسیر فقط برای وردپرس Native، WooCommerce و Digits Native Forms "
+"کار می کنند."
+
+msgid "Reggio Calabria"
+msgstr "رجیو کالابریا"
+
+msgid "Reggio Emilia"
+msgstr "رجیونل امیلیا"
+
+msgid "Region"
+msgstr "منطقه"
+
+msgid "Region (Optional)"
+msgstr "منطقه (اختیاری)"
+
+msgid "Register"
+msgstr "ثبت نام"
+
+msgid "Register Now"
+msgstr "ثبت نام کنید"
+
+msgid "Register With Password"
+msgstr "ثبت نام با رمزعبور"
+
+msgid "Register with OTP"
+msgstr "عضویت با کد تایید"
+
+msgid "Register with WhatsApp"
+msgstr "عضویت با واتساپ"
+
+msgid "Registration Successful, Redirecting.."
+msgstr "ثبت نام موفق ، در حال تغییر مسیر .."
+
+msgid "Registration is disabled"
+msgstr "ثبت نام غیرفعال است"
+
+msgid "Registration is disabled!"
+msgstr "ثبت نام غیر فعال شده است!"
+
+msgid "Registrations are not enabled!"
+msgstr "ثبت نام فعال نیست!"
+
+msgid "Región Metropolitana de Santiago"
+msgstr "سانتیاگو"
+
+msgid "Relizane"
+msgstr "رلیزین"
+
+msgid "Remember Me"
+msgstr "مرا به خاطر بسپار"
+
+msgid "Remove"
+msgstr "حذف"
+
+msgid "Removed"
+msgstr "حذف شده"
+
+msgid "Replace \"OTP\" everywhere"
+msgstr "جایگزینی \"OTP\" هر جایی"
+
+msgid "Request"
+msgstr "درخواست"
+
+msgid "Request Production Site Addition"
+msgstr "درخواست افزودن سایت درحال ساخت"
+
+msgid "Request Testing Site Addition"
+msgstr "درخواست اضافه شدن سایت تست"
+
+msgid "Request expired, please try again!"
+msgstr "درخواست منقضی شد. لطفاً دوباره امتحان کنید!"
+
+msgid "Request not found!"
+msgstr "درخواست یافت نشد!"
+
+msgid "Required"
+msgstr "ضروری"
+
+msgid "Required Field"
+msgstr "فیلد ضروری"
+
+msgid "Required field for billing info"
+msgstr "فیلد اجباری برای اطلاعات صورتحساب"
+
+msgid "Resend"
+msgstr "ارسال مجدد"
+
+msgid "Resend Email"
+msgstr "ارسال‌مجدد ایمیل"
+
+msgid "Resend OTP"
+msgstr "ارسال مجدد کد یکبار مصرف"
+
+msgid "Reset Password"
+msgstr "بازیابی رمز عبور"
+
+msgid "Resume"
+msgstr "رزومه"
+
+msgid "Retalhuleu"
+msgstr "ریتالویلو"
+
+msgid "Rezina"
+msgstr "‏Rezina"
+
+msgid "Rhineland-Palatinate"
+msgstr "Rhineland-Palatinate"
+
+msgid "Rhode Island"
+msgstr "رود آیلند"
+
+msgid "Riau"
+msgstr "ریاو"
+
+msgid "Rieti"
+msgstr "Rieti"
+
+msgid "Rimini"
+msgstr "ریمینی"
+
+msgid "Rio Grande do Norte"
+msgstr "ریو گراند می شمالی"
+
+msgid "Rio Grande do Sul"
+msgstr "ریو گراند انجام دو سول"
+
+msgid "Rio de Janeiro"
+msgstr "ریودوژانیرو"
+
+msgid "Risaralda"
+msgstr "بریسرالدا"
+
+msgid "Rivas"
+msgstr "ریواس"
+
+msgid "River Gee"
+msgstr "River Gee"
+
+msgid "Rivera"
+msgstr "ریورا"
+
+msgid "Rivercess"
+msgstr "Rivercess"
+
+msgid "Rivers"
+msgstr "ریورز"
+
+msgid "Rivnenshchyna"
+msgstr "ریونشچینا"
+
+msgid "Rizal"
+msgstr "ریتال"
+
+msgid "Rize"
+msgstr "ریزه"
+
+msgid "Rocha"
+msgstr "روچا"
+
+msgid "Roi Et"
+msgstr "روی ات"
+
+msgid "Roma"
+msgstr "کولی ها"
+
+msgid "Romblon"
+msgstr "رمبلون"
+
+msgid "Rondônia"
+msgstr "روندونیا"
+
+msgid "Roraima"
+msgstr "Roraima"
+
+msgid "Roscommon"
+msgstr "روسکومون"
+
+msgid "Route"
+msgstr "مسیر"
+
+msgid "Rovigo"
+msgstr "Rovigo"
+
+msgid "Rubanda"
+msgstr "روبندا"
+
+msgid "Rubirizi"
+msgstr "روبیریزی"
+
+msgid "Rukiga"
+msgstr "روکیگا"
+
+msgid "Rukungiri"
+msgstr "راکونهری"
+
+msgid "Rukwa"
+msgstr "رکوا"
+
+msgid "Ruse"
+msgstr "روس"
+
+msgid "Ruvuma"
+msgstr "رووما"
+
+msgid "Río Negro"
+msgstr "ریو نگرو"
+
+msgid "Río San Juan"
+msgstr "ریو سان خوان"
+
+msgid "Rîșcani"
+msgstr "ریشکان"
+
+msgid "SID"
+msgstr "شماره ملی"
+
+msgid "SIGN UP"
+msgstr "ثبت نام"
+
+msgid "SIGN UP WITH OTP"
+msgstr "عضویت با کد تایید"
+
+msgid "SIGN UP WITH PASSWORD"
+msgstr "عضویت با رمزعبور"
+
+msgid "SMS"
+msgstr "پیامک"
+
+msgid "SMS Gateway"
+msgstr "درگاه پیامکی"
+
+msgid "SMS Gateway URL"
+msgstr "آدرس URL درگاه پیامکی"
+
+msgid "SMS OTP"
+msgstr "پیامک کد یکبار مصرف"
+
+msgid "SMS Passcode"
+msgstr "رمز پیامکی"
+
+msgid "SMS SDK App ID"
+msgstr "شناسه برنامه SMS SDK"
+
+msgid "SUBMIT"
+msgstr "ارسال"
+
+msgid "Sa Kaeo"
+msgstr "ساکایو"
+
+msgid "Saarland"
+msgstr "Saarland"
+
+msgid "Sabah"
+msgstr "صباح"
+
+msgid "Sacatepéquez"
+msgstr "ساکتاپکاز"
+
+msgid "Saga"
+msgstr "سوگا"
+
+msgid "Sagarmatha"
+msgstr "سگارمتا"
+
+msgid "Saint Andrew"
+msgstr "سانت اندرو"
+
+msgid "Saint Ann"
+msgstr "سنت آن"
+
+msgid "Saint Catherine"
+msgstr "سنت کاترین"
+
+msgid "Saint Elizabeth"
+msgstr "سنت الیزابت"
+
+msgid "Saint James"
+msgstr "سنت جیمز"
+
+msgid "Saint Mary"
+msgstr "سنت ماری"
+
+msgid "Saint Thomas"
+msgstr "سنت توماس"
+
+msgid "Saint-Louis"
+msgstr "سنت لوئیس"
+
+msgid "Sainyabuli"
+msgstr "Sainyabuli"
+
+msgid "Saitama"
+msgstr "سایتاما"
+
+msgid "Sakarya"
+msgstr "سکاریا"
+
+msgid "Sakon Nakhon"
+msgstr "ساکون ناخون"
+
+msgid "Salamanca"
+msgstr "سالامانکا"
+
+msgid "Salavan"
+msgstr "Salavan"
+
+msgid "Salerno"
+msgstr "سالرنو"
+
+msgid "Salta"
+msgstr "Salta"
+
+msgid "Salto"
+msgstr "سالتو"
+
+msgid "Samaná"
+msgstr "سمانا"
+
+msgid "Samar"
+msgstr "ثمر"
+
+msgid "Samburu"
+msgstr "سامبرو"
+
+msgid "Samsun"
+msgstr "سامسون"
+
+msgid "Samut Prakan"
+msgstr "سموت پراخان"
+
+msgid "Samut Sakhon"
+msgstr "ساموت ساخون"
+
+msgid "Samut Songkhram"
+msgstr "ساموت سونگخرام"
+
+msgid "San Andrés & Providencia"
+msgstr "سن آندرس و پروویدنسیا"
+
+msgid "San Cristóbal"
+msgstr "سن کریستوبل"
+
+msgid "San José"
+msgstr "سان ژوزه"
+
+msgid "San José de Ocoa"
+msgstr "سن خوزه د اوکوآ"
+
+msgid "San Juan"
+msgstr "سن خوان"
+
+msgid "San Luis"
+msgstr "سن لوئیس"
+
+msgid "San Luis Potosí"
+msgstr "سان لوئیس"
+
+msgid "San Marcos"
+msgstr "سن مارکوس"
+
+msgid "San Martín"
+msgstr "سن مارتین"
+
+msgid "San Miguel"
+msgstr "سن میگوئل"
+
+msgid "San Pedro"
+msgstr "سن پدرو"
+
+msgid "San Pedro de Macorís"
+msgstr "سن پدرو دماکوریس"
+
+msgid "San Salvador"
+msgstr "سان سالوادور"
+
+msgid "San Vicente"
+msgstr "سن ویسنت"
+
+msgid "Santa Ana"
+msgstr "سانتا آنا"
+
+msgid "Santa Bárbara"
+msgstr "سانتا باربارا"
+
+msgid "Santa Catarina"
+msgstr "سانتا Catarina"
+
+msgid "Santa Cruz"
+msgstr "سانتا کروز"
+
+msgid "Santa Cruz de Tenerife"
+msgstr "سانتا کروز د تنریفه"
+
+msgid "Santa Elena"
+msgstr "سانتا النا"
+
+msgid "Santa Fe"
+msgstr "سانتافه"
+
+msgid "Santa Rosa"
+msgstr "سانتا رُزا"
+
+msgid "Santander"
+msgstr "سانتاندر"
+
+msgid "Santiago"
+msgstr "سانتیاگو"
+
+msgid "Santiago Rodríguez"
+msgstr "سانتیاگو رودریگز"
+
+msgid "Santiago del Estero"
+msgstr "سانتیاگو Estero دل"
+
+msgid "Santo Domingo"
+msgstr "سانتو دومینگو"
+
+msgid "Santo Domingo de los Tsáchilas"
+msgstr "سانتو دومینگو د لس تسچیلاس"
+
+msgid "Saraburi"
+msgstr "سارابوری"
+
+msgid "Sarangani"
+msgstr "سرنگانی"
+
+msgid "Sarawak"
+msgstr "ساراواک"
+
+msgid "Saskatchewan"
+msgstr "ساسکاتچوان"
+
+msgid "Sassari"
+msgstr "Sassari"
+
+msgid "Satkhira"
+msgstr "ساتکرا"
+
+msgid "Satu Mare"
+msgstr "ساتوماره"
+
+msgid "Satun"
+msgstr "ساتون"
+
+msgid "Savannah"
+msgstr "Savannah"
+
+msgid "Savannakhet"
+msgstr "Savannakhet"
+
+msgid "Save"
+msgstr "ذخیره"
+
+msgid "Saved"
+msgstr "ذخیره شد"
+
+msgid "Saving"
+msgstr "در حال ذخیره"
+
+msgid "Savona"
+msgstr "Savona"
+
+msgid "Saxony"
+msgstr "Saxony"
+
+msgid "Saxony-Anhalt"
+msgstr "Saxony-Anhalt"
+
+msgid "Saïda"
+msgstr "صیدا"
+
+msgid "Scan QR with Google Auth App, Authy, etc, or enter the key manually"
+msgstr ""
+"کد QR را با Google Auth ، Authy و غیره اسکن کنید یا کلید را به صورت دستی وارد "
+"کنید"
+
+msgid "Scan the QR code with your phone"
+msgstr "کد QR را با گوشی خود اسکن کنید"
+
+msgid "Schaffhausen"
+msgstr "شوفاهاوسن"
+
+msgid "Schleswig-Holstein"
+msgstr "Schleswig-Holstein"
+
+msgid "Schwyz"
+msgstr "شوییز"
+
+msgid "Search"
+msgstr "جستجو"
+
+msgid "Secret Access Key"
+msgstr "کلید دسترسی مخفی"
+
+msgid "Secret ID"
+msgstr "شناسه سکرت"
+
+msgid "Secret Key"
+msgstr "کلید مخفی"
+
+msgid "Secured"
+msgstr "امن"
+
+msgid "Security Keys"
+msgstr "کلیدهای امنیتی"
+
+msgid ""
+"Security key is the most secure method for authentication. This option lets "
+"users use their hardware security keys like Yubikey or their device's "
+"biometrics to authenticate."
+msgstr ""
+"کلید امنیتی امن‌ترین روش برای احراز هویت است. این گزینه به کاربران امکان می دهد "
+"از کلیدهای امنیتی سخت افزاری خود مانند Yubikey یا بیومتریک دستگاه خود برای "
+"احراز هویت استفاده کنند."
+
+msgid "Segovia"
+msgstr "سوگویا"
+
+msgid "Sekong"
+msgstr "Sekong"
+
+msgid "Selangor"
+msgstr "سلانگور"
+
+msgid "Select"
+msgstr "انتخاب"
+
+msgid "Select Color"
+msgstr "رنگ را انتخاب کنید"
+
+msgid "Select a Image"
+msgstr "انتخاب تصویر"
+
+msgid "Select a device type!"
+msgstr "نوع دستگاه را انتخاب کنید!"
+
+msgid "Select a logo"
+msgstr "انتخاب لوگو"
+
+msgid "Select all"
+msgstr "انتخاب همه"
+
+msgid "Select default color"
+msgstr "رنگ پیش فرض را انتخاب کنید"
+
+msgid "Select the Type of Form"
+msgstr "نوع فرم را انتخاب کنید"
+
+msgid "Select the site type"
+msgstr "نوع سایت را انتخاب کنید"
+
+msgid "Selector"
+msgstr "انتخاب کننده"
+
+msgid "Sembabule"
+msgstr "سمبابیول"
+
+msgid "Semnan (سمنان)"
+msgstr "سمنان"
+
+msgid "Send"
+msgstr "ارسال"
+
+msgid "Send OTP SMS for <span>Free</span>"
+msgstr "ارسال پیامک کد یکبار مصرف به صورت <span>رایگان</span>"
+
+msgid "Send Test"
+msgstr "ارسال تست"
+
+msgid "Send as Body Data"
+msgstr "ارسال از داده ها"
+
+msgid "SendOTP"
+msgstr "ارسال کد تایید"
+
+msgid "Sender"
+msgstr "فرستنده"
+
+msgid "Sender ID"
+msgstr "شناسه فرستنده"
+
+msgid "Sender ID (From number)"
+msgstr "شناسه فرستنده (از شماره)"
+
+msgid "Serere"
+msgstr "سرر"
+
+msgid "Sergipe"
+msgstr "Sergipe"
+
+msgid "Session expired, please try again!"
+msgstr "جلسه منقضی شد، لطفا دوباره امتحان کنید!"
+
+msgid "Session expired, please try logging in again!"
+msgstr "جلسه منقضی شد، لطفا دوباره وارد شوید!"
+
+msgid "Seti"
+msgstr "ستی"
+
+msgid "Settings"
+msgstr "تنظیمات"
+
+msgid "Settings Saved"
+msgstr "تنظیمات ذخیره شد"
+
+msgid "Setup"
+msgstr "نصب"
+
+msgid "Setup %s-Factor Authentication"
+msgstr "راه اندازی احرازهویت %s-مرحله ای"
+
+msgid "Setup 2FA App"
+msgstr "راه اندازی اپ 2FA"
+
+msgid "Setup Firebase Gateway on this Page"
+msgstr "راه اندازی درگاه Firebase در این صفحه"
+
+msgid "Setup Your Forms Here"
+msgstr "فرم های خود را در اینجا تنظیم کنید"
+
+msgid "Setup Your SMS Gateway Here."
+msgstr "درگاه پیامکی خود را در اینجا راه اندازی کنید."
+
+msgid "Sevastopol"
+msgstr "سواستوپول"
+
+msgid "Sevilla"
+msgstr "سویا"
+
+msgid "Shaanxi / 陕西"
+msgstr "شاآنشی / 陕西"
+
+msgid "Shandong / 山东"
+msgstr "شاندونگ / 山东"
+
+msgid "Shanghai / 上海"
+msgstr "شانگهای / 上海"
+
+msgid "Shanxi / 山西"
+msgstr "شانشی / 山西"
+
+msgid "Shariatpur"
+msgstr "شریعتپور"
+
+msgid "Sheema"
+msgstr "شیما"
+
+msgid "Sherpur"
+msgstr "شرپور"
+
+msgid "Shiga"
+msgstr "شیگا"
+
+msgid "Shimane"
+msgstr "شیمانه"
+
+msgid "Shinyanga"
+msgstr "شینیانگا"
+
+msgid "Shizuoka"
+msgstr "شیزووکا"
+
+msgid "Shkodër"
+msgstr "اشکودر"
+
+msgid "Shortcode List"
+msgstr "لیست کوتاه"
+
+msgid "Shortcodes"
+msgstr "کد کوتاه"
+
+msgid "Show Field Labels"
+msgstr "نمایش برچسب‌های فیلد"
+
+msgid "Show Mobile Number Placeholder"
+msgstr "نمایش متن نگهدارنده شماره موبایل"
+
+msgid "Show Protected by Digits"
+msgstr "نمایش \"محافظت شده توسط دیجیتس\""
+
+msgid "Show asterisk (*) on required fields"
+msgstr "نمایش ستاره (*) در فیلدهای مورد نیاز"
+
+msgid "Shumen"
+msgstr "شومن"
+
+msgid "Siaya"
+msgstr "سیایا"
+
+msgid "Sibiu"
+msgstr "سیبیو"
+
+msgid "Sichuan / 四川"
+msgstr "سیچوان / 四川"
+
+msgid "Sidi Bel Abbès"
+msgstr "سیدی بل عببس"
+
+msgid "Siena"
+msgstr "Siena"
+
+msgid ""
+"Sign In/Sign Up will be allowed for phone numbers with these country codes. To "
+"allow Sign In/Sign Up for all country codes, leave this blank."
+msgstr ""
+"ورود به سیستم / ثبت نام با شماره تلفن با این کد کشور مجاز خواهد بود. برای "
+"اجازه ورود به سیستم / ثبت نام برای همه کدهای کشور، این را خالی بگذارید."
+
+msgid ""
+"Sign In/Sign Up will be not allowed for phone numbers with these country "
+"codes. To allow Sign In/Sign Up for all country codes, leave this blank."
+msgstr ""
+"ورود به سیستم / ثبت نام برای شماره تلفن با این کدهای کشور مجاز نخواهد بود. "
+"برای اجازه ورود به سیستم / ثبت نام برای همه کدهای کشور، این را خالی بگذارید."
+
+msgid "Sign In/Sign Up will be not allowed for these phone numbers."
+msgstr "ورود/ثبت‌نام برای این شماره تلفن‌ها مجاز نخواهد بود."
+
+msgid "Sign Name"
+msgstr "نام ورود"
+
+msgid "Sign Up"
+msgstr "ثبت نام"
+
+msgid "Sign Up Modal"
+msgstr "ماژول ثبت نام"
+
+msgid "Sign Up Page"
+msgstr "صفحه ثبت نام"
+
+msgid "Signup"
+msgstr "ثبت نام"
+
+msgid "Signup Button Border Color"
+msgstr "رنگ خط دکمه ثبت نام"
+
+msgid "Signup Button Color"
+msgstr "رنگ دکمه ثبت نام"
+
+msgid "Signup Button Text Color"
+msgstr "رنگ متن دکمه ثبت نام"
+
+msgid "Signup Form"
+msgstr "فرم ثبت نام"
+
+msgid "Signup Modal"
+msgstr "ماژول ثبت نام"
+
+msgid "Signup Page"
+msgstr "صفحه عضویت"
+
+msgid "Signup Popup"
+msgstr "پاپ‌آپ ثبت‌نام"
+
+msgid "Signup Redirect"
+msgstr "تغییر مسیر عضویت"
+
+msgid "Signup Settings"
+msgstr "تنظیمات ثبت نام"
+
+msgid "Signup With OTP"
+msgstr "ثبت نام با کد تایید"
+
+msgid "Signup With Password"
+msgstr "ثبت نام با رمزعبور"
+
+msgid "Signup With WhatsApp"
+msgstr "عضویت با واتساپ"
+
+msgid "Siirt"
+msgstr "سیرت"
+
+msgid "Sikkim"
+msgstr "هند"
+
+msgid "Silistra"
+msgstr "سیلیسترا"
+
+msgid "Simiyu"
+msgstr "Simiyu"
+
+msgid "Simple Captcha"
+msgstr "نمونه کپچا"
+
+msgid "Sinaloa"
+msgstr "سینالوآ (Sinaloa)"
+
+msgid "Sindh"
+msgstr "سند"
+
+msgid "Sing Buri"
+msgstr "Sing Buri"
+
+msgid "Singida"
+msgstr "سینگیدا"
+
+msgid "Sinoe"
+msgstr "Sinoe"
+
+msgid "Sinop"
+msgstr "سینوپ"
+
+msgid "Siquijor"
+msgstr "سیکویجور"
+
+msgid "Siracusa"
+msgstr "سیراکوزا"
+
+msgid "Sirajganj"
+msgstr "سیرج گنج"
+
+msgid "Sironko"
+msgstr "سیرونکو"
+
+msgid "Sisaket"
+msgstr "Sisaket"
+
+msgid "Sistan and Baluchestan (سیستان و بلوچستان)"
+msgstr "سیستان و بلوچستان"
+
+msgid "Site Key"
+msgstr "کلید سایت"
+
+msgid "Site Name"
+msgstr "نام سایت"
+
+msgid "Site Name: %s"
+msgstr "نام سایت: %s"
+
+msgid "Sivas"
+msgstr "سیواس"
+
+msgid "Skikda"
+msgstr "اسکیدا"
+
+msgid "Skip for now"
+msgstr "فعلا رد شوید"
+
+msgid "Sligo"
+msgstr "اسلایگو"
+
+msgid "Sliven"
+msgstr "اسلیون"
+
+msgid "Smolyan"
+msgstr "Smolyan"
+
+msgid "SmsUpExtendCode"
+msgstr "توسعه کد پیامک"
+
+msgid "Sofala"
+msgstr "Sofala"
+
+msgid "Sofia"
+msgstr "صوفیا"
+
+msgid "Sofia District"
+msgstr "صوفیا دیستریکت"
+
+msgid "Sohag"
+msgstr "سوهاگ"
+
+msgid "Sokoto"
+msgstr "سوکوتو"
+
+msgid "Sololá"
+msgstr "سولولا"
+
+msgid "Solothurn"
+msgstr "سولوتورن"
+
+msgid "Someone has requested a password reset for the following account:"
+msgstr "کسی درخواست بازنشانی رمز عبور برای حساب زیر را درخواست کرده است:"
+
+msgid "Somogy"
+msgstr "شوموگ"
+
+msgid "Sondrio"
+msgstr "Sondrio"
+
+msgid "Songkhla"
+msgstr "سئنگکولا"
+
+msgid "Sonora"
+msgstr "سونورا"
+
+msgid "Sonsonate"
+msgstr "سونسوناتی"
+
+msgid "Soria"
+msgstr "سوریه"
+
+msgid "Soriano"
+msgstr "سوریانو"
+
+msgid "Soroca"
+msgstr "‏Soroca"
+
+msgid "Soroti"
+msgstr "سوروتی"
+
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr "با عرض پوزش، شما مجاز به نصب افزونه ها در این سایت نیستید."
+
+msgid "Sorsogon"
+msgstr "سورسوگون"
+
+msgid "Souk Ahras"
+msgstr "سوق احراز"
+
+msgid "Source"
+msgstr "منبع"
+
+msgid "South Aegean"
+msgstr "اژه جنوبی"
+
+msgid "South Australia"
+msgstr "استرالیای جنوبی"
+
+msgid "South Carolina"
+msgstr "کارولینای جنوبی"
+
+msgid "South Cotabato"
+msgstr "کاتاباتو شمالی"
+
+msgid "South Dakota"
+msgstr "داکوتای جنوبی"
+
+msgid "South Khorasan (خراسان جنوبی)"
+msgstr "خراسان جنوبی"
+
+msgid "South Sinai"
+msgstr "سینای جنوبی"
+
+msgid "Southern"
+msgstr "‌جنوبی"
+
+msgid "Southern Leyte"
+msgstr "جنوب لی ته"
+
+msgid "Southland"
+msgstr "سوتلند"
+
+msgid "Spread"
+msgstr "انتشار دادن"
+
+msgid "St. Gallen"
+msgstr "‏St. Gallen"
+
+msgid "Staging / Test"
+msgstr "مرحله بندی / تست"
+
+msgid "Stara Zagora"
+msgstr "استارا زاگورا"
+
+msgid "State"
+msgstr "استان"
+
+msgid "Step Title"
+msgstr "عنوان مرحله"
+
+msgid "Strășeni"
+msgstr "استرششن"
+
+msgid "Submit"
+msgstr "ارسال"
+
+msgid "Submit OTP"
+msgstr "ثبت کد تایید"
+
+msgid "Suceava"
+msgstr "Suceava"
+
+msgid "Suchitepéquez"
+msgstr "سوکیتاپاکاز"
+
+msgid "Sucre"
+msgstr "سوکره"
+
+msgid "Sucumbíos"
+msgstr "شوگومبیوس"
+
+msgid "Sud Sardegna"
+msgstr "Sardegna ساد"
+
+msgid "Suez"
+msgstr "سوئز"
+
+msgid "Sukhothai"
+msgstr "سوخوتای"
+
+msgid "Sulawesi Barat"
+msgstr "سولاوسی بارات"
+
+msgid "Sulawesi Selatan"
+msgstr "سولاوسی سلطان"
+
+msgid "Sulawesi Tengah"
+msgstr "سولاوسی تنگه"
+
+msgid "Sulawesi Tenggara"
+msgstr "سولاوسی تنگرا"
+
+msgid "Sulawesi Utara"
+msgstr "سولاوسی اوتارا"
+
+msgid "Sultan Kudarat"
+msgstr "سلطان قدرت"
+
+msgid "Sulu"
+msgstr "سولو"
+
+msgid "Sumatera Barat"
+msgstr "Sumatera برات"
+
+msgid "Sumatera Selatan"
+msgstr "Sumatera Selatan"
+
+msgid "Sumatera Utara"
+msgstr "سوماترا اولتارا"
+
+msgid "Sumshchyna"
+msgstr "سومشچینا"
+
+msgid "Sunamganj"
+msgstr "سونامگنج"
+
+msgid "Suphan Buri"
+msgstr "سوفان بوری"
+
+msgid "Surat Thani"
+msgstr "سورات تانی"
+
+msgid "Surigao del Norte"
+msgstr "سوریگاو شمالی"
+
+msgid "Surigao del Sur"
+msgstr "سوریگائو دل سور"
+
+msgid "Surin"
+msgstr "سوریه"
+
+msgid "Sylhet"
+msgstr "من"
+
+msgid "Szabolcs-Szatmár-Bereg"
+msgstr "سابولچ-ساتمار-برگ"
+
+msgid "Sánchez Ramírez"
+msgstr "سنچز رامیرز"
+
+msgid "São Paulo"
+msgstr "سائو پولو"
+
+msgid "Sédhiou"
+msgstr "سدیهو"
+
+msgid "Sétif"
+msgstr "ستیف"
+
+msgid "Sîngerei"
+msgstr "سینگیری"
+
+msgid "Sălaj"
+msgstr "سلاج"
+
+msgid "Tabasco"
+msgstr "سس فلفلی تاباسکو"
+
+msgid "Tabora"
+msgstr "تابورا"
+
+msgid "Tacna"
+msgstr "تاکنا"
+
+msgid "Tacuarembó"
+msgstr "تاکوارمبو"
+
+msgid "Taita-Taveta"
+msgstr "تایتا-تاوتا"
+
+msgid "Tak"
+msgstr "این هم هست"
+
+msgid "Tamanghasset"
+msgstr "تامانگهاست"
+
+msgid "Tamaulipas"
+msgstr "تاماولیپاس"
+
+msgid "Tambacounda"
+msgstr "تامباکوندا"
+
+msgid "Tamil Nadu"
+msgstr "تامیل نادو"
+
+msgid "Tana River"
+msgstr "رود تانا"
+
+msgid "Tanga"
+msgstr "تانگا"
+
+msgid "Tangail"
+msgstr "تنگیل"
+
+msgid "Taraba"
+msgstr "تارابا"
+
+msgid "Taraclia"
+msgstr "‏Taraclia"
+
+msgid "Taranaki"
+msgstr "تاراناکی"
+
+msgid "Taranto"
+msgstr "تارانتو"
+
+msgid "Tarapacá"
+msgstr "تاراپاتا"
+
+msgid "Targovishte"
+msgstr "تارگویشت"
+
+msgid "Tarija"
+msgstr "تاریا"
+
+msgid "Tarlac"
+msgstr "تارلک"
+
+msgid "Tarragona"
+msgstr "تاراگونا"
+
+msgid "Tasman"
+msgstr "تاسمان"
+
+msgid "Tasmania"
+msgstr "Tasmania"
+
+msgid "Tawi-Tawi"
+msgstr "تاوی تاگوی"
+
+msgid "Tehran (تهران)"
+msgstr "تهران"
+
+msgid "Tekirdağ"
+msgstr "تکیرداغ"
+
+msgid "Telangana"
+msgstr "Telangana"
+
+msgid "Telenești"
+msgstr "تله نِشت"
+
+msgid "Teleorman"
+msgstr "تلئورمان"
+
+msgid "Template Code"
+msgstr "کد الگو"
+
+msgid "Template ID"
+msgstr "شناسه قالب"
+
+msgid "Template Name"
+msgstr "نام قالب"
+
+msgid "TemplateParam"
+msgstr "نمونه پترن"
+
+msgid "Tennessee"
+msgstr "تنسی"
+
+msgid "Teramo"
+msgstr "Teramo"
+
+msgid "Terengganu"
+msgstr "ترنگگانو"
+
+msgid "Terms & Conditions"
+msgstr "شرایط و ضوابط"
+
+msgid "Terms & Conditions Link"
+msgstr "لینک شرایط و قوانین"
+
+msgid "Terni"
+msgstr "ترنی"
+
+msgid "Ternopilshchyna"
+msgstr "ترنوپیلشچینا"
+
+msgid "Teruel"
+msgstr "ترئول"
+
+msgid "Test Gateway Settings"
+msgstr "تست تنظیمات درگاه پیامک"
+
+msgid "Testing Site"
+msgstr "سایت تست"
+
+msgid "Tete"
+msgstr "Tete"
+
+msgid "Texas"
+msgstr "تگزاس"
+
+msgid "Text"
+msgstr "متن"
+
+msgid "Text Color"
+msgstr "رنگ متن"
+
+msgid "Text and Button Color"
+msgstr "رنگ دکمه و متن"
+
+msgid "TextArea"
+msgstr "باکس متن"
+
+msgid "Thakurgaon"
+msgstr "تاکورگاون"
+
+msgid "Thank you for submitting your valuable feedback!"
+msgstr "از ارسال بازخورد ارزشمند خود متشکریم!"
+
+msgid "Thank you for verifiying your email!"
+msgstr "از اینکه ایمیل خود را تأیید کردید متشکریم!"
+
+msgid "Tharaka-Nithi"
+msgstr "تااراکا-نیتی"
+
+msgid ""
+"The basic setup of Digits plugin has been done, now you can play with its "
+"settings to explore more features"
+msgstr ""
+"راه اندازی اولیه افزونه Digits انجام شده است، اکنون می توانید با تنظیمات آن "
+"بازی کنید تا ویژگی های بیشتری را بررسی کنید"
+
+msgid "The default role which will be assigned to new user created."
+msgstr "این مورد در هنگام ثبت نام کاربر جدید استفاده میشود."
+
+msgid "The email could not be sent."
+msgstr "ایمیل ارسال نشد."
+
+msgid "The email could not be sent. Please contact site owner"
+msgstr "ایمیل ارسال نشد. لطفا با مالک سایت تماس بگیرید"
+
+msgid ""
+"The values asked here will be provided by your gateway. If you need help in "
+"finding those, please get in touch with your gateway support."
+msgstr ""
+"مقادیر موردنیاز در اینجا توسط درگاه شما ارائه می شود. اگر برای یافتن آنها به "
+"کمک نیاز دارید، لطفاً با پشتیبانی درگاه خود تماس بگیرید."
+
+msgid "Theme"
+msgstr "قالب"
+
+msgid "Theme Editor"
+msgstr "ویرایشگر قالب"
+
+msgid "There is no account with that phone or email address."
+msgstr "هیچ حساب کاربری با آن آدرس ایمیل یا تلفن وجود ندارد."
+
+msgid "There is no changelog available."
+msgstr "هیچ تغییری در دسترس وجود ندارد."
+
+msgid "There is no email address linked to the account!"
+msgstr "هیچ آدرس ایمیلی به حساب کاربری مرتبط نیست!"
+
+msgid "There is no phone number linked to the account!"
+msgstr "هیچ شماره تلفنی به حساب کاربری متصل نیست!"
+
+msgid ""
+"These settings only apply if you are using our Native Form, 3rd party plugin "
+"or theme forms. <br /><br /> These settings <b>do not</b> apply for forms "
+"built with Digits Builder addon. "
+msgstr ""
+"این تنظیمات فقط در صورتی اعمال می‌شوند که از فرم بومی، افزونه شخص ثالث یا "
+"فرم‌های موضوعی ما استفاده می‌کنید. <br /><br /> این تنظیمات <b>برای فرم‌های ساخته "
+"شده با افزونه سازنده Digits اعمال نمی‌شوند. "
+
+msgid "Thessaly"
+msgstr "تسالی"
+
+msgid "This Mobile number is already registered."
+msgstr "این شماره موبایل قبلا ثبت شده است."
+
+msgid ""
+"This device is blocked for this user for a invalid attempt, please try again "
+"after some time!"
+msgstr ""
+"این دستگاه به دلیل تلاش نامعتبر برای این کاربر مسدود شده است، لطفاً پس از مدتی "
+"دوباره امتحان کنید!"
+
+msgid "This email address is already registered."
+msgstr "این آدرس پست الکترونیک قبلا ثبت شده است."
+
+msgid "This features only works with mobile number"
+msgstr "این ویژگی فقط با شماره تلفن موبایل کار می کند"
+
+msgid "This function only works on Digits Native Forms"
+msgstr "این تابع فقط روی فرم‌های بومی دیجیتس کار می‌کند"
+
+msgid "This is a test site"
+msgstr "این یک سایت آزمایشی است"
+
+msgid "This link has expired, Please try again!"
+msgstr "این لینک منقضی شده است، لطفا دوباره امتحان کنید!"
+
+msgid "This link is no longer valid, please try again!"
+msgstr "این لینک دیگر معتبر نیست، لطفا دوباره امتحان کنید!"
+
+msgid "This link is not valid, Please try again!"
+msgstr "این لینک معتبر نیست، لطفا دوباره امتحان کنید!"
+
+msgid "This phone number is not allowed!"
+msgstr "این شماره تلفن مجاز نیست!"
+
+msgid ""
+"This response is from your gateway company. If the response looks good and you "
+"didn't receive a message then please contact your gateway support."
+msgstr ""
+"این پاسخ از طرف شرکت درگاه پیامکی شما است. اگر پاسخ خوب هست و پیامک دریافت "
+"نکردید، لطفاً با پشتیبانی درگاه خود تماس بگیرید."
+
+msgid "This wizard will guide you through the setup process of this plugin"
+msgstr "این جادوگر شما را در مراحل راه اندازی این افزونه راهنمایی می کند"
+
+msgid "Thiès"
+msgstr "تیه س"
+
+msgid "Thurgau"
+msgstr "تورگاو"
+
+msgid "Thuringia"
+msgstr "Thuringia"
+
+msgid "Tianjin / 天津"
+msgstr "تیانجین / 天津"
+
+msgid "Tiaret"
+msgstr "تیاره"
+
+msgid "Tibet / 西藏"
+msgstr "تبت / 西藏"
+
+msgid "Ticino"
+msgstr "تیکینو"
+
+msgid "Tierra del Fuego"
+msgstr "Tierra دل Fuego"
+
+msgid "Timiș"
+msgstr "تيمش"
+
+msgid "Tindouf"
+msgstr "تینودوف"
+
+msgid "Tipasa"
+msgstr "تیپاسا"
+
+msgid "Tipperary"
+msgstr "تیپراری"
+
+msgid "Tirana"
+msgstr "تیرانا"
+
+msgid "Tissemsilt"
+msgstr "تیسمسیلت"
+
+msgid "Title Color"
+msgstr "رنگ عنوان"
+
+msgid "Tizi Ouzou"
+msgstr "تیزی اووزو"
+
+msgid "Tlaxcala"
+msgstr "تلاکسکالا"
+
+msgid "Tlemcen"
+msgstr "تیمسن"
+
+msgid "To"
+msgstr "به"
+
+msgid "To reset your password, visit the following address:"
+msgstr "برای بازنشانی گذرواژه خود، از آدرس زیر دیدن کنید:"
+
+msgid "Tocantins"
+msgstr "Tocantins می"
+
+msgid "Tochigi"
+msgstr "توچیگی"
+
+msgid "Tokat"
+msgstr "توکات"
+
+msgid "Token"
+msgstr "توکن"
+
+msgid "Tokushima"
+msgstr "توکوشیما"
+
+msgid "Tokyo"
+msgstr "توکیو"
+
+msgid "Toledo"
+msgstr "تولدو"
+
+msgid "Tolima"
+msgstr "تولیما"
+
+msgid "Tolna"
+msgstr "تولنا"
+
+msgid "Torino"
+msgstr "تورینو"
+
+msgid "Tororo"
+msgstr "تورورو"
+
+msgid "Total Logins"
+msgstr "مجموع لاگین‌ها"
+
+msgid "Total Users"
+msgstr "تعداد کاربران"
+
+msgid "Totonicapán"
+msgstr "توتانیکاپن"
+
+msgid "Tottori"
+msgstr "توتوری"
+
+msgid "Toyama"
+msgstr "تویاما"
+
+msgid "Trabzon"
+msgstr "ترابزون"
+
+msgid "Trang"
+msgstr "Trang"
+
+msgid "Trans Nzoia"
+msgstr "ترنس نزویا"
+
+msgid "Transactional"
+msgstr "تراکنش"
+
+msgid ""
+"Translation of whole plugin can be done through POT file present in the plugin "
+"languages folder. You'll need to upload .MO and .PO files to the languages "
+"folder of this plugin. The easiest way to translate is to use <i>Loco "
+"Translate</i> WordPress plugin."
+msgstr ""
+"ترجمه کل افزونه را می توان از طریق فایل POT موجود در پوشه languages افزونه "
+"انجام داد. شما باید فایل های .MO و .PO را در پوشه languages این افزونه آپلود "
+"کنید. ساده ترین راه برای ترجمه استفاده از افزونه وردپرس <i>Loco Translate</i> "
+"است."
+
+msgid "Translations"
+msgstr "ترجمه ها"
+
+msgid "Trapani"
+msgstr "Trapani"
+
+msgid "Trat"
+msgstr "تراد"
+
+msgid "Treinta y Tres"
+msgstr "ترینتی ترس"
+
+msgid "Trelawny"
+msgstr "ترلونی"
+
+msgid "Trento"
+msgstr "ترنت"
+
+msgid "Treviso"
+msgstr "ترویسئو"
+
+msgid "Trieste"
+msgstr "Trieste"
+
+msgid "Trigger Digits Form"
+msgstr "تریگر فرم دیجیتس"
+
+msgid "Tripura"
+msgstr "Tripura"
+
+msgid "Trujillo"
+msgstr "تروخیلو"
+
+msgid "Tucumán"
+msgstr "توکومان"
+
+msgid "Tulcea"
+msgstr "تولکا"
+
+msgid "Tumbes"
+msgstr "تومبس"
+
+msgid "Tunceli"
+msgstr "تونچلی"
+
+msgid "Tungurahua"
+msgstr "تونگوراهوا"
+
+msgid "Turkana"
+msgstr "تورکانا"
+
+msgid "Twilio Account SID"
+msgstr "Twilio Account SID"
+
+msgid "Twilio Auth Token"
+msgstr "Twilio Auth Token"
+
+msgid "Type"
+msgstr "نوع"
+
+msgid "Type Username or UserRole"
+msgstr "نام کاربری یا نقش کاربری را بنویسید"
+
+msgid "Type of Site?"
+msgstr "نوع سایت؟"
+
+msgid "Táchira"
+msgstr "تاچیرا"
+
+msgid "Tébessa"
+msgstr "تبسه"
+
+msgid "UID"
+msgstr "UID"
+
+msgid "URL"
+msgstr "آدرس"
+
+msgid "URL Encode"
+msgstr "URL Encode"
+
+msgid "URL Raw Encode"
+msgstr "اینکد کردن ردیف آدرس"
+
+msgctxt "US state of Georgia"
+msgid "Georgia"
+msgstr "جورجیا"
+
+msgid "USB Security Key"
+msgstr "کلید امنیتی USB"
+
+msgid "UTA Găgăuzia"
+msgstr "UTA گاگووزیا (UTA Găgăuzia)"
+
+msgid "Uasin Gishu"
+msgstr "اواسین گیشو"
+
+msgid "Ubon Ratchathani"
+msgstr "اوبون راتچاتانی"
+
+msgid "Ucayali"
+msgstr "اوکایالی"
+
+msgid "Udine"
+msgstr "Udine"
+
+msgid "Udon Thani"
+msgstr "اودون تانی"
+
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr "اتصال به سیستم پرونده امکان پذیر نیست. لطفا مدارک خود را تأیید کنید."
+
+msgid "Unable to verify Mobile number"
+msgstr "قادر به تأیید شماره تلفن همراه نیست"
+
+msgid "Unable to verify OTP!"
+msgstr "امکان تایید رمز عبور یکبار مصرف وجود ندارد!"
+
+msgid "Unexpected error occured while getting addons"
+msgstr "هنگام دریافت خطای غیرمنتظره رخ داد"
+
+msgid "Unexpected error occurred, please try again!"
+msgstr "خطای غیرمنتظره رخ داد! لطفا دوباره تلاش کنید!"
+
+msgid "Unexpected error occurred, please try refreshing the page!"
+msgstr "خطای غیرمنتظره‌ای روی داد، لطفاً صفحه را رفرش کنید!"
+
+msgid "Ungheni"
+msgstr "اونگنی"
+
+msgid "UnitedOver"
+msgstr "UnitedOver"
+
+msgid "Unknown error occurred"
+msgstr "خطای نامشخصی رخ داد"
+
+msgid "Unknown error occurred, please try again!"
+msgstr "خطای ناشناخته رخ داده است، لطفا دوباره امتحان کنید!"
+
+msgid "Unknown update checker status \"%s\""
+msgstr "وضعیت بررسی ناشناس به روزرسانی \"%s\""
+
+msgid "Update"
+msgstr "بروزرسانی"
+
+msgid "Upper East"
+msgstr "Upper East"
+
+msgid "Upper West"
+msgstr "شمال غرب"
+
+msgid "Uri"
+msgstr "اوری"
+
+msgid "Usage Data Sharing"
+msgstr "اشتراک داده های استفاده"
+
+msgid "Use"
+msgstr "استفاده"
+
+msgid "Use %s"
+msgstr "استفاده از %s"
+
+msgid "Use Device"
+msgstr "استفاده از دستگاه"
+
+msgid "Use Digits form as default Forgot Password form"
+msgstr "استفاده از فرم دیجیتس بعنوان فرم پیش‌فرض فراموشی رمز عبور"
+
+msgid "Use Email"
+msgstr "استفاده از ایمیل"
+
+msgid "Use Email Address"
+msgstr "استفاده از ایمیل"
+
+msgid "Use Other Phone"
+msgstr "استفاده از تلفن دیگر"
+
+msgid "Use Password"
+msgstr "استفاده از رمزعبور"
+
+msgid "Use Phone"
+msgstr "استفاده از تلفن"
+
+msgid "Use Phone Number"
+msgstr "استفاده از شماره تلفن"
+
+msgid "Use SMS"
+msgstr "استفاده از پیامک"
+
+msgid "Use Security Key"
+msgstr "استفاده از کلید‌امنیتی"
+
+msgid "Use WhatsApp "
+msgstr "استفاده از واتس اپ "
+
+msgid "Use this Image"
+msgstr "استفاده از این تصویر"
+
+msgid "Use this logo"
+msgstr "استفاده از این لوگو"
+
+msgid "User"
+msgstr "کاربر"
+
+msgid "User / User Role"
+msgstr "کاربر / نقش‌کاربر"
+
+msgid "User / UserRole Based Login Flow"
+msgstr "حالت ورود براساس کاربر/نقش کاربر"
+
+msgid "User Role"
+msgstr "نقش کاربر"
+
+msgid "User Roles"
+msgstr "نقش های کاربری"
+
+msgid "User is blocked from logging in via this device for some time!"
+msgstr "کاربر برای مدتی از ورود با این دستگاه مسدود شده است!"
+
+msgid "User registered successfully"
+msgstr "عضویت کاربر تکمیل شد"
+
+msgid "Username"
+msgstr "نام کاربری"
+
+msgid "Username Generation"
+msgstr "تولید نام کاربری"
+
+msgid "Username is already in use!"
+msgstr "این نام کاربری قبلا انتخاب شده است!"
+
+msgid "Username/Mobile Number"
+msgstr "نام کاربری/شماره موبایل"
+
+msgid "Username: %s"
+msgstr "نام کاربری: %s"
+
+msgid "Users"
+msgstr "کاربران"
+
+msgid "Usulután"
+msgstr "اوسولتن"
+
+msgid "Utah"
+msgstr "یوتا"
+
+msgid "Uthai Thani"
+msgstr "یوتای تانی"
+
+msgid "Uttar Pradesh"
+msgstr "اوتار پرادش"
+
+msgid "Uttaradit"
+msgstr "Uttaradit"
+
+msgid "Uttarakhand"
+msgstr "Uttarakhand"
+
+msgid "Uíge"
+msgstr "اویگه"
+
+msgid "Uşak"
+msgstr "اوشاک"
+
+msgid "Valais"
+msgstr "والس"
+
+msgid "Valdesia"
+msgstr "والدزیا"
+
+msgid "Valencia"
+msgstr "والنسیا"
+
+msgid "Valladolid"
+msgstr "والادولید"
+
+msgid "Valle"
+msgstr "وله ی"
+
+msgid "Valle del Cauca"
+msgstr "وایه دل كآوكا"
+
+msgid "Valparaíso"
+msgstr "والپارایسو"
+
+msgid "Valverde"
+msgstr "والوردی"
+
+msgid "Van"
+msgstr "ون"
+
+msgid "Varese"
+msgstr "Varese"
+
+msgid "Varna"
+msgstr "وارنا"
+
+msgid "Vas"
+msgstr "واش"
+
+msgid "Vaslui"
+msgstr "واسلویی"
+
+msgid "Vaud"
+msgstr "واد"
+
+msgid "Vaupés"
+msgstr "واپس"
+
+msgid "Veliko Tarnovo"
+msgstr "فیلیکو تارنوو"
+
+msgid "Venezia"
+msgstr "ونیز"
+
+msgid "Veracruz"
+msgstr "وراکروز"
+
+msgid "Veraguas"
+msgstr "وراگواس"
+
+msgid "Verbano-Cusio-Ossola"
+msgstr "وربانو-کوشیو-اوسولا"
+
+msgid "Vercelli"
+msgstr "ورچلی"
+
+msgid "Verification Code"
+msgstr "کد تایید"
+
+msgid "Verify Email"
+msgstr "تایید ایمیل"
+
+msgid "Verify Mobile Number"
+msgstr "تایید شماره موبایل"
+
+msgid "Verify Phone"
+msgstr "تأیید تلفن"
+
+msgid "Verify your Email Address"
+msgstr "تأیید آدرس ایمیل"
+
+msgid "Verify your Email Address for {{sitename}}"
+msgstr "آدرس ایمیل خود در {{sitename}} را تأیید کنید"
+
+msgid "Vermont"
+msgstr "ورمونت"
+
+msgid "Verona"
+msgstr "ورونا"
+
+msgid "Veszprém"
+msgstr "وزپرم"
+
+msgid "Vibo Valentia"
+msgstr "ویبو والنثیا"
+
+msgid "Vicenza"
+msgstr "ویچنزای"
+
+msgid "Vichada"
+msgstr "ویچادا"
+
+msgid "Victoria"
+msgstr "Victoria"
+
+msgid "Vidin"
+msgstr "ویدین"
+
+msgid "Vientiane"
+msgstr "وین تیان"
+
+msgid "Vientiane Province"
+msgstr "استان وینته"
+
+msgid "View Logs"
+msgstr "دیدن گزارش وقایع"
+
+msgid "View changelog"
+msgstr "مشاهده تغییرات"
+
+msgid "View details"
+msgstr "مشاهده جزئیات"
+
+msgid "Vihiga"
+msgstr "ویهیگا"
+
+msgid "Vinnychchyna"
+msgstr "وینیچچینا"
+
+msgid "Virginia"
+msgstr "ویرجینیا"
+
+msgid "Viterbo"
+msgstr "ویتربو"
+
+msgid "Vlorë"
+msgstr "ولوره"
+
+msgid "Voila, its all done :D"
+msgstr "Voila، همه چیز تمام شد :D"
+
+msgid "Volta"
+msgstr "Volta"
+
+msgid "Volyn"
+msgstr "ولین"
+
+msgid "Vrancea"
+msgstr "ورانچا"
+
+msgid "Vratsa"
+msgstr "وراتسا"
+
+msgid "Vâlcea"
+msgstr "ولچا"
+
+msgid "Waikato"
+msgstr "وایکاتو"
+
+msgid "Wajir"
+msgstr "واجیر"
+
+msgid "Wakayama"
+msgstr "واکایاما"
+
+msgid "Wake Island"
+msgstr "جزیره ویک"
+
+msgid "Wakiso"
+msgstr "وکیسو"
+
+msgid "Washington"
+msgstr "واشنگتن"
+
+msgid "Waterford"
+msgstr "واترفورد"
+
+msgid ""
+"We are compatible with that particular 3rd Party plugin. The  list of "
+"compatible plugins can be found on our website %s"
+msgstr ""
+"ما با آن افزونه شخص ثالث خاص سازگار هستیم. لیست پلاگین های سازگار را می توانید "
+"در وب سایت ما %s پیدا کنید"
+
+msgid "We highly recommend using our forms for better security and more features"
+msgstr ""
+"ما به شدت توصیه می کنیم از فرم های ما برای امنیت بهتر و ویژگی های بیشتر "
+"استفاده کنید"
+
+msgid ""
+"We've noticed that your site is using insecure protocol (http) instead of "
+"secure protocol (https), so we request you change it from your WordPress "
+"General settings."
+msgstr ""
+"ظاهرا سایت شما از پروتکل ناامن (http) به جای پروتکل امن (https) استفاده می‌کند، "
+"لطفا آن را از تنظیمات عمومی وردپرس خود تغییر دهید."
+
+msgid "Welcome"
+msgstr "خوش آمدید"
+
+msgid "Wellington"
+msgstr "ولینگتون"
+
+msgid "West Azarbaijan (آذربایجان غربی)"
+msgstr "آذربایجان غربی"
+
+msgid "West Bengal"
+msgstr "بنگال غربی"
+
+msgid "West Coast"
+msgstr "ساحل غربی"
+
+msgid "West Greece"
+msgstr "یونان غربی"
+
+msgid "West Macedonia"
+msgstr "مقدونیه غربی"
+
+msgid "West Panamá"
+msgstr "پانامای غربی"
+
+msgid "West Pokot"
+msgstr "وست پوکوت"
+
+msgid "West Virginia"
+msgstr "ویرجینیای غربی"
+
+msgid "Western"
+msgstr "غربی"
+
+msgid "Western Australia"
+msgstr "استرالیای غربی"
+
+msgid "Western Cape"
+msgstr "کیپ غربی"
+
+msgid "Western North"
+msgstr "شمال غربی"
+
+msgid "Westmeath"
+msgstr "وستمیث"
+
+msgid "Westmoreland"
+msgstr "وست مورلند"
+
+msgid "Wexford"
+msgstr "ویکسفورد"
+
+msgid "What do you wanna use?"
+msgstr "از چه چیزی می خواهید استفاده کنید؟"
+
+msgid "What do you want to create?"
+msgstr "چه چیزی می خواهید ایجاد کنید؟"
+
+msgid "What type of forms do you want to use?"
+msgstr "از چه نوع فرم هایی می خواهید استفاده کنید؟"
+
+msgid "WhatsApp"
+msgstr "واتس اپ"
+
+msgid "WhatsApp Gateway"
+msgstr "درگاه واتساپ"
+
+msgid "WhatsApp Gateway URL"
+msgstr "URL دروازه واتس اپ"
+
+msgid "WhatsApp Message Template"
+msgstr "نمونه پیام واتساپ"
+
+msgid "WhatsApp OTP"
+msgstr "کد تایید واتساپ"
+
+msgid "WhatsApp Passcode"
+msgstr "رمز واتساپ"
+
+msgid "Whatsapp Channel ID"
+msgstr "Whatsapp Channel ID"
+
+msgid "Whatsapp Number"
+msgstr "Whatsapp Number"
+
+msgid "Wicklow"
+msgstr "ویکلو"
+
+msgid "Wisconsin"
+msgstr "ویسکانسین"
+
+msgid ""
+"With User / UserRole based login flow you can define unique login methods "
+"based on user roles or any particular users."
+msgstr ""
+"با حالت ورود بر اساس کاربر/نقش‌کاربر می توانید روش های ورود منحصر به فردی را بر "
+"اساس نقش های کاربر یا هر کاربر خاص تعریف کنید."
+
+msgid "With old styling you will also be missing on some cool new features."
+msgstr ""
+"با یک ظاهر طراحی قدیمی، برخی از ویژگی های جدید جالب را نیز از دست خواهید داد."
+
+msgid ""
+"With our drag and drop builder you can create popup forms or page forms as per "
+"your requirement."
+msgstr ""
+"با کشیدن و رها کردن سازنده ما می توانید طبق نیاز خود فرم های بازشو یا فرم های "
+"صفحه ایجاد کنید."
+
+msgid "WooCommerce"
+msgstr "ووکامرس"
+
+msgid "WooCommerce Settings"
+msgstr "تنظیمات ووکامرس"
+
+msgid "WordPress / WooCommerce Fields"
+msgstr "فیلد های وردپرس / ووکامرس"
+
+msgid "Wyoming"
+msgstr "وایومینگ"
+
+msgid "X"
+msgstr "X"
+
+msgid "Xaisomboun"
+msgstr "Xaisomboun"
+
+msgid "Xiangkhouang"
+msgstr "Xiangkhouang"
+
+msgid "Xinjiang / 新疆"
+msgstr "سین کیانگ / 新疆"
+
+msgid "Y"
+msgstr "Y"
+
+msgid "Yala"
+msgstr "یالا"
+
+msgid "Yalova"
+msgstr "یالووا"
+
+msgid "Yamagata"
+msgstr "یاماگاتا"
+
+msgid "Yamaguchi"
+msgstr "یاماگوچی"
+
+msgid "Yamanashi"
+msgstr "یاماناشی"
+
+msgid "Yambol"
+msgstr "یامبول"
+
+msgid "Yaracuy"
+msgstr "یاراکوی"
+
+msgid "Yasothon"
+msgstr "Yasothon"
+
+msgid "Yay!"
+msgstr "بله!"
+
+msgid "Yazd (یزد)"
+msgstr "یزد"
+
+msgid "Yes"
+msgstr "بله"
+
+msgid "Yes (Show Checkbox)"
+msgstr "بله (نمایش چکباکس)"
+
+msgid "Yes, block the device"
+msgstr "بله، دستگاه را مسدود کن"
+
+msgid "Yobe"
+msgstr "ایوب"
+
+msgid "Yoro"
+msgstr "جیورو"
+
+msgid "You are already logged in!"
+msgstr "شما قبلا وارد شده اید!"
+
+msgid ""
+"You are using trial version of Digits, please register the plugin using "
+"purchase code or else purchase a license to use the plugin with all of its "
+"features."
+msgstr ""
+"شما از نسخه آزمایشی دیجیتس استفاده می کنید، لطفاً افزونه را با استفاده از کد "
+"خرید ثبت کنید یا در غیراین صورت لایسنسی برای استفاده از افزونه با تمام "
+"ویژگی‌های آن خریداری کنید."
+
+msgid "You can also use user placeholders in redirection."
+msgstr "همچنین می توانید از متغیرهای کاربر در ریدایرکت استفاده کنید."
+
+msgid ""
+"You can design your forms visually with our <span>Drag and Drop Builder</span>"
+msgstr ""
+"با <span>Drag and Drop Builder</span> ما می توانید فرم های خود را به صورت بصری "
+"طراحی کنید"
+
+msgid ""
+"You can even use our Elementor widgets in any of your existing WordPress pages "
+"too :)"
+msgstr ""
+"شما حتی می توانید از ویجت های Elementor ما در هر یک از صفحات موجود وردپرس خود "
+"نیز استفاده کنید :)"
+
+msgid "You can only use your existing forms if"
+msgstr "شما فقط می توانید از فرم های موجود خود استفاده کنید اگر"
+
+msgid "You cannot have multiple devices!"
+msgstr "شما نمی‌توانید چندین دستگاه داشته باشید!"
+
+msgid "You don't have permission to setup keys!"
+msgstr "شما اجازه تنظیم کلیدها را ندارید!"
+
+msgid ""
+"You had already authenticated device, please check device setup wizard for "
+"more info!"
+msgstr ""
+"شما قبلاً دستگاه را تأیید کرده اید، لطفاً برای اطلاعات بیشتر، راه‌انداز تنظیم "
+"دستگاه را بررسی کنید!"
+
+msgid "You have already logged in via this QR Code!"
+msgstr "شما قبلاً از طریق این کد QR وارد شده اید!"
+
+msgid ""
+"You left your Digits plugin configuration in the middle, resume it to setup "
+"the plugin."
+msgstr ""
+"شما ویزارد نصب سریع دیجیتس را انجام نداده اید، اگر تمایل به انجام آن دارید روی "
+"ادامه کلیک کنید."
+
+msgid "You need to first disable 3-Factor Authentication!"
+msgstr "ابتدا باید احراز هویت 3-مرحله ای را غیرفعال کنید!"
+
+msgid "You need to verify your email before you can access your account."
+msgstr "قبل از دسترسی به حساب خود، باید ایمیل خود را تأیید کنید."
+
+msgid "You should have paid <span>%s</span> plan to use this."
+msgstr "شما باید از سامانه <span>%s</span> پنل پیامکی داشته باشید ."
+
+msgid "You will be able to use the same device for login in future"
+msgstr "در آینده می توانید از همان دستگاه برای ورود استفاده کنید"
+
+msgid "You've successfully added %s!"
+msgstr "شما با موفقیت %s را اضافه کردید!"
+
+msgid "You've successfully enabled 2FA App!"
+msgstr "شما با موفقیت اپ 2FA را فعال کردید!"
+
+msgid "You've successfully registered device!"
+msgstr "شما با موفقیت دستگاه را ثبت کردید!"
+
+msgid "You've successfully removed 2FA App!"
+msgstr "شما با موفقیت برنامه احرازهویت2مرحله‌ای را حذف کردید!"
+
+msgid "Your Email Address"
+msgstr "آدرس ایمیل شما"
+
+msgid "Your Phone Number"
+msgstr "شماره تلفن شما"
+
+msgid "Your current password is incorrect."
+msgstr "رمز عبور فعلی شما اشتباه است."
+
+msgid ""
+"Your password reset link appears to be invalid. Please request a new link."
+msgstr ""
+"به نظر می رسد پیوند تنظیم مجدد گذرواژه شما نامعتبر است. لطفاً یک لینک جدید "
+"درخواست کنید."
+
+msgid "Your password reset link has expired. Please request a new link."
+msgstr ""
+"به نظر می رسد لینک بازنشانی رمز عبور شما منقضی شده است. لطفاً یک لینک جدید "
+"درخواست کنید."
+
+msgid "Your secure one time code for {{sitename}} is"
+msgstr "کد یکبار‌مصرف امن شما برای {{sitename}}"
+
+msgid "Yozgat"
+msgstr "یوزگات"
+
+msgid "Yucatán"
+msgstr "یوکاتان"
+
+msgid "Yukon Territory"
+msgstr "قلمرو یوکان"
+
+msgid "Yuma"
+msgstr "یوما"
+
+msgid "Yumbe"
+msgstr "یومب"
+
+msgid "Yunnan / 云南"
+msgstr "یوننان (Yunnan / 云南)"
+
+msgid "Zacapa"
+msgstr "زاکاپا"
+
+msgid "Zacatecas"
+msgstr "Zacatecas"
+
+msgid "Zaire"
+msgstr "زئیر"
+
+msgid "Zakarpattia"
+msgstr "زاکارپاتیا"
+
+msgid "Zala"
+msgstr "زالا"
+
+msgid "Zambales"
+msgstr "سامبالس"
+
+msgid "Zambezi"
+msgstr "زامبزی"
+
+msgid "Zamboanga Sibugay"
+msgstr "سامبوانگا سیبوگی"
+
+msgid "Zamboanga del Norte"
+msgstr "سامبوانگا شمالی"
+
+msgid "Zamboanga del Sur"
+msgstr "سامبوانگا جنوبی"
+
+msgid "Zambézia"
+msgstr "Zambézia"
+
+msgid "Zamfara"
+msgstr "زامبارا"
+
+msgid "Zamora"
+msgstr "زامورا"
+
+msgid "Zamora-Chinchipe"
+msgstr "زامورا - چینچیپه"
+
+msgid "Zanjan (زنجان)"
+msgstr "زنجان"
+
+msgid "Zanzibar North"
+msgstr "زنگبار شمال"
+
+msgid "Zanzibar South"
+msgstr "زنگبار جنوبی"
+
+msgid "Zanzibar West"
+msgstr "زنگبار غرب"
+
+msgid "Zaporizhzhya"
+msgstr "زاپوریژژیا"
+
+msgid "Zaragoza"
+msgstr "ساراگوزا"
+
+msgid "Zhejiang / 浙江"
+msgstr "ژجیانگ / 浙江"
+
+msgid "Zhytomyrshchyna"
+msgstr "ژیتومیرشچینا"
+
+msgid "Ziguinchor"
+msgstr "زی گوین شو"
+
+msgid "Zombo"
+msgstr "زامبو"
+
+msgid "Zonguldak"
+msgstr "زونگولداغ"
+
+msgid "Zou"
+msgstr "زو"
+
+msgid "Zug"
+msgstr "زوگ"
+
+msgid "Zulia"
+msgstr "زولیا"
+
+msgid "Zürich"
+msgstr "Zürich"
+
+msgid "[%s] Password Reset"
+msgstr "[%s] تنظیم مجدد رمز عبور"
+
+msgid "characters"
+msgstr "کاراکترها"
+
+msgctxt "district"
+msgid "Belgrade"
+msgstr "بلگراد"
+
+msgctxt "district"
+msgid "Bor"
+msgstr "بور"
+
+msgctxt "district"
+msgid "Braničevo"
+msgstr "برانیچوو"
+
+msgctxt "district"
+msgid "Central Banat"
+msgstr "بنات مرکزی"
+
+msgctxt "district"
+msgid "Danube"
+msgstr "دانوب"
+
+msgctxt "district"
+msgid "Jablanica"
+msgstr "جابلانیکا"
+
+msgctxt "district"
+msgid "Kolubara"
+msgstr "کولوبارا"
+
+msgctxt "district"
+msgid "Kosovo"
+msgstr "کوزوو"
+
+msgctxt "district"
+msgid "Kosovo-Metohija"
+msgstr "کوزوو-متویژیا"
+
+msgctxt "district"
+msgid "Kosovo-Pomoravlje"
+msgstr "کوزوو-پوموراولیه"
+
+msgctxt "district"
+msgid "Kosovska Mitrovica"
+msgstr "کوسووسکا میتروویکا"
+
+msgctxt "district"
+msgid "Mačva"
+msgstr "ماچوا"
+
+msgctxt "district"
+msgid "Morava"
+msgstr "موراوا"
+
+msgctxt "district"
+msgid "Nišava"
+msgstr "نیشاوا"
+
+msgctxt "district"
+msgid "North Banat"
+msgstr "بنات شمالی"
+
+msgctxt "district"
+msgid "North Bačka"
+msgstr "باچکا شمالی"
+
+msgctxt "district"
+msgid "Peć"
+msgstr "پچ"
+
+msgctxt "district"
+msgid "Pirot"
+msgstr "پیروت"
+
+msgctxt "district"
+msgid "Pomoravlje"
+msgstr "پوموراولژه"
+
+msgctxt "district"
+msgid "Prizren"
+msgstr "پریزرن"
+
+msgctxt "district"
+msgid "Pčinja"
+msgstr "پچینجا"
+
+msgctxt "district"
+msgid "Rasina"
+msgstr "راسینا"
+
+msgctxt "district"
+msgid "Raška"
+msgstr "راشکا"
+
+msgctxt "district"
+msgid "South Banat"
+msgstr "بنات جنوبی"
+
+msgctxt "district"
+msgid "South Bačka"
+msgstr "باچکای جنوبی"
+
+msgctxt "district"
+msgid "Srem"
+msgstr "سرم"
+
+msgctxt "district"
+msgid "Toplica"
+msgstr "توپلیکا"
+
+msgctxt "district"
+msgid "Vojvodina"
+msgstr "وجودینا"
+
+msgctxt "district"
+msgid "West Bačka"
+msgstr "باچکای غربی"
+
+msgctxt "district"
+msgid "Zaječar"
+msgstr "زاجچار"
+
+msgctxt "district"
+msgid "Zlatibor"
+msgstr "زلاتیبور"
+
+msgctxt "district"
+msgid "Šumadija"
+msgstr "شومادیجا"
+
+msgid "https://digits.unitedover.com"
+msgstr "https://digits.unitedover.com"
+
+msgid "https://www.unitedover.com/"
+msgstr "https://www.unitedover.com/"
+
+msgid "is a required field."
+msgstr "یک فیلد ضروری است."
+
+msgid "or"
+msgstr "یا"
+
+msgid "reCAPTCHA"
+msgstr "reCAPTCHA"
+
+msgid "reCAPTCHA Type"
+msgstr "نوع reCAPTCHA"
+
+msgid "seconds wait time after 1<sup>st</sup> attempt"
+msgstr "ثانیه زمان انتظار پس از 1<sup>مین</sup> تلاش"
+
+msgid "seconds wait time after 2<sup>nd</sup> attempt"
+msgstr "مدت زمان انتظار به ثانیه پس از <sup>2</sup> تلاش"
+
+msgid "seconds wait time after 3<sup>rd</sup> attempt"
+msgstr "مدت زمان انتظار به ثانیه بعد از <sup>سومین</sup> تلاش"
+
+msgid "skip for now (you can return back later)"
+msgstr "فعلاً رد شوید (می‌توانید بعداً برگردید)"
+
+msgid "test"
+msgstr "تست"
+
+msgctxt "the plugin title"
+msgid "A new version of the %s plugin is available."
+msgstr "نسخه جدید افزونه %s در دسترس است."
+
+msgctxt "the plugin title"
+msgid "Could not determine if updates are available for %s."
+msgstr "نمی توان تعیین کرد که آیا به روزرسانی برای %s در دسترس است یا خیر."
+
+msgctxt "the plugin title"
+msgid "The %s plugin is up to date."
+msgstr "افزونه %s به روز است."
+
+msgid "v3"
+msgstr "ریکپچا نسخه 3"
+
+msgid "width"
+msgstr "عرض"
+
+msgid "with + and country code"
+msgstr "با + و کد کشور"
+
+msgid "with only country code"
+msgstr "فقط کد کشور"
+
+msgid "without country code"
+msgstr "بدون کد کشور"
+
+msgid "Ávila"
+msgstr "آویلا"
+
+msgid "Çanakkale"
+msgstr "چاناق قلعه"
+
+msgid "Çankırı"
+msgstr "چانکری"
+
+msgid "Çorum"
+msgstr "چوروم"
+
+msgid "Ñeembucú"
+msgstr "میئمبوکو"
+
+msgid "Ñuble"
+msgstr "Ñuble"
+
+msgid "İstanbul"
+msgstr "استانبول"
+
+msgid "İzmir"
+msgstr "ازمیر"
+
+msgid "İçel"
+msgstr "İçel"
+
+msgid "Şanlıurfa"
+msgstr "شانل اورفا"
+
+msgid "Şırnak"
+msgstr "شیرناک"
+
+msgid "Șoldănești"
+msgstr "شولدنشت"
+
+msgid "Ștefan Vodă"
+msgstr "اشتفان وودا"
+
+msgid "تست فونت "
+msgstr "تست فونت "
+
+msgid "تنظیمات فونت (ابزار وردپرس)"
+msgstr "تنظیمات فونت (ابزار وردپرس)"
+
+msgid "Customer"
+msgstr "مشتری"
+
+msgid "Administrator"
+msgstr "مدیر"
+
+msgid "Editor"
+msgstr "ویرایشگر"
+
+msgid "Author"
+msgstr "نویسنده"
+
+msgid "Shop manager"
+msgstr "مدیر فروشگاه"
